@@ -19,7 +19,7 @@
             "last_commit": "2025-07-12T09:38:17Z",
             "owner": "zubair-irshad",
             "repo": "Awesome-Implicit-NeRF-Robotics",
-            "stars": 1566
+            "stars": 1567
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2023-10-04T11:35:56Z",
             "owner": "zju3dv",
             "repo": "NeuralRecon",
-            "stars": 2272
+            "stars": 2271
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2024-06-19T09:46:15Z",
             "owner": "spla-tam",
             "repo": "SplaTAM",
-            "stars": 2176
+            "stars": 2178
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2024-08-07T14:15:29Z",
             "owner": "muskie82",
             "repo": "MonoGS",
-            "stars": 2136
+            "stars": 2137
           }
         },
         {
@@ -448,7 +448,7 @@
             "last_commit": "2024-06-12T07:53:51Z",
             "owner": "HuajianUP",
             "repo": "Photo-SLAM",
-            "stars": 753
+            "stars": 754
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-01-06T00:16:43Z",
             "owner": "GradientSpaces",
             "repo": "WildGS-SLAM",
-            "stars": 639
+            "stars": 641
           }
         },
         {
@@ -490,7 +490,7 @@
             "last_commit": "2025-11-20T08:23:53Z",
             "owner": "ShuhongLL",
             "repo": "SGS-SLAM",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2025-12-07T10:13:44Z",
             "owner": "VladimirYugay",
             "repo": "MAGiC-SLAM",
-            "stars": 338
+            "stars": 339
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2026-07-21T14:10:10Z",
             "owner": "Fudan-MAGIC-Lab",
             "repo": "VINGS-Mono",
-            "stars": 299
+            "stars": 298
           }
         },
         {
@@ -574,7 +574,7 @@
             "last_commit": "2025-05-12T12:50:24Z",
             "owner": "Willyzw",
             "repo": "HI-SLAM2",
-            "stars": 261
+            "stars": 262
           }
         },
         {
@@ -644,7 +644,7 @@
             "last_commit": "2025-05-27T21:34:56Z",
             "owner": "muskie82",
             "repo": "4dtam",
-            "stars": 179
+            "stars": 180
           }
         },
         {
@@ -798,7 +798,7 @@
             "last_commit": "2026-03-30T02:31:20Z",
             "owner": "IRMVLab",
             "repo": "SemGauss-SLAM",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2025-09-08T13:54:13Z",
             "owner": "kmk97",
             "repo": "DGS-SLAM",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -854,7 +854,7 @@
             "last_commit": "2026-03-07T15:52:48Z",
             "owner": "BlarkLee",
             "repo": "DynaGSLAM_official",
-            "stars": 66
+            "stars": 67
           }
         },
         {
@@ -1376,7 +1376,7 @@
             "last_commit": "2026-06-14T17:16:34Z",
             "owner": "anhthuan1999",
             "repo": "varsplat",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -1514,7 +1514,7 @@
             "last_commit": "2026-06-24T09:51:48Z",
             "owner": "Lab-of-AI-and-Robotics",
             "repo": "LiDAR-GS-SLAM",
-            "stars": 25
+            "stars": 26
           }
         }
       ],
@@ -1581,7 +1581,7 @@
             "last_commit": "2026-05-16T03:31:37Z",
             "owner": "dtc111111",
             "repo": "MSN-SLAM",
-            "stars": 1
+            "stars": 3
           }
         }
       ],
@@ -1831,7 +1831,7 @@
             "last_commit": "2025-06-25T10:59:30Z",
             "owner": "dmar-bonn",
             "repo": "active-gs",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -2117,7 +2117,7 @@
             "last_commit": "2025-06-14T13:19:08Z",
             "owner": "zju3dv",
             "repo": "STDLoc",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -2200,9 +2200,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:24.735Z",
+    "last_updated": "2026-08-14T00:01:07.734Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
-    "original_repository_sha": "7410a181931de90d74ddab1944e029e5494b2c1a",
+    "original_repository_sha": "37f7b2c57bf2f8ce6ef3e15043bfcf28dc303694",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
