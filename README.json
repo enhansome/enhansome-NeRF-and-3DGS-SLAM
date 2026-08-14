@@ -139,7 +139,7 @@
             "last_commit": "2023-10-04T11:35:56Z",
             "owner": "zju3dv",
             "repo": "NeuralRecon",
-            "stars": 2271
+            "stars": 2272
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-07-16T09:35:21Z",
             "owner": "hku-mars",
             "repo": "M2Mapping",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2024-08-07T14:15:29Z",
             "owner": "muskie82",
             "repo": "MonoGS",
-            "stars": 2137
+            "stars": 2138
           }
         },
         {
@@ -448,7 +448,7 @@
             "last_commit": "2024-06-12T07:53:51Z",
             "owner": "HuajianUP",
             "repo": "Photo-SLAM",
-            "stars": 754
+            "stars": 755
           }
         },
         {
@@ -873,20 +873,6 @@
         },
         {
           "node_type": "item",
-          "title": "GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information, RAL, 2025. [Paper",
-          "description": "] [Website] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-08-12T11:47:32Z",
-            "owner": "Aczheng-cai",
-            "repo": "GSORB-SLAM",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline, IROS, 2025. [Paper",
           "description": "] [Code]",
           "children": [],
@@ -896,6 +882,20 @@
             "last_commit": "2025-08-11T04:05:20Z",
             "owner": "wangyr22",
             "repo": "DepthGS",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information, RAL, 2025. [Paper",
+          "description": "] [Website] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-12T11:47:32Z",
+            "owner": "Aczheng-cai",
+            "repo": "GSORB-SLAM",
             "stars": 58
           }
         },
@@ -980,7 +980,7 @@
             "last_commit": "2026-07-13T08:49:04Z",
             "owner": "UMN-ZhaoLab",
             "repo": "RTGS",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-08-08T08:39:35Z",
             "owner": "APRIL-ZJU",
             "repo": "Gaussian-LIC",
-            "stars": 595
+            "stars": 596
           }
         },
         {
@@ -1514,7 +1514,7 @@
             "last_commit": "2026-06-24T09:51:48Z",
             "owner": "Lab-of-AI-and-Robotics",
             "repo": "LiDAR-GS-SLAM",
-            "stars": 26
+            "stars": 31
           }
         }
       ],
@@ -2061,7 +2061,7 @@
             "last_commit": "2026-01-27T19:56:02Z",
             "owner": "be2rlab",
             "repo": "gsplatloc",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -2200,7 +2200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:01:07.734Z",
+    "last_updated": "2026-08-14T23:41:11.800Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_sha": "37f7b2c57bf2f8ce6ef3e15043bfcf28dc303694",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
