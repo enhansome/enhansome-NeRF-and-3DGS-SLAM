@@ -406,7 +406,7 @@
             "last_commit": "2024-06-19T09:46:15Z",
             "owner": "spla-tam",
             "repo": "SplaTAM",
-            "stars": 2178
+            "stars": 2180
           }
         },
         {
@@ -448,7 +448,7 @@
             "last_commit": "2024-06-12T07:53:51Z",
             "owner": "HuajianUP",
             "repo": "Photo-SLAM",
-            "stars": 755
+            "stars": 756
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2024-11-21T18:04:16Z",
             "owner": "yanchi-3dv",
             "repo": "diff-gaussian-rasterization-for-gsslam",
-            "stars": 259
+            "stars": 260
           }
         },
         {
@@ -616,7 +616,7 @@
             "last_commit": "2025-10-18T13:47:47Z",
             "owner": "leaner-forever",
             "repo": "SEGS-SLAM",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-08-08T08:39:35Z",
             "owner": "APRIL-ZJU",
             "repo": "Gaussian-LIC",
-            "stars": 596
+            "stars": 597
           }
         },
         {
@@ -1222,7 +1222,7 @@
             "last_commit": "2026-04-27T08:28:28Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "GS-LIVO",
-            "stars": 473
+            "stars": 474
           }
         },
         {
@@ -1250,7 +1250,7 @@
             "last_commit": "2026-07-17T22:01:51Z",
             "owner": "PRBonn",
             "repo": "PINGS",
-            "stars": 238
+            "stars": 239
           }
         },
         {
@@ -1474,7 +1474,7 @@
             "last_commit": "2026-06-17T05:54:08Z",
             "owner": "qlsinori",
             "repo": "LVGS-SLAM",
-            "stars": 0
+            "stars": 1
           }
         },
         {
@@ -1500,7 +1500,7 @@
             "last_commit": "2025-11-29T11:33:35Z",
             "owner": "rvp-group",
             "repo": "Splat-LOAM",
-            "stars": 201
+            "stars": 203
           }
         },
         {
@@ -2200,7 +2200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:41:11.800Z",
+    "last_updated": "2026-08-15T23:36:21.562Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_sha": "37f7b2c57bf2f8ce6ef3e15043bfcf28dc303694",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
