@@ -33,7 +33,7 @@
             "last_commit": "2026-01-26T05:17:19Z",
             "owner": "dtc111111",
             "repo": "awesome-representation-for-robotics",
-            "stars": 462
+            "stars": 463
           }
         },
         {
@@ -299,7 +299,7 @@
             "last_commit": "2026-03-12T13:22:30Z",
             "owner": "SenseRoboticsLab",
             "repo": "CURL-SLAM",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2025-05-28T08:32:40Z",
             "owner": "gaus-slam",
             "repo": "gaus-slam",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-08-08T08:39:35Z",
             "owner": "APRIL-ZJU",
             "repo": "Gaussian-LIC",
-            "stars": 597
+            "stars": 598
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "last_commit": "2026-05-12T22:16:16Z",
             "owner": "PRBonn",
             "repo": "2DGS-SLAM",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -2200,7 +2200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:36:21.562Z",
+    "last_updated": "2026-08-16T23:36:02.563Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_sha": "37f7b2c57bf2f8ce6ef3e15043bfcf28dc303694",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
