@@ -139,7 +139,7 @@
             "last_commit": "2023-10-04T11:35:56Z",
             "owner": "zju3dv",
             "repo": "NeuralRecon",
-            "stars": 2272
+            "stars": 2273
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2024-06-19T09:46:15Z",
             "owner": "spla-tam",
             "repo": "SplaTAM",
-            "stars": 2180
+            "stars": 2181
           }
         },
         {
@@ -434,7 +434,7 @@
             "last_commit": "2024-07-03T15:01:05Z",
             "owner": "VladimirYugay",
             "repo": "Gaussian-SLAM",
-            "stars": 1179
+            "stars": 1180
           }
         },
         {
@@ -574,7 +574,7 @@
             "last_commit": "2025-05-12T12:50:24Z",
             "owner": "Willyzw",
             "repo": "HI-SLAM2",
-            "stars": 262
+            "stars": 263
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2025-08-08T17:07:51Z",
             "owner": "yanyan-li",
             "repo": "4DGS-SLAM",
-            "stars": 194
+            "stars": 195
           }
         },
         {
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-08-08T08:39:35Z",
             "owner": "APRIL-ZJU",
             "repo": "Gaussian-LIC",
-            "stars": 598
+            "stars": 599
           }
         },
         {
@@ -1500,7 +1500,7 @@
             "last_commit": "2025-11-29T11:33:35Z",
             "owner": "rvp-group",
             "repo": "Splat-LOAM",
-            "stars": 203
+            "stars": 204
           }
         },
         {
@@ -2200,7 +2200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:36:02.563Z",
+    "last_updated": "2026-08-17T23:39:56.679Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_sha": "37f7b2c57bf2f8ce6ef3e15043bfcf28dc303694",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
