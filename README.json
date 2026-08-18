@@ -19,7 +19,7 @@
             "last_commit": "2025-07-12T09:38:17Z",
             "owner": "zubair-irshad",
             "repo": "Awesome-Implicit-NeRF-Robotics",
-            "stars": 1567
+            "stars": 1566
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2023-10-04T11:35:56Z",
             "owner": "zju3dv",
             "repo": "NeuralRecon",
-            "stars": 2273
+            "stars": 2274
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2023-06-26T07:56:43Z",
             "owner": "PRBonn",
             "repo": "ir-mcl",
-            "stars": 141
+            "stars": 140
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2024-06-19T09:46:15Z",
             "owner": "spla-tam",
             "repo": "SplaTAM",
-            "stars": 2181
+            "stars": 2182
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2024-08-07T14:15:29Z",
             "owner": "muskie82",
             "repo": "MonoGS",
-            "stars": 2138
+            "stars": 2139
           }
         },
         {
@@ -532,7 +532,7 @@
             "last_commit": "2025-02-03T17:03:41Z",
             "owner": "GradientSpaces",
             "repo": "LoopSplat",
-            "stars": 394
+            "stars": 395
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2026-07-21T14:10:10Z",
             "owner": "Fudan-MAGIC-Lab",
             "repo": "VINGS-Mono",
-            "stars": 298
+            "stars": 299
           }
         },
         {
@@ -602,7 +602,7 @@
             "last_commit": "2025-11-18T10:02:14Z",
             "owner": "ethz-mrl",
             "repo": "GSFusion",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -1971,7 +1971,7 @@
             "last_commit": "2025-11-18T01:12:15Z",
             "owner": "StanfordMSL",
             "repo": "SousVide",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -2200,9 +2200,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:39:56.679Z",
+    "last_updated": "2026-08-18T23:40:18.711Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
-    "original_repository_sha": "37f7b2c57bf2f8ce6ef3e15043bfcf28dc303694",
+    "original_repository_sha": "8a024dbb3cc096521389e4361b4ce4be86e5bc89",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
