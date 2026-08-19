@@ -60,7 +60,7 @@
             "last_commit": "2024-03-08T20:57:52Z",
             "owner": "Xharlie",
             "repo": "pointnerf",
-            "stars": 1155
+            "stars": 1154
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2025-02-13T01:17:25Z",
             "owner": "zstsandy",
             "repo": "Awesome-3D-Gaussian-Splatting-in-Robotics",
-            "stars": 120
+            "stars": 121
           }
         }
       ],
@@ -365,7 +365,7 @@
                 "last_commit": "2024-03-19T04:00:27Z",
                 "owner": "ToniRV",
                 "repo": "NeRF-SLAM",
-                "stars": 1266
+                "stars": 1265
               }
             },
             {
@@ -1937,7 +1937,7 @@
                 "last_commit": "2026-07-13T08:49:04Z",
                 "owner": "UMN-ZhaoLab",
                 "repo": "RTGS",
-                "stars": 33
+                "stars": 34
               }
             },
             {
@@ -2409,7 +2409,7 @@
                 "last_commit": "2024-10-16T00:57:46Z",
                 "owner": "VITA-Group",
                 "repo": "MM3DGS-SLAM",
-                "stars": 214
+                "stars": 215
               }
             },
             {
@@ -3408,7 +3408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:11:52.950Z",
+    "last_updated": "2026-08-19T23:40:33.970Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_id": 575786486,
     "original_repository_sha": "8a024dbb3cc096521389e4361b4ce4be86e5bc89",
