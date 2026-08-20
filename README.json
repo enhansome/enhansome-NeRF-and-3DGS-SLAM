@@ -30,7 +30,7 @@
             "last_commit": "2025-11-24T15:26:53Z",
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3271
+            "stars": 3272
           }
         },
         {
@@ -395,7 +395,7 @@
                 "last_commit": "2023-02-14T17:49:43Z",
                 "owner": "facebookresearch",
                 "repo": "iSDF",
-                "stars": 451
+                "stars": 450
               }
             },
             {
@@ -425,7 +425,7 @@
                 "last_commit": "2026-07-01T18:56:21Z",
                 "owner": "kxhit",
                 "repo": "vMAP",
-                "stars": 373
+                "stars": 372
               }
             },
             {
@@ -455,7 +455,7 @@
                 "last_commit": "2025-02-24T09:52:43Z",
                 "owner": "zju3dv",
                 "repo": "Vox-Fusion",
-                "stars": 281
+                "stars": 280
               }
             },
             {
@@ -1077,7 +1077,7 @@
                 "last_commit": "2025-09-26T17:54:32Z",
                 "owner": "PRBonn",
                 "repo": "PIN_SLAM",
-                "stars": 623
+                "stars": 621
               }
             },
             {
@@ -1092,7 +1092,7 @@
                 "last_commit": "2024-01-05T02:52:05Z",
                 "owner": "JunyuanDeng",
                 "repo": "NeRF-LOAM",
-                "stars": 557
+                "stars": 556
               }
             },
             {
@@ -1107,7 +1107,7 @@
                 "last_commit": "2024-01-05T14:02:10Z",
                 "owner": "PRBonn",
                 "repo": "SHINE_mapping",
-                "stars": 489
+                "stars": 490
               }
             },
             {
@@ -1322,7 +1322,7 @@
                 "last_commit": "2024-06-19T09:46:15Z",
                 "owner": "spla-tam",
                 "repo": "SplaTAM",
-                "stars": 2182
+                "stars": 2183
               }
             },
             {
@@ -1337,7 +1337,7 @@
                 "last_commit": "2024-08-07T14:15:29Z",
                 "owner": "muskie82",
                 "repo": "MonoGS",
-                "stars": 2140
+                "stars": 2142
               }
             },
             {
@@ -1352,7 +1352,7 @@
                 "last_commit": "2024-07-03T15:01:05Z",
                 "owner": "VladimirYugay",
                 "repo": "Gaussian-SLAM",
-                "stars": 1180
+                "stars": 1181
               }
             },
             {
@@ -1367,7 +1367,7 @@
                 "last_commit": "2024-06-12T07:53:51Z",
                 "owner": "HuajianUP",
                 "repo": "Photo-SLAM",
-                "stars": 756
+                "stars": 758
               }
             },
             {
@@ -1382,7 +1382,7 @@
                 "last_commit": "2026-01-06T00:16:43Z",
                 "owner": "GradientSpaces",
                 "repo": "WildGS-SLAM",
-                "stars": 643
+                "stars": 642
               }
             },
             {
@@ -1487,7 +1487,7 @@
                 "last_commit": "2026-07-21T14:10:10Z",
                 "owner": "Fudan-MAGIC-Lab",
                 "repo": "VINGS-Mono",
-                "stars": 299
+                "stars": 298
               }
             },
             {
@@ -1622,7 +1622,7 @@
                 "last_commit": "2025-06-12T20:07:12Z",
                 "owner": "DengKaiCQ",
                 "repo": "GigaSLAM",
-                "stars": 145
+                "stars": 147
               }
             },
             {
@@ -1877,7 +1877,7 @@
                 "last_commit": "2025-03-03T08:34:21Z",
                 "owner": "lastbasket",
                 "repo": "Endo-2DTAM",
-                "stars": 56
+                "stars": 57
               }
             },
             {
@@ -2302,6 +2302,21 @@
             },
             {
               "node_type": "item",
+              "title": "TGS-SLAM: Tri-plane Gaussian Splatting for Semantic SLAM, RAL, 2026. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1221454153,
+                "language": "Python",
+                "last_commit": "2026-07-13T03:57:13Z",
+                "owner": "shand001",
+                "repo": "TGS-SLAM",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
               "title": "GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition, IROS, 2026. [Paper",
               "description": "] [Website] [Code]",
               "children": [],
@@ -2313,21 +2328,6 @@
                 "owner": "pmermigkas",
                 "repo": "GLAM-SLAM",
                 "stars": 7
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "TGS-SLAM: Tri-plane Gaussian Splatting for Semantic SLAM, RAL, 2026. [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1221454153,
-                "language": "Python",
-                "last_commit": "2026-07-13T03:57:13Z",
-                "owner": "shand001",
-                "repo": "TGS-SLAM",
-                "stars": 6
               }
             }
           ],
@@ -2349,7 +2349,7 @@
                 "last_commit": "2026-08-08T08:39:35Z",
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 600
+                "stars": 611
               }
             },
             {
@@ -2364,7 +2364,7 @@
                 "last_commit": "2026-04-27T08:28:28Z",
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "GS-LIVO",
-                "stars": 475
+                "stars": 476
               }
             },
             {
@@ -2379,7 +2379,7 @@
                 "last_commit": "2025-12-06T15:20:31Z",
                 "owner": "xieyuser",
                 "repo": "GS-LIVM",
-                "stars": 348
+                "stars": 349
               }
             },
             {
@@ -2394,7 +2394,7 @@
                 "last_commit": "2026-07-17T22:01:51Z",
                 "owner": "PRBonn",
                 "repo": "PINGS",
-                "stars": 239
+                "stars": 240
               }
             },
             {
@@ -2424,7 +2424,7 @@
                 "last_commit": "2026-05-12T22:16:16Z",
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -2938,7 +2938,7 @@
                 "last_commit": "2024-11-11T06:56:51Z",
                 "owner": "XiaohanLei",
                 "repo": "GaussNav",
-                "stars": 218
+                "stars": 219
               }
             },
             {
@@ -2983,7 +2983,7 @@
                 "last_commit": "2024-03-02T23:09:22Z",
                 "owner": "notmahi",
                 "repo": "clip-fields",
-                "stars": 191
+                "stars": 190
               }
             },
             {
@@ -3028,7 +3028,7 @@
                 "last_commit": "2025-04-23T23:36:04Z",
                 "owner": "chengine",
                 "repo": "splatnav",
-                "stars": 133
+                "stars": 135
               }
             },
             {
@@ -3290,7 +3290,7 @@
                 "last_commit": "2023-07-04T08:08:20Z",
                 "owner": "TencentYoutuResearch",
                 "repo": "NeRF-Loc",
-                "stars": 117
+                "stars": 116
               }
             },
             {
@@ -3408,7 +3408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:40:33.970Z",
+    "last_updated": "2026-08-20T23:42:41.927Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_id": 575786486,
     "original_repository_sha": "8a024dbb3cc096521389e4361b4ce4be86e5bc89",
