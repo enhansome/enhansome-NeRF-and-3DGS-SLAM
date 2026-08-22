@@ -30,7 +30,7 @@
             "last_commit": "2025-11-24T15:26:53Z",
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3277
+            "stars": 3278
           }
         },
         {
@@ -1092,7 +1092,7 @@
                 "last_commit": "2024-01-05T02:52:05Z",
                 "owner": "JunyuanDeng",
                 "repo": "NeRF-LOAM",
-                "stars": 556
+                "stars": 557
               }
             },
             {
@@ -1322,7 +1322,7 @@
                 "last_commit": "2024-06-19T09:46:15Z",
                 "owner": "spla-tam",
                 "repo": "SplaTAM",
-                "stars": 2183
+                "stars": 2184
               }
             },
             {
@@ -1957,6 +1957,21 @@
             },
             {
               "node_type": "item",
+              "title": "GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians, RAL, 2025. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757780392,
+                "language": null,
+                "last_commit": "2024-11-27T16:48:59Z",
+                "owner": "mit-lean",
+                "repo": "gevo",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
               "title": "MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization, RAL, 2024. [Paper",
               "description": "] [Code]",
               "children": [],
@@ -1983,21 +1998,6 @@
                 "owner": "NAIL-HNU",
                 "repo": "MemGS_SLAM",
                 "stars": 27
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians, RAL, 2025. [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 757780392,
-                "language": null,
-                "last_commit": "2024-11-27T16:48:59Z",
-                "owner": "mit-lean",
-                "repo": "gevo",
-                "stars": 26
               }
             },
             {
@@ -2349,7 +2349,7 @@
                 "last_commit": "2026-08-08T08:39:35Z",
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 611
+                "stars": 612
               }
             },
             {
@@ -2656,7 +2656,7 @@
                 "last_commit": "2025-11-29T11:33:35Z",
                 "owner": "rvp-group",
                 "repo": "Splat-LOAM",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -3408,10 +3408,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:42:03.006Z",
+    "last_updated": "2026-08-22T23:37:55.563Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_id": 575786486,
-    "original_repository_sha": "17b1d9f4aff8e4d2f5f751dba430aa67d63a2748",
+    "original_repository_sha": "b08b7a0c0ca8628d19f592d2c90e9753dc0fde2b",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
