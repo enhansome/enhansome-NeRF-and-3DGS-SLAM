@@ -45,7 +45,7 @@
             "last_commit": "2024-12-17T10:42:50Z",
             "owner": "autonomousvision",
             "repo": "mip-splatting",
-            "stars": 1465
+            "stars": 1466
           }
         },
         {
@@ -1532,7 +1532,7 @@
                 "last_commit": "2025-11-18T10:02:14Z",
                 "owner": "ethz-mrl",
                 "repo": "GSFusion",
-                "stars": 232
+                "stars": 233
               }
             },
             {
@@ -2027,7 +2027,7 @@
                 "last_commit": "2026-04-16T17:30:36Z",
                 "owner": "leggedrobotics",
                 "repo": "DiskChunGS",
-                "stars": 21
+                "stars": 23
               }
             },
             {
@@ -3408,10 +3408,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:37:55.563Z",
+    "last_updated": "2026-08-23T23:37:47.240Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_id": 575786486,
-    "original_repository_sha": "b08b7a0c0ca8628d19f592d2c90e9753dc0fde2b",
+    "original_repository_sha": "856c9f9cf18403f88ff794eead5c27ea3cd16d6f",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
