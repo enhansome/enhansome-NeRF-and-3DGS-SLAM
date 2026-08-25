@@ -32,7 +32,7 @@
                 "last_commit": "2025-04-12T16:26:12Z",
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10928
+                "stars": 10927
               }
             },
             {
@@ -437,7 +437,7 @@
                     "last_commit": "2024-10-22T14:37:05Z",
                     "owner": "eriksandstroem",
                     "repo": "Point-SLAM",
-                    "stars": 485
+                    "stars": 486
                   }
                 },
                 {
@@ -1395,7 +1395,7 @@
                     "last_commit": "2024-08-07T14:15:29Z",
                     "owner": "muskie82",
                     "repo": "MonoGS",
-                    "stars": 2147
+                    "stars": 2148
                   }
                 },
                 {
@@ -2085,7 +2085,7 @@
                     "last_commit": "2026-04-16T17:30:36Z",
                     "owner": "leggedrobotics",
                     "repo": "DiskChunGS",
-                    "stars": 23
+                    "stars": 24
                   }
                 },
                 {
@@ -3516,7 +3516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:39:52.394Z",
+    "last_updated": "2026-08-25T06:00:31.623Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_id": 575786486,
     "original_repository_sha": "856c9f9cf18403f88ff794eead5c27ea3cd16d6f",
