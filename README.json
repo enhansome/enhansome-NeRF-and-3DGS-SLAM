@@ -11,10 +11,10 @@
             "archived": false,
             "id": 575786486,
             "language": null,
-            "last_commit": "2026-08-23T08:59:59Z",
+            "last_commit": "2026-08-25T07:20:26Z",
             "owner": "3D-Vision-World",
             "repo": "awesome-NeRF-and-3DGS-SLAM",
-            "stars": 2107
+            "stars": 2109
           },
           "title": "Please feel free to send me pull requests or email to add papers!"
         },
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 792627308,
                 "language": "Python",
-                "last_commit": "2025-11-24T15:26:53Z",
+                "last_commit": "2026-08-25T18:36:57Z",
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
                 "stars": 3278
@@ -767,7 +767,7 @@
                     "last_commit": "2025-03-18T11:16:13Z",
                     "owner": "fudan-zvg",
                     "repo": "Rodyn-SLAM",
-                    "stars": 42
+                    "stars": 43
                   }
                 },
                 {
@@ -1395,7 +1395,7 @@
                     "last_commit": "2024-08-07T14:15:29Z",
                     "owner": "muskie82",
                     "repo": "MonoGS",
-                    "stars": 2148
+                    "stars": 2149
                   }
                 },
                 {
@@ -1440,7 +1440,7 @@
                     "last_commit": "2026-01-06T00:16:43Z",
                     "owner": "GradientSpaces",
                     "repo": "WildGS-SLAM",
-                    "stars": 643
+                    "stars": 644
                   }
                 },
                 {
@@ -2407,7 +2407,7 @@
                     "last_commit": "2026-08-08T08:39:35Z",
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 611
+                    "stars": 613
                   }
                 },
                 {
@@ -2497,7 +2497,7 @@
                     "last_commit": "2024-09-17T15:26:44Z",
                     "owner": "sheng00125",
                     "repo": "LIV-GaussMap",
-                    "stars": 156
+                    "stars": 157
                   }
                 },
                 {
@@ -2572,7 +2572,7 @@
                     "last_commit": "2026-07-22T15:32:56Z",
                     "owner": "THU-VCLab",
                     "repo": "WaterSplat-SLAM",
-                    "stars": 37
+                    "stars": 38
                   }
                 },
                 {
@@ -2599,7 +2599,7 @@
                     "archived": false,
                     "id": 1166544228,
                     "language": "Python",
-                    "last_commit": "2026-05-25T08:03:33Z",
+                    "last_commit": "2026-08-25T23:23:00Z",
                     "owner": "SlamMate",
                     "repo": "Unblur-SLAM",
                     "stars": 28
@@ -2729,7 +2729,7 @@
                     "last_commit": "2026-06-24T09:51:48Z",
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "LiDAR-GS-SLAM",
-                    "stars": 32
+                    "stars": 33
                   }
                 }
               ],
@@ -3263,8 +3263,8 @@
                   "repo_info": {
                     "archived": false,
                     "id": 1105183251,
-                    "language": null,
-                    "last_commit": "2025-11-27T08:53:41Z",
+                    "language": "Python",
+                    "last_commit": "2026-08-25T17:40:41Z",
                     "owner": "TianlingXu",
                     "repo": "AREA3D",
                     "stars": 14
@@ -3289,7 +3289,7 @@
                     "last_commit": "2022-10-28T17:04:10Z",
                     "owner": "MIT-SPARK",
                     "repo": "Loc-NeRF",
-                    "stars": 279
+                    "stars": 280
                   }
                 },
                 {
@@ -3498,7 +3498,7 @@
                     "last_commit": "2026-07-16T07:36:12Z",
                     "owner": "hku-mars",
                     "repo": "GS-SDF",
-                    "stars": 528
+                    "stars": 529
                   }
                 }
               ],
@@ -3516,10 +3516,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:31.623Z",
+    "last_updated": "2026-08-25T23:41:06.837Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_id": 575786486,
-    "original_repository_sha": "856c9f9cf18403f88ff794eead5c27ea3cd16d6f",
+    "original_repository_sha": "ef8a86ffd56764b59d4f7438343f17259d51b9e4",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
