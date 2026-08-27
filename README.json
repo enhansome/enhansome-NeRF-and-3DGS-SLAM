@@ -14,7 +14,7 @@
             "last_commit": "2026-08-25T07:20:26Z",
             "owner": "3D-Vision-World",
             "repo": "awesome-NeRF-and-3DGS-SLAM",
-            "stars": 2109
+            "stars": 2110
           },
           "title": "Please feel free to send me pull requests or email to add papers!"
         },
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-25T18:36:57Z",
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3278
+                "stars": 3280
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2026-01-26T05:17:19Z",
                 "owner": "dtc111111",
                 "repo": "awesome-representation-for-robotics",
-                "stars": 463
+                "stars": 464
               }
             },
             {
@@ -407,7 +407,7 @@
                     "last_commit": "2023-03-10T19:06:09Z",
                     "owner": "cvg",
                     "repo": "nice-slam",
-                    "stars": 1597
+                    "stars": 1596
                   }
                 },
                 {
@@ -527,7 +527,7 @@
                     "last_commit": "2025-12-10T06:08:43Z",
                     "owner": "DrLi-Ming",
                     "repo": "DDN-SLAM",
-                    "stars": 203
+                    "stars": 204
                   }
                 },
                 {
@@ -1164,7 +1164,7 @@
                     "last_commit": "2024-01-05T14:02:10Z",
                     "owner": "PRBonn",
                     "repo": "SHINE_mapping",
-                    "stars": 490
+                    "stars": 491
                   }
                 },
                 {
@@ -1380,7 +1380,7 @@
                     "last_commit": "2024-06-19T09:46:15Z",
                     "owner": "spla-tam",
                     "repo": "SplaTAM",
-                    "stars": 2185
+                    "stars": 2186
                   }
                 },
                 {
@@ -1410,7 +1410,7 @@
                     "last_commit": "2024-07-03T15:01:05Z",
                     "owner": "VladimirYugay",
                     "repo": "Gaussian-SLAM",
-                    "stars": 1181
+                    "stars": 1182
                   }
                 },
                 {
@@ -1440,7 +1440,7 @@
                     "last_commit": "2026-01-06T00:16:43Z",
                     "owner": "GradientSpaces",
                     "repo": "WildGS-SLAM",
-                    "stars": 644
+                    "stars": 645
                   }
                 },
                 {
@@ -1545,7 +1545,7 @@
                     "last_commit": "2026-07-21T14:10:10Z",
                     "owner": "Fudan-MAGIC-Lab",
                     "repo": "VINGS-Mono",
-                    "stars": 299
+                    "stars": 300
                   }
                 },
                 {
@@ -1665,7 +1665,7 @@
                     "last_commit": "2025-05-28T08:32:40Z",
                     "owner": "gaus-slam",
                     "repo": "gaus-slam",
-                    "stars": 161
+                    "stars": 162
                   }
                 },
                 {
@@ -2407,7 +2407,7 @@
                     "last_commit": "2026-08-08T08:39:35Z",
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 613
+                    "stars": 617
                   }
                 },
                 {
@@ -2422,7 +2422,7 @@
                     "last_commit": "2026-04-27T08:28:28Z",
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "GS-LIVO",
-                    "stars": 476
+                    "stars": 477
                   }
                 },
                 {
@@ -2482,7 +2482,7 @@
                     "last_commit": "2026-05-12T22:16:16Z",
                     "owner": "PRBonn",
                     "repo": "2DGS-SLAM",
-                    "stars": 161
+                    "stars": 162
                   }
                 },
                 {
@@ -2527,7 +2527,7 @@
                     "last_commit": "2026-03-18T11:45:41Z",
                     "owner": "InternRobotics",
                     "repo": "M3",
-                    "stars": 83
+                    "stars": 86
                   }
                 },
                 {
@@ -2599,10 +2599,10 @@
                     "archived": false,
                     "id": 1166544228,
                     "language": "Python",
-                    "last_commit": "2026-08-25T23:23:00Z",
+                    "last_commit": "2026-08-27T02:15:13Z",
                     "owner": "SlamMate",
                     "repo": "Unblur-SLAM",
-                    "stars": 28
+                    "stars": 29
                   }
                 },
                 {
@@ -2637,6 +2637,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "TRGS-SLAM: IMU-Aided Gaussian Splatting SLAM for Blurry, Rolling Shutter, and Noisy Thermal Images, arXiv, 2026. [Paper",
+                  "description": "] [Code] [Website]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1187505098,
+                    "language": "Python",
+                    "last_commit": "2026-03-24T01:53:06Z",
+                    "owner": "umautobots",
+                    "repo": "trgs_slam",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM, arXiv, 2026. [Paper",
                   "description": "] [Code]",
                   "children": [],
@@ -2648,21 +2663,6 @@
                     "owner": "lemonci",
                     "repo": "coko-slam",
                     "stars": 12
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "TRGS-SLAM: IMU-Aided Gaussian Splatting SLAM for Blurry, Rolling Shutter, and Noisy Thermal Images, arXiv, 2026. [Paper",
-                  "description": "] [Code] [Website]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 1187505098,
-                    "language": "Python",
-                    "last_commit": "2026-03-24T01:53:06Z",
-                    "owner": "umautobots",
-                    "repo": "trgs_slam",
-                    "stars": 11
                   }
                 },
                 {
@@ -2729,7 +2729,7 @@
                     "last_commit": "2026-06-24T09:51:48Z",
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "LiDAR-GS-SLAM",
-                    "stars": 33
+                    "stars": 34
                   }
                 }
               ],
@@ -3087,7 +3087,7 @@
                     "last_commit": "2025-04-23T23:36:04Z",
                     "owner": "chengine",
                     "repo": "splatnav",
-                    "stars": 135
+                    "stars": 136
                   }
                 },
                 {
@@ -3264,7 +3264,7 @@
                     "archived": false,
                     "id": 1105183251,
                     "language": "Python",
-                    "last_commit": "2026-08-25T17:40:41Z",
+                    "last_commit": "2026-08-26T15:23:56Z",
                     "owner": "TianlingXu",
                     "repo": "AREA3D",
                     "stars": 14
@@ -3516,7 +3516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:41:06.837Z",
+    "last_updated": "2026-08-27T04:32:29.071Z",
     "original_repository": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
     "original_repository_id": 575786486,
     "original_repository_sha": "ef8a86ffd56764b59d4f7438343f17259d51b9e4",
