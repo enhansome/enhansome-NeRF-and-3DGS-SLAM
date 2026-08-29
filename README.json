@@ -9,12 +9,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
+            "homepage": null,
             "id": 575786486,
             "language": null,
-            "last_commit": "2026-08-27T07:56:40Z",
+            "license": null,
+            "last_commit": "2026-08-28T18:53:02Z",
+            "open_issues": 0,
             "owner": "3D-Vision-World",
             "repo": "awesome-NeRF-and-3DGS-SLAM",
-            "stars": 2111
+            "stars": 2112,
+            "topics": [
+              "3dgs",
+              "awesome",
+              "gaussiansplatting",
+              "lidar-slam",
+              "nerf",
+              "robotics",
+              "slam",
+              "vslam"
+            ]
           },
           "title": "Please feel free to send me pull requests or email to add papers!",
           "first_seen": "2026-08-28T06:57:01.585Z"
@@ -28,12 +42,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for NeRF (Neural Radiance Fields)",
+                "homepage": "http://tancik.com/nerf",
                 "id": 248381700,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-04-12T16:26:12Z",
+                "open_issues": 121,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10927
+                "stars": 10926,
+                "topics": [
+                  "nerf",
+                  "neural-radiance-fields"
+                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -44,12 +66,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+                "homepage": null,
                 "id": 516904877,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-08T20:14:39Z",
+                "open_issues": 105,
                 "owner": "google-research",
                 "repo": "multinerf",
-                "stars": 3808
+                "stars": 3808,
+                "topics": [
+                  "nerf",
+                  "neural-radiance-fields"
+                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -60,12 +90,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+                "homepage": "https://surfsplatting.github.io",
                 "id": 792627308,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T18:36:57Z",
+                "open_issues": 127,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3281
+                "stars": 3282,
+                "topics": [
+                  "gaussian-splatting",
+                  "novel-view-synthesis",
+                  "surface-reconstruction"
+                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -76,12 +115,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'24 Best Student Paper] Mip-Splatting: Alias-free 3D Gaussian Splatting",
+                "homepage": "https://niujinshuchong.github.io/mip-splatting/",
                 "id": 724227496,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-17T10:42:50Z",
+                "open_issues": 32,
                 "owner": "autonomousvision",
                 "repo": "mip-splatting",
-                "stars": 1467
+                "stars": 1467,
+                "topics": [
+                  "3d-reconstruction",
+                  "anti-aliasing",
+                  "guassian-splatting",
+                  "nerf",
+                  "novel-view-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -92,12 +142,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Point-NeRF: Point-based Neural Radiance Fields",
+                "homepage": null,
                 "id": 458356607,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-08T20:57:52Z",
+                "open_issues": 72,
                 "owner": "Xharlie",
                 "repo": "pointnerf",
-                "stars": 1154
+                "stars": 1154,
+                "topics": [
+                  "3d",
+                  "3d-reconstruction",
+                  "cvpr2022",
+                  "differentiable-rendering",
+                  "graphics",
+                  "implicit-functions",
+                  "multiview-stereo",
+                  "mvs",
+                  "nerf",
+                  "neural-radiance-fields",
+                  "neural-renderer",
+                  "neural-rendering",
+                  "point-based-graphics",
+                  "point-cloud",
+                  "radiance-field",
+                  "reconstruction",
+                  "scannet",
+                  "scene-reconstruction",
+                  "tanks-and-temples",
+                  "volume-rendering"
+                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -108,12 +184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast neural radiance field training with free camera trajectories",
+                "homepage": "https://totoro97.github.io/projects/f2-nerf/",
                 "id": 629855279,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-28T09:00:19Z",
+                "open_issues": 86,
                 "owner": "Totoro97",
                 "repo": "f2-nerf",
-                "stars": 938
+                "stars": 938,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -124,12 +205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Original reference implementation of \"EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis\"",
+                "homepage": null,
                 "id": 925473746,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-17T08:39:04Z",
+                "open_issues": 13,
                 "owner": "half-potato",
                 "repo": "ever_training",
-                "stars": 310
+                "stars": 310,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -140,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 477842850,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-05T06:43:05Z",
+                "open_issues": 7,
                 "owner": "yenchenlin",
                 "repo": "iNeRF-public",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -156,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] Pytorch Implementation of SNAKE",
+                "homepage": null,
                 "id": 498706811,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-22T13:23:07Z",
+                "open_issues": 1,
                 "owner": "zhongcl-thu",
                 "repo": "SNAKE",
-                "stars": 211
+                "stars": 211,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -172,12 +268,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch code for ECCV'22 paper. ShAPO: Implicit Representations for Multi-Object Shape, Appearance and Pose Optimization",
+                "homepage": null,
                 "id": 538961231,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-27T18:09:42Z",
+                "open_issues": 10,
                 "owner": "zubair-irshad",
                 "repo": "shapo",
-                "stars": 197
+                "stars": 198,
+                "topics": [
+                  "3d-computer-vision",
+                  "3d-detection",
+                  "3d-vision",
+                  "6dof-pose",
+                  "computer-vision",
+                  "deep-learning",
+                  "implicit-neural-representation",
+                  "implicit-representions",
+                  "neural-fields",
+                  "optimization",
+                  "pose-estimation",
+                  "pytorch",
+                  "robotics",
+                  "scene-understanding",
+                  "shape-reconstruction",
+                  "signed-distance-functions",
+                  "texture-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -188,12 +307,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] Neural-Sim: Learning to Generate Training Data with NeRF",
+                "homepage": null,
                 "id": 516227505,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-02T18:10:19Z",
+                "open_issues": 5,
                 "owner": "gyhandy",
                 "repo": "Neural-Sim-NeRF",
-                "stars": 162
+                "stars": 162,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -204,12 +328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 562981413,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-25T20:54:55Z",
+                "open_issues": 3,
                 "owner": "nerf2nerf",
                 "repo": "nerf2nerf",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -220,12 +349,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 516024604,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-16T00:45:58Z",
+                "open_issues": 1,
                 "owner": "LinHuang17",
                 "repo": "NCF-code",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             }
@@ -243,12 +377,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites",
+                "homepage": null,
                 "id": 501021517,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-12T09:38:17Z",
+                "open_issues": 2,
                 "owner": "zubair-irshad",
                 "repo": "Awesome-Implicit-NeRF-Robotics",
-                "stars": 1566
+                "stars": 1566,
+                "topics": [
+                  "3d-computer-vision",
+                  "6d-pose-estimation",
+                  "computer-vision",
+                  "deep-learning",
+                  "dynamics",
+                  "implicit-neural-representation",
+                  "implicit-representations",
+                  "manipulation",
+                  "navigation",
+                  "nerf",
+                  "neural-radiance-fields",
+                  "planning",
+                  "pose-estimation",
+                  "robotics",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -259,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 833041241,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-26T05:17:19Z",
+                "open_issues": 1,
                 "owner": "dtc111111",
                 "repo": "awesome-representation-for-robotics",
-                "stars": 464
+                "stars": 464,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -275,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 905532975,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-02-13T01:17:25Z",
+                "open_issues": 2,
                 "owner": "zstsandy",
                 "repo": "Awesome-3D-Gaussian-Splatting-in-Robotics",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             }
@@ -298,12 +463,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video",
+                "homepage": null,
                 "id": 756470614,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-29T00:15:44Z",
+                "open_issues": 0,
                 "owner": "Xiaohao-Xu",
                 "repo": "SLAM-under-Perturbation",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "benchmark",
+                  "benchmarking",
+                  "computer-vision",
+                  "customizable",
+                  "data-engine",
+                  "data-synthesis",
+                  "gaussian-splatting",
+                  "iclr2025",
+                  "localization",
+                  "mapping",
+                  "nerf",
+                  "perception",
+                  "robustness",
+                  "slam",
+                  "sora",
+                  "world-simulation"
+                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -314,12 +501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 24'] Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM",
+                "homepage": "https://vlis2022.github.io/nerf-slam-benchmark/",
                 "id": 778871285,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-18T01:21:03Z",
+                "open_issues": 1,
                 "owner": "thua919",
                 "repo": "NeRF-SLAM-Benchmark-CVPR24",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -330,12 +522,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The NeRF and Gaussian Splatting SLAM in the Wild Benchmark",
+                "homepage": null,
                 "id": 892564364,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2025-06-30T14:08:24Z",
+                "open_issues": 0,
                 "owner": "iis-esslingen",
                 "repo": "nerf-3dgs-benchmark",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "benchmark",
+                  "gaussian-splatting",
+                  "nerf",
+                  "visual-slam"
+                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -346,12 +548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://samuel-cerezo.github.io/SLAM&Render.html",
                 "id": 947120567,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-23T09:27:14Z",
+                "open_issues": 0,
                 "owner": "samuel-cerezo",
                 "repo": "SLAM-Render",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             }
@@ -369,12 +576,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Register Gaussian splats: align & merge two 3DGS scans into one SE(3)/Sim(3) frame — classical, learned, or zero-shot (BUFFER-X) seeds + splat-native refine. pip install splatreg.",
+                "homepage": "https://archerkattri.github.io/splatreg/",
                 "id": 1260804203,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-25T01:42:23Z",
+                "open_issues": 0,
                 "owner": "Archerkattri",
                 "repo": "splatreg",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "3dgs",
+                  "gaussian-splatting",
+                  "point-cloud-registration",
+                  "pytorch",
+                  "registration",
+                  "se3",
+                  "sim3"
+                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             }
@@ -394,12 +614,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for \"NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video\", CVPR 2021 oral",
+                    "homepage": "https://zju3dv.github.io/neuralrecon/",
                     "id": 343809502,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-10-04T11:35:56Z",
+                    "open_issues": 65,
                     "owner": "zju3dv",
                     "repo": "NeuralRecon",
-                    "stars": 2276
+                    "stars": 2276,
+                    "topics": [
+                      "3d-reconstruction",
+                      "3d-vision"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -410,12 +638,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'21] [Jittor & Pytorch] DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors",
+                    "homepage": null,
                     "id": 351814371,
                     "language": "Cuda",
+                    "license": null,
                     "last_commit": "2022-07-12T03:38:34Z",
+                    "open_issues": 4,
                     "owner": "huangjh-pub",
                     "repo": "di-fusion",
-                    "stars": 124
+                    "stars": 124,
+                    "topics": [
+                      "3d-reconstruction",
+                      "deep-learning",
+                      "implicit-representation",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -426,12 +664,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM",
+                    "homepage": "https://pengsongyou.github.io/nice-slam",
                     "id": 474907133,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-03-10T19:06:09Z",
+                    "open_issues": 9,
                     "owner": "cvg",
                     "repo": "nice-slam",
-                    "stars": 1596
+                    "stars": 1596,
+                    "topics": [
+                      "3d-reconstruction",
+                      "deep-learning",
+                      "implicit-functions",
+                      "localization",
+                      "neural-fields",
+                      "neural-implicit-representations",
+                      "scalable",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -442,12 +694,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641   +   Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM  https://arxiv.org/abs/2210.01276",
+                    "homepage": null,
                     "id": 562311839,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2024-03-19T04:00:27Z",
+                    "open_issues": 62,
                     "owner": "ToniRV",
                     "repo": "NeRF-SLAM",
-                    "stars": 1267
+                    "stars": 1267,
+                    "topics": [
+                      "nerf",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -458,12 +718,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Point-SLAM: Dense Neural Point Cloud-based SLAM",
+                    "homepage": null,
                     "id": 624810107,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-10-22T14:37:05Z",
+                    "open_issues": 3,
                     "owner": "eriksandstroem",
                     "repo": "Point-SLAM",
-                    "stars": 486
+                    "stars": 486,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -474,12 +739,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Real-time Neural Signed Distance Fields for Robot Perception",
+                    "homepage": "https://joeaortiz.github.io/iSDF/",
                     "id": 477756530,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-02-14T17:49:43Z",
+                    "open_issues": 6,
                     "owner": "facebookresearch",
                     "repo": "iSDF",
-                    "stars": 450
+                    "stars": 450,
+                    "topics": [
+                      "implicit-neural-representation",
+                      "mapping",
+                      "nerf",
+                      "neural-fields",
+                      "real-time",
+                      "robot-perception",
+                      "signed-distance-field"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -490,12 +768,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV2023] GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction",
+                    "homepage": null,
                     "id": 685454225,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-02-08T13:08:05Z",
+                    "open_issues": 16,
                     "owner": "youmi-zym",
                     "repo": "GO-SLAM",
-                    "stars": 443
+                    "stars": 443,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -506,12 +789,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2023] vMAP: Vectorised Object Mapping for Neural Field SLAM",
+                    "homepage": "https://kxhit.github.io/vMAP",
                     "id": 561523284,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-01T18:56:21Z",
+                    "open_issues": 0,
                     "owner": "kxhit",
                     "repo": "vMAP",
-                    "stars": 372
+                    "stars": 372,
+                    "topics": [
+                      "3d-reconstruction",
+                      "cvpr2023",
+                      "dense-mapping",
+                      "nerf",
+                      "neural-fields",
+                      "neural-implicit-representations",
+                      "object-mapping",
+                      "real-time",
+                      "rgbd-slam",
+                      "slam",
+                      "vectorized"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -522,12 +822,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 541259227,
                     "language": "Cuda",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-10-09T05:15:33Z",
+                    "open_issues": 19,
                     "owner": "MarvinChung",
                     "repo": "Orbeez-SLAM",
-                    "stars": 288
+                    "stars": 288,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -538,12 +843,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for \"Dense Tracking and Mapping with Voxel-based Neural Implicit Representation\", ISMAR 2022",
+                    "homepage": null,
                     "id": 526969398,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-02-24T09:52:43Z",
+                    "open_issues": 10,
                     "owner": "zju3dv",
                     "repo": "Vox-Fusion",
-                    "stars": 280
+                    "stars": 280,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -554,12 +864,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM (RA-L 2025)",
+                    "homepage": null,
                     "id": 689268253,
                     "language": "Cuda",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-10T06:08:43Z",
+                    "open_issues": 4,
                     "owner": "DrLi-Ming",
                     "repo": "DDN-SLAM",
-                    "stars": 204
+                    "stars": 204,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -570,12 +885,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is official repo for ICLR 2023 Paper \"DENSE RGB SLAM WITH NEURAL IMPLICIT MAPS\"",
+                    "homepage": null,
                     "id": 600956980,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-12-01T08:52:53Z",
+                    "open_issues": 2,
                     "owner": "HKUST-3DV",
                     "repo": "DIM-SLAM",
-                    "stars": 198
+                    "stars": 198,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -586,12 +906,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024 & TPAMI 2025] SNI-SLAM: Semantic Neural Implicit SLAM",
+                    "homepage": null,
                     "id": 773859688,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-19T03:07:06Z",
+                    "open_issues": 10,
                     "owner": "IRMVLab",
                     "repo": "SNI-SLAM",
-                    "stars": 171
+                    "stars": 171,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -602,12 +927,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 755966167,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-19T17:56:29Z",
+                    "open_issues": 2,
                     "owner": "eriksandstroem",
                     "repo": "Loopy-SLAM",
-                    "stars": 165
+                    "stars": 165,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -618,12 +948,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neural Graph Map: Dense Mapping with Efficient Loop Closure Integration",
+                    "homepage": "https://kth-rpl.github.io/neural_graph_mapping/",
                     "id": 774868342,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-25T23:29:29Z",
+                    "open_issues": 3,
                     "owner": "KTH-RPL",
                     "repo": "neural_graph_mapping",
-                    "stars": 153
+                    "stars": 153,
+                    "topics": [
+                      "loop-closure",
+                      "mapping",
+                      "nerf",
+                      "neural-fields",
+                      "neural-slam",
+                      "reconstruction",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -634,12 +977,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository implements our CVPR2022 paper \"BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion\"",
+                    "homepage": null,
                     "id": 475061493,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-01-10T13:38:39Z",
+                    "open_issues": 4,
                     "owner": "likojack",
                     "repo": "bnv_fusion",
-                    "stars": 138
+                    "stars": 138,
+                    "topics": [
+                      "3d-reconstruction",
+                      "computer-vision"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -650,12 +1001,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM",
+                    "homepage": "https://ganlinzhang.xyz/GlORIE-SLAM/",
                     "id": 806449386,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-08-01T20:10:20Z",
+                    "open_issues": 0,
                     "owner": "zhangganlin",
                     "repo": "GlORIE-SLAM",
-                    "stars": 128
+                    "stars": 128,
+                    "topics": [
+                      "bundle-adjustment",
+                      "neural-slam",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -666,12 +1026,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields",
+                    "homepage": null,
                     "id": 626828368,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-08-11T07:39:17Z",
+                    "open_issues": 2,
                     "owner": "XiaoHan-Git",
                     "repo": "RO-MAP",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -682,12 +1047,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "H3-Mapping: Quasi-Heterogeneous Feature Grids for Real-time Dense Mapping Using Hierarchical Hybrid Representation (submitted to RAL 2024)",
+                    "homepage": null,
                     "id": 772879970,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-07-30T05:35:45Z",
+                    "open_issues": 0,
                     "owner": "Robotics-STAR-Lab",
                     "repo": "H3-Mapping",
-                    "stars": 104
+                    "stars": 104,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -698,12 +1068,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[T-RO 2024] Uni-Fusion: Universal Continuous Mapping",
+                    "homepage": "https://jarrome.github.io/Uni-Fusion/",
                     "id": 735183075,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-06-26T21:19:36Z",
+                    "open_issues": 0,
                     "owner": "Jarrome",
                     "repo": "Uni-Fusion",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -714,12 +1089,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 788892724,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-10-16T12:20:02Z",
+                    "open_issues": 0,
                     "owner": "Lightingooo",
                     "repo": "EC-SLAM",
-                    "stars": 102
+                    "stars": 102,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -730,12 +1110,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[TPAMI 2025] MBA-SLAM: Motion Blur Aware Gaussian Splatting SLAM",
+                    "homepage": "https://arxiv.org/abs/2411.08279",
                     "id": 887612788,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-19T14:40:37Z",
+                    "open_issues": 5,
                     "owner": "WU-CVGL",
                     "repo": "MBA-SLAM",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": [
+                      "bundle-adjustment",
+                      "deblur",
+                      "gaussian-splatting",
+                      "nerf",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -746,12 +1137,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA-2024] The official code for NGEL-SLAM: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System",
+                    "homepage": null,
                     "id": 766962064,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-23T01:51:13Z",
+                    "open_issues": 2,
                     "owner": "YunxuanMao",
                     "repo": "NGEL_SLAM",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -762,12 +1158,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CP-SLAM: Collaborative Neural Point-based SLAM",
+                    "homepage": null,
                     "id": 708808200,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-09-09T14:29:30Z",
+                    "open_issues": 3,
                     "owner": "hjr37",
                     "repo": "CP-SLAM",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -778,12 +1179,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of Hi-Map",
+                    "homepage": "https://vlis2022.github.io/fmap/",
                     "id": 644745537,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-01-09T02:46:09Z",
+                    "open_issues": 1,
                     "owner": "thua919",
                     "repo": "Hi-Map",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -794,12 +1200,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of Hi-Map",
+                    "homepage": "https://vlis2022.github.io/fmap/",
                     "id": 644745537,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-01-09T02:46:09Z",
+                    "open_issues": 1,
                     "owner": "thua919",
                     "repo": "Hi-Map",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -810,12 +1221,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IEEE RAL 2024] RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields",
+                    "homepage": null,
                     "id": 822572938,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-18T11:16:13Z",
+                    "open_issues": 7,
                     "owner": "fudan-zvg",
                     "repo": "Rodyn-SLAM",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -826,12 +1242,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Github repository for dense neural SLAM leveraging joint uncertainty learning",
+                    "homepage": null,
                     "id": 675407845,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-10-09T21:01:09Z",
+                    "open_issues": 1,
                     "owner": "kev-in-ta",
                     "repo": "UncLe-SLAM",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -842,12 +1263,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF",
+                    "homepage": "https://hannahhaensen.github.io/DynaMoN/",
                     "id": 700388114,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-28T12:10:07Z",
+                    "open_issues": 0,
                     "owner": "HannahHaensen",
                     "repo": "DynaMoN",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": [
+                      "bonn-rgbd",
+                      "camera",
+                      "dynamic",
+                      "nerf",
+                      "slam",
+                      "tum-rgbd"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -858,12 +1291,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS'23] Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors",
+                    "homepage": "https://machineperceptionlab.github.io/Attentive_DF_Prior/",
                     "id": 704293690,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-09T04:11:48Z",
+                    "open_issues": 0,
                     "owner": "MachinePerceptionLab",
                     "repo": "Attentive_DFPrior",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": [
+                      "3d-reconstruction",
+                      "deep-learning",
+                      "depth-fusion",
+                      "implicit-neural-representation",
+                      "neural-fields",
+                      "neural-implicit-representations",
+                      "slam",
+                      "surface-reconstruction"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -874,12 +1321,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 799578239,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-13T14:35:36Z",
+                    "open_issues": 3,
                     "owner": "hero-slam",
                     "repo": "HERO-SLAM",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -890,12 +1342,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 811850798,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-09-26T14:42:26Z",
+                    "open_issues": 1,
                     "owner": "vincentcartillier",
                     "repo": "SLAIM",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -906,12 +1363,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LCP-Fusion: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior",
+                    "homepage": null,
                     "id": 772367343,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-03-15T04:02:24Z",
+                    "open_issues": 1,
                     "owner": "laliwang",
                     "repo": "LCP-Fusion",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -922,12 +1384,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024] PLGSLAM",
+                    "homepage": null,
                     "id": 868899046,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-11-24T12:51:10Z",
+                    "open_issues": 2,
                     "owner": "dtc111111",
                     "repo": "plgslam",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -938,12 +1405,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "official code for DDS-SLAM: Dense Semantic Neural SLAM for Deforming Endoscopic Scenes",
+                    "homepage": null,
                     "id": 766529086,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-07-14T03:14:55Z",
+                    "open_issues": 1,
                     "owner": "IRMVLab",
                     "repo": "DDS-SLAM",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -954,12 +1426,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Li-Kunyi/DNS-SLAM",
+                    "homepage": null,
                     "id": 842036528,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-02-13T09:18:42Z",
+                    "open_issues": 4,
                     "owner": "li-kunyi",
                     "repo": "dns-slam",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -970,12 +1447,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 556569022,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-03-28T05:06:49Z",
+                    "open_issues": 0,
                     "owner": "dtc111111",
                     "repo": "NeSLAM",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -986,12 +1468,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 689501729,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-09-10T02:24:01Z",
+                    "open_issues": 0,
                     "owner": "NeuCV-IRMI",
                     "repo": "VPE-SLAM",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1002,12 +1489,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 752232621,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-07-14T06:02:29Z",
+                    "open_issues": 2,
                     "owner": "Mar-lll",
                     "repo": "ENeRF-SLAM",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1018,12 +1510,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code of iS-MAP： Neural Implicit Mapping and Positioning for Structural Environments（ACCV 2024）",
+                    "homepage": null,
                     "id": 821706886,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-23T09:23:52Z",
+                    "open_issues": 1,
                     "owner": "00Haocheng",
                     "repo": "iS-MAP",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1034,12 +1531,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EvenNICER-SLAM repository",
+                    "homepage": null,
                     "id": 633893223,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-03-24T10:02:16Z",
+                    "open_issues": 1,
                     "owner": "cs-vision",
                     "repo": "EvenNICER-SLAM",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1050,12 +1552,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains the code for the paper DF-SLAM: Neural Feature Rendering Based on Dictionary Factors Representation for High-Fidelity Dense Visual SLAM System.",
+                    "homepage": null,
                     "id": 792320311,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-06-24T13:51:16Z",
+                    "open_issues": 0,
                     "owner": "funcdecl",
                     "repo": "DF-SLAM",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1066,12 +1573,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 724606249,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-12-05T22:19:29Z",
+                    "open_issues": 0,
                     "owner": "Yasaman-Haghighi",
                     "repo": "NeuralImplicitDenseSemanticSLAM",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1082,12 +1594,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 788892724,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-10-16T12:20:02Z",
+                    "open_issues": 0,
                     "owner": "Lightingooo",
                     "repo": "EC-SLAM",
-                    "stars": 102
+                    "stars": 102,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1098,12 +1615,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for RSS'25 paper \"MISO: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction\"",
+                    "homepage": null,
                     "id": 999752106,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-06-13T23:18:58Z",
+                    "open_issues": 1,
                     "owner": "ExistentialRobotics",
                     "repo": "MISO",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": [
+                      "neural-fields",
+                      "robotics",
+                      "signed-distance-field",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1114,12 +1641,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A super lightweight neural representation for large-scale 3D mapping",
+                    "homepage": null,
                     "id": 1081605754,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-31T05:48:19Z",
+                    "open_issues": 0,
                     "owner": "SCH1001",
                     "repo": "SLNR",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1130,12 +1662,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 905049389,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-16T20:13:05Z",
+                    "open_issues": 1,
                     "owner": "MachinePerceptionLab",
                     "repo": "QQ-SLAM",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1146,12 +1683,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1021171947,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-07-25T15:38:46Z",
+                    "open_issues": 0,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "SCT_NIM",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1162,12 +1704,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 823999637,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-04-18T04:38:48Z",
+                    "open_issues": 0,
                     "owner": "GXXXXT",
                     "repo": "RSNeRF",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1178,12 +1725,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM",
+                    "homepage": null,
                     "id": 1318106397,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-31T08:34:55Z",
+                    "open_issues": 0,
                     "owner": "jinjidexiaohuoban",
                     "repo": "CHOW-SLAM",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1194,12 +1746,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1004413226,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-25T13:14:33Z",
+                    "open_issues": 0,
                     "owner": "atat1010",
                     "repo": "code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -1217,12 +1774,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO 24]",
+                    "homepage": null,
                     "id": 739385782,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-26T17:54:32Z",
+                    "open_issues": 3,
                     "owner": "PRBonn",
                     "repo": "PIN_SLAM",
-                    "stars": 621
+                    "stars": 621,
+                    "topics": [
+                      "3d-mapping",
+                      "implicit-neural-representation",
+                      "robotics",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1233,12 +1800,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV2023] NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping",
+                    "homepage": null,
                     "id": 615224483,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-05T02:52:05Z",
+                    "open_issues": 6,
                     "owner": "JunyuanDeng",
                     "repo": "NeRF-LOAM",
-                    "stars": 557
+                    "stars": 557,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1249,12 +1821,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌟 SHINE-Mapping: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations (ICRA 2023)",
+                    "homepage": null,
                     "id": 537357189,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-05T14:02:10Z",
+                    "open_issues": 0,
                     "owner": "PRBonn",
                     "repo": "SHINE_mapping",
-                    "stars": 491
+                    "stars": 491,
+                    "topics": [
+                      "3d-mapping",
+                      "implicit-neural-representation",
+                      "robotics"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1265,12 +1846,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RA-L 2023 Best Paper] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM",
+                    "homepage": "https://umautobots.github.io/loner",
                     "id": 703130489,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-01-11T16:56:17Z",
+                    "open_issues": 1,
                     "owner": "umautobots",
                     "repo": "LONER",
-                    "stars": 274
+                    "stars": 274,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1281,12 +1867,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IR-MCL: Implicit Representation-Based Online Global Localization https://arxiv.org/abs/2210.03113",
+                    "homepage": null,
                     "id": 546020575,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-06-26T07:56:43Z",
+                    "open_issues": 5,
                     "owner": "PRBonn",
                     "repo": "ir-mcl",
-                    "stars": 140
+                    "stars": 140,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1297,12 +1888,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA 2024] Towards Large-Scale Incremental Dense Mapping using Robot-centric Implicit Neural Representation",
+                    "homepage": null,
                     "id": 655157831,
                     "language": "C++",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-03-18T06:34:45Z",
+                    "open_issues": 1,
                     "owner": "HITSZ-NRSL",
                     "repo": "RIM",
-                    "stars": 114
+                    "stars": 114,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1313,12 +1909,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA2023] Efficient Implicit Neural Reconstruction Using LiDAR",
+                    "homepage": "http://starydy.xyz/EINRUL/",
                     "id": 608131066,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-09T14:10:07Z",
+                    "open_issues": 1,
                     "owner": "StarRealMan",
                     "repo": "EINRUL",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": [
+                      "implicit-neural-representation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1329,12 +1932,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RA-L'25] CLID-SLAM: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM with Region-Specific SDF Estimation",
+                    "homepage": null,
                     "id": 878870523,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-26T06:47:48Z",
+                    "open_issues": 0,
                     "owner": "DUTRobot",
                     "repo": "CLID-SLAM",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "3d-reconstruction",
+                      "lidar-inertial-slam",
+                      "neural-implicit-fields"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1345,12 +1957,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[R-AL2023'] The official code for NF-Atlas: Multi-Volume Neural Feature Fields for Large Scale LiDAR Mapping",
+                    "homepage": null,
                     "id": 667776038,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-05-10T14:20:34Z",
+                    "open_issues": 0,
                     "owner": "yuxuan1206",
                     "repo": "NF-Atlas",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1361,12 +1978,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CURL-SLAM: Continuous and Compact LiDAR Mapping ",
+                    "homepage": null,
                     "id": 884870329,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-12T13:22:30Z",
+                    "open_issues": 0,
                     "owner": "SenseRoboticsLab",
                     "repo": "CURL-SLAM",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1377,12 +1999,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Probabilistic LIDAR NeRF Kodebase",
+                    "homepage": null,
                     "id": 847837372,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-11-24T20:49:39Z",
+                    "open_issues": 0,
                     "owner": "mcdermatt",
                     "repo": "PLINK",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1393,12 +2020,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Probabilistic LIDAR NeRF Kodebase",
+                    "homepage": null,
                     "id": 847837372,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-11-24T20:49:39Z",
+                    "open_issues": 0,
                     "owner": "mcdermatt",
                     "repo": "PLINK",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -1416,12 +2048,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA 2025] Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems",
+                    "homepage": "https://jianhengliu.github.io/Projects/M2Mapping/",
                     "id": 854347984,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-07-16T09:35:21Z",
+                    "open_issues": 7,
                     "owner": "hku-mars",
                     "repo": "M2Mapping",
-                    "stars": 268
+                    "stars": 268,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1432,12 +2069,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of paper \"UN3-Mapping: Uncertainty-aware Neural Non-Projective Signed Distance Fields for 3D Mapping\"",
+                    "homepage": null,
                     "id": 1015894813,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-07-22T08:44:44Z",
+                    "open_issues": 0,
                     "owner": "tiev-tongji",
                     "repo": "UN3-Mapping",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1448,12 +2090,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 721004233,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-11-20T06:50:37Z",
+                    "open_issues": 0,
                     "owner": "zhw-github",
                     "repo": "Rapid-Mapping",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -1478,12 +2125,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)",
+                    "homepage": "https://spla-tam.github.io/",
                     "id": 725762086,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-06-19T09:46:15Z",
+                    "open_issues": 53,
                     "owner": "spla-tam",
                     "repo": "SplaTAM",
-                    "stars": 2186
+                    "stars": 2186,
+                    "topics": [
+                      "computer-vision",
+                      "cvpr2024",
+                      "gaussian-splatting",
+                      "robotics",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1494,12 +2152,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM",
+                    "homepage": "https://rmurai.co.uk/projects/GaussianSplattingSLAM/",
                     "id": 766597813,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-07T14:15:29Z",
+                    "open_issues": 101,
                     "owner": "muskie82",
                     "repo": "MonoGS",
-                    "stars": 2149
+                    "stars": 2150,
+                    "topics": [
+                      "computer-vision",
+                      "cvpr2024",
+                      "gaussian-splatting",
+                      "robotics",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1510,12 +2179,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting",
+                    "homepage": "https://vladimiryugay.github.io/gaussian_slam",
                     "id": 724547005,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-03T15:01:05Z",
+                    "open_issues": 1,
                     "owner": "VladimirYugay",
                     "repo": "Gaussian-SLAM",
-                    "stars": 1181
+                    "stars": 1181,
+                    "topics": [
+                      "3d-reconstruction",
+                      "computer-vision",
+                      "gaussian-splatting",
+                      "robotics",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1526,12 +2206,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024] Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras ",
+                    "homepage": null,
                     "id": 778130161,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-12T07:53:51Z",
+                    "open_issues": 38,
                     "owner": "HuajianUP",
                     "repo": "Photo-SLAM",
-                    "stars": 760
+                    "stars": 761,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1542,12 +2227,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2025] WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments",
+                    "homepage": null,
                     "id": 917548325,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-06T00:16:43Z",
+                    "open_issues": 9,
                     "owner": "GradientSpaces",
                     "repo": "WildGS-SLAM",
-                    "stars": 647
+                    "stars": 647,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1558,12 +2248,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2024] RGBD GS-ICP SLAM",
+                    "homepage": null,
                     "id": 768021600,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-06-20T11:10:31Z",
+                    "open_issues": 36,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "GS_ICP_SLAM",
-                    "stars": 534
+                    "stars": 534,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1574,12 +2269,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2024] SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM",
+                    "homepage": null,
                     "id": 732253303,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-11-20T08:23:53Z",
+                    "open_issues": 11,
                     "owner": "ShuhongLL",
                     "repo": "SGS-SLAM",
-                    "stars": 528
+                    "stars": 528,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1590,12 +2290,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RTG-SLAM: Real-time 3D Reconstruction at Scale Using Gaussian Splatting (ACM SIGGRAPH 2024)",
+                    "homepage": "https://gapszju.github.io/RTG-SLAM/",
                     "id": 797133989,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-09T06:34:00Z",
+                    "open_issues": 13,
                     "owner": "MisEty",
                     "repo": "RTG-SLAM",
-                    "stars": 506
+                    "stars": 506,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1606,12 +2311,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "End-to-End SLAM with camera calibration, monocular prior integration and dense Rendering",
+                    "homepage": "https://arxiv.org/pdf/2411.17660",
                     "id": 760360464,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-07-12T23:16:55Z",
+                    "open_issues": 3,
                     "owner": "ChenHoy",
                     "repo": "DROID-Splat",
-                    "stars": 416
+                    "stars": 416,
+                    "topics": [
+                      "3d-reconstruction",
+                      "computer-vision",
+                      "gaussian-splatting",
+                      "monocular",
+                      "rendering",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1622,12 +2339,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[3DV 2025, Oral] LoopSplat: Loop Closure by Registering 3D Gaussian Splats",
+                    "homepage": "https://loopsplat.github.io/",
                     "id": 841583688,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-03T17:03:41Z",
+                    "open_issues": 0,
                     "owner": "GradientSpaces",
                     "repo": "LoopSplat",
-                    "stars": 394
+                    "stars": 394,
+                    "topics": [
+                      "3dgs",
+                      "3dgs-slam",
+                      "3dvision",
+                      "dense-mapping",
+                      "gaussian-splatting",
+                      "loop-closure",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1638,12 +2368,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2025]MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent  SLAM",
+                    "homepage": "https://vladimiryugay.github.io/magic_slam",
                     "id": 893802620,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-12-07T10:13:44Z",
+                    "open_issues": 1,
                     "owner": "VladimirYugay",
                     "repo": "MAGiC-SLAM",
-                    "stars": 338
+                    "stars": 338,
+                    "topics": [
+                      "computer-vision",
+                      "cvpr2025",
+                      "gaussian-splatting",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1654,12 +2394,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for [TRO2025] VINGS-Mono: Visual Inertial Gaussian Splatting Monocular SLAM in Large Scenes.",
+                    "homepage": null,
                     "id": 1066343261,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-21T14:10:10Z",
+                    "open_issues": 6,
                     "owner": "Fudan-MAGIC-Lab",
                     "repo": "VINGS-Mono",
-                    "stars": 300
+                    "stars": 300,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1670,12 +2415,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction",
+                    "homepage": "https://hi-slam2.github.io/",
                     "id": 898177091,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-05-12T12:50:24Z",
+                    "open_issues": 18,
                     "owner": "Willyzw",
                     "repo": "HI-SLAM2",
-                    "stars": 264
+                    "stars": 264,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1686,12 +2436,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The modified differential Gaussian rasterization in the CVPR 2024 highlight paper: GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting.",
+                    "homepage": "https://gs-slam.github.io/",
                     "id": 771426583,
                     "language": "Cuda",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-11-21T18:04:16Z",
+                    "open_issues": 3,
                     "owner": "yanchi-3dv",
                     "repo": "diff-gaussian-rasterization-for-gsslam",
-                    "stars": 260
+                    "stars": 260,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1702,12 +2457,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion",
+                    "homepage": null,
                     "id": 845238437,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2025-11-18T10:02:14Z",
+                    "open_issues": 7,
                     "owner": "ethz-mrl",
                     "repo": "GSFusion",
-                    "stars": 233
+                    "stars": 233,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1718,12 +2478,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical code for ICCV 2025 \"SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding\"",
+                    "homepage": null,
                     "id": 1010237153,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-18T13:47:47Z",
+                    "open_issues": 11,
                     "owner": "leaner-forever",
                     "repo": "SEGS-SLAM",
-                    "stars": 212
+                    "stars": 212,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1734,12 +2499,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Instead of removing dynamic objects as distractors and reconstructing only static environments, this paper proposes an efficient architecture that incrementally tracks camera poses and establishes the 4D Gaussian radiance fields in unknown scenarios by using a sequence of RGB-D images.",
+                    "homepage": null,
                     "id": 951817423,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-08-08T17:07:51Z",
+                    "open_issues": 4,
                     "owner": "yanyan-li",
                     "repo": "4DGS-SLAM",
-                    "stars": 195
+                    "stars": 195,
+                    "topics": [
+                      "dynamic-slam",
+                      "gaussian-splatting-slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1750,12 +2523,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'25] 4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians",
+                    "homepage": "https://muskie82.github.io/4dtam/",
                     "id": 990994405,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-05-27T21:34:56Z",
+                    "open_issues": 5,
                     "owner": "muskie82",
                     "repo": "4dtam",
-                    "stars": 180
+                    "stars": 180,
+                    "topics": [
+                      "computer-vision",
+                      "dynamic-scenes",
+                      "gaussian-splatting",
+                      "non-rigid-deformation",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1766,12 +2550,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌳 [ICRA'25] Hier-SLAM: Semantic Gaussian Splatting SLAM with Hierarchical Categorical Representation",
+                    "homepage": null,
                     "id": 943216248,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-30T00:38:39Z",
+                    "open_issues": 4,
                     "owner": "LeeBY68",
                     "repo": "Hier-SLAM",
-                    "stars": 170
+                    "stars": 170,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1782,12 +2571,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 978917560,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-05-28T08:32:40Z",
+                    "open_issues": 3,
                     "owner": "gaus-slam",
                     "repo": "gaus-slam",
-                    "stars": 162
+                    "stars": 162,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1798,12 +2592,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GigaSLAM official code implementation",
+                    "homepage": null,
                     "id": 945847304,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-06-12T20:07:12Z",
+                    "open_issues": 6,
                     "owner": "DengKaiCQ",
                     "repo": "GigaSLAM",
-                    "stars": 147
+                    "stars": 147,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1814,12 +2613,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps (ICCV 2025)",
+                    "homepage": null,
                     "id": 1012587602,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-07-14T08:58:02Z",
+                    "open_issues": 5,
                     "owner": "3DAgentWorld",
                     "repo": "S3PO-GS",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1830,12 +2634,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field",
+                    "homepage": null,
                     "id": 774928652,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-13T08:36:49Z",
+                    "open_issues": 1,
                     "owner": "hjr37",
                     "repo": "CG-SLAM",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1846,12 +2655,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 805479177,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-10-14T22:33:28Z",
+                    "open_issues": 0,
                     "owner": "eriksandstroem",
                     "repo": "Splat-SLAM",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1862,12 +2676,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACM MM 2024] GS3LAM: Gaussian Semantic Splatting SLAM",
+                    "homepage": "https://lif314.github.io/projects/gs3lam/",
                     "id": 832422366,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-31T03:45:29Z",
+                    "open_issues": 0,
                     "owner": "lif314",
                     "repo": "GS3LAM",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": [
+                      "gaussian-splatting",
+                      "gaussian-splatting-slam",
+                      "semantic-slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1878,12 +2701,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical Code Implementation for EndoGSLAM",
+                    "homepage": "https://loping151.github.io/endogslam",
                     "id": 777297454,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-10-18T13:05:50Z",
+                    "open_issues": 5,
                     "owner": "Loping151",
                     "repo": "EndoGSLAM",
-                    "stars": 93
+                    "stars": 93,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1894,12 +2722,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization",
+                    "homepage": null,
                     "id": 880908152,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-08-02T02:38:05Z",
+                    "open_issues": 8,
                     "owner": "fudan-zvg",
                     "repo": "DG-SLAM",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1910,12 +2743,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM",
+                    "homepage": "https://lab-of-ai-and-robotics.github.io/LEGO-SLAM/",
                     "id": 1099614586,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-04T07:55:04Z",
+                    "open_issues": 0,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "LEGO-SLAM",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": [
+                      "3d-reconstruction",
+                      "3dgs",
+                      "computer-vision",
+                      "language-embedding",
+                      "open-vocabulary",
+                      "rgbd-slam",
+                      "robotics",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1926,12 +2773,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IROS 2025] SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM",
+                    "homepage": null,
                     "id": 873359232,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-30T02:31:20Z",
+                    "open_issues": 4,
                     "owner": "IRMVLab",
                     "repo": "SemGauss-SLAM",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1942,12 +2794,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RA-L] CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM",
+                    "homepage": "https://dapengfeng.github.io/cartgs/",
                     "id": 864484577,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-02-20T12:16:39Z",
+                    "open_issues": 1,
                     "owner": "DapengFeng",
                     "repo": "cartgs",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": [
+                      "3dgs",
+                      "3dgs-slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1958,12 +2818,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IROS2025] OpenGS-Fusion: Open-Vocabulary Dense Mapping with Hybrid 3D Gaussian Splatting for Refined Object-Level Understanding",
+                    "homepage": "https://young-bit.github.io/opengs-fusion.github.io/",
                     "id": 1030277305,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-08-02T08:08:12Z",
+                    "open_issues": 2,
                     "owner": "YOUNG-bit",
                     "repo": "OpenGS-Fusion",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1974,12 +2839,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment",
+                    "homepage": null,
                     "id": 888266098,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2025-09-08T13:54:13Z",
+                    "open_issues": 1,
                     "owner": "kmk97",
                     "repo": "DGS-SLAM",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -1990,12 +2860,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DynaGSLAM, WACV 2026",
+                    "homepage": "https://blarklee.github.io/dynagslam/",
                     "id": 949262602,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-07T15:52:48Z",
+                    "open_issues": 3,
                     "owner": "BlarkLee",
                     "repo": "DynaGSLAM_official",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2006,12 +2881,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] Official Implementation of \"Online Language Splatting\"",
+                    "homepage": "https://saimouli.github.io/onlineLang/",
                     "id": 945512299,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-06T21:00:02Z",
+                    "open_issues": 1,
                     "owner": "rpng",
                     "repo": "online_lang_splatting",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": [
+                      "3d-mapping",
+                      "dense-realtime-clip",
+                      "gaussian-splatting",
+                      "language-mapping",
+                      "online-compression",
+                      "online-vae-learning",
+                      "open-vocabulary-interaction",
+                      "physical-memory",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2022,12 +2912,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of IROS 2025 paper Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline",
+                    "homepage": null,
                     "id": 1025283858,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-11T04:05:20Z",
+                    "open_issues": 0,
                     "owner": "wangyr22",
                     "repo": "DepthGS",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2038,12 +2933,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RAL-25] GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information",
+                    "homepage": null,
                     "id": 741915944,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-12T11:47:32Z",
+                    "open_issues": 1,
                     "owner": "Aczheng-cai",
                     "repo": "GSORB-SLAM",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2054,12 +2954,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting",
+                    "homepage": null,
                     "id": 897244718,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2025-02-15T09:01:49Z",
+                    "open_issues": 2,
                     "owner": "zhenzhongcao",
                     "repo": "RGBDS-SLAM",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2070,12 +2975,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ICRA 2025: Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping",
+                    "homepage": null,
                     "id": 857966329,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-03-03T08:34:21Z",
+                    "open_issues": 8,
                     "owner": "lastbasket",
                     "repo": "Endo-2DTAM",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": [
+                      "endoscopy",
+                      "gaussian-splatting",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2086,28 +3000,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 800780902,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-05-16T11:45:34Z",
+                    "open_issues": 2,
                     "owner": "Antonio521",
                     "repo": "MotionGS",
-                    "stars": 51
-                  },
-                  "first_seen": "2026-08-28T06:57:01.585Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos, CVPR, 2025. [Paper",
-                  "description": "] [Code] [Website]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 953597785,
-                    "language": "JavaScript",
-                    "last_commit": "2025-07-28T13:42:45Z",
-                    "owner": "eth-ait",
-                    "repo": "ODHSR",
-                    "stars": 44
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2118,12 +3021,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FGS-SLAM: Fourier-based Gaussian Splatting for Real-time SLAM with Sparse and Dense Map Fusion",
+                    "homepage": null,
                     "id": 941137352,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-06-26T18:15:21Z",
+                    "open_issues": 3,
                     "owner": "3DV-Coder",
                     "repo": "FGS-SLAM",
-                    "stars": 42
+                    "stars": 44,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos, CVPR, 2025. [Paper",
+                  "description": "] [Code] [Website]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 953597785,
+                    "language": "JavaScript",
+                    "license": null,
+                    "last_commit": "2025-07-28T13:42:45Z",
+                    "open_issues": 4,
+                    "owner": "eth-ait",
+                    "repo": "ODHSR",
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2134,12 +3063,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IEEE RA-L 2026] AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM",
+                    "homepage": "https://doi.org/10.1109/LRA.2026.3685453",
                     "id": 1086741204,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-29T12:11:06Z",
+                    "open_issues": 0,
                     "owner": "AIRLab-POLIMI",
                     "repo": "agri-gs-slam",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "3d-reconstruction",
+                      "agriculture",
+                      "agriculture-research",
+                      "computer-vison",
+                      "gaussian-splatting",
+                      "perception",
+                      "robotics",
+                      "slam",
+                      "tractor"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2150,12 +3094,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MICRO'25 RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction",
+                    "homepage": null,
                     "id": 1050874544,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-07-13T08:49:04Z",
+                    "open_issues": 3,
                     "owner": "UMN-ZhaoLab",
                     "repo": "RTGS",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2166,12 +3115,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians",
+                    "homepage": null,
                     "id": 757780392,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-11-27T16:48:59Z",
+                    "open_issues": 0,
                     "owner": "mit-lean",
                     "repo": "gevo",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2182,12 +3136,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 798176049,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2024-05-13T03:15:43Z",
+                    "open_issues": 2,
                     "owner": "Z-Pengcheng",
                     "repo": "MGS-SLAM",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2198,12 +3157,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 955053398,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-16T15:06:56Z",
+                    "open_issues": 0,
                     "owner": "NAIL-HNU",
                     "repo": "MemGS_SLAM",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2214,12 +3178,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IJCV 2026  Compact GS-SLAM",
+                    "homepage": null,
                     "id": 809377442,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-09-27T08:11:19Z",
+                    "open_issues": 0,
                     "owner": "dtc111111",
                     "repo": "VCGS-SLAM",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2230,12 +3199,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RA-L 2026] DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management",
+                    "homepage": null,
                     "id": 1118962353,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-16T17:30:36Z",
+                    "open_issues": 0,
                     "owner": "leggedrobotics",
                     "repo": "DiskChunGS",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2246,12 +3220,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 910430144,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-12-31T08:50:57Z",
+                    "open_issues": 1,
                     "owner": "runnanchen",
                     "repo": "PanoSLAM",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2262,12 +3241,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 994881340,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-06-02T16:23:25Z",
+                    "open_issues": 2,
                     "owner": "Titrom025",
                     "repo": "LEG-SLAM",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2278,12 +3262,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The implement of EGS-SLAM",
+                    "homepage": null,
                     "id": 1033098728,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-08-06T09:45:48Z",
+                    "open_issues": 3,
                     "owner": "Chensiyu00",
                     "repo": "EGS-SLAM",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2294,12 +3283,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 803313048,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2024-05-21T08:46:35Z",
+                    "open_issues": 1,
                     "owner": "ZeldaFromHeaven",
                     "repo": "TAMBRIDGE-DAVID",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2310,12 +3304,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA 2025] GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM",
+                    "homepage": null,
                     "id": 1112227553,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-12T05:46:24Z",
+                    "open_issues": 1,
                     "owner": "DrLi-Ming",
                     "repo": "GARAD-SLAM",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "3d-gaussian-splatting",
+                      "3dgs",
+                      "gaussian-splatting",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2326,12 +3330,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[TVCG 2025] DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior",
+                    "homepage": null,
                     "id": 1112136529,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-12T05:48:20Z",
+                    "open_issues": 0,
                     "owner": "DrLi-Ming",
                     "repo": "DenseSplat",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "3d-gaussian-splatting",
+                      "neural-radiance-field",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2342,12 +3355,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[T-RO 2025] SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling",
+                    "homepage": null,
                     "id": 980489103,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2025-05-15T06:16:54Z",
+                    "open_issues": 0,
                     "owner": "Jarrome",
                     "repo": "SceneFactory",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2358,12 +3376,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SPORTS, a multimodal simultaneous localization and mapping framework designed for a holistic understanding of urban scenes.",
+                    "homepage": null,
                     "id": 984109359,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-10-28T08:57:57Z",
+                    "open_issues": 0,
                     "owner": "Fireworker20th",
                     "repo": "SPORTS",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2374,12 +3397,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[SIGGRAPH ASIA'25] EGG-Fusion: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly",
+                    "homepage": "https://zju3dv.github.io/eggfusion/",
                     "id": 1106089245,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-23T04:09:57Z",
+                    "open_issues": 1,
                     "owner": "panxkun",
                     "repo": "eggfusion",
-                    "stars": 93
+                    "stars": 93,
+                    "topics": [
+                      "3d-reconstruciton",
+                      "gaussian-splatting",
+                      "gaussian-surfel",
+                      "slam",
+                      "surface-reconstruction"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2390,12 +3424,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of the CVPR 2026 Highlight paper \"Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM\".",
+                    "homepage": null,
                     "id": 1190254228,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-07T17:36:26Z",
+                    "open_issues": 0,
                     "owner": "wangys16",
                     "repo": "Flow4DGS-SLAM",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2406,12 +3445,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RA-L 2026] DOGL-SLAM: Dynamic Object-Level SLAM via Joint Gaussian-Landmark Tracking",
+                    "homepage": null,
                     "id": 943117012,
                     "language": "Dockerfile",
+                    "license": null,
                     "last_commit": "2026-02-02T14:33:49Z",
+                    "open_issues": 0,
                     "owner": "NKU-MobFly-Robotics",
                     "repo": "DOGL-SLAM",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2422,12 +3466,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DQO-MAP: Real-Time Object-Level SLAM via Dual Quadrics and Gaussians",
+                    "homepage": null,
                     "id": 941117544,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-09-17T13:01:30Z",
+                    "open_issues": 1,
                     "owner": "LiHaoy-ux",
                     "repo": "DQO-MAP",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2438,12 +3487,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR Findings 2026] RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction",
+                    "homepage": "https://ru4d-slam.github.io",
                     "id": 1163912962,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-01T15:44:12Z",
+                    "open_issues": 0,
                     "owner": "CNU-Bot-Group",
                     "repo": "ru4dslam",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "4d-gaussian-splatting",
+                      "4d-reconstruction",
+                      "computer-vision",
+                      "cvpr2026",
+                      "gaussian-splatting",
+                      "robotics",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2454,12 +3516,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1102325245,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-22T09:13:11Z",
+                    "open_issues": 0,
                     "owner": "00Haocheng",
                     "repo": "RGD-SLAM",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2470,12 +3537,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of \"TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints\"",
+                    "homepage": null,
                     "id": 1104280123,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-02-23T05:40:04Z",
+                    "open_issues": 0,
                     "owner": "MagicTZ",
                     "repo": "TVG-SLAM",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2486,12 +3558,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RA-L 26] GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow",
+                    "homepage": null,
                     "id": 1213019798,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-05-03T06:06:25Z",
+                    "open_issues": 1,
                     "owner": "url-kaist",
                     "repo": "gaussianflow-slam",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2502,12 +3579,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EAGS-SLAM: Edge-Assisted Gaussian Splatting SLAM",
+                    "homepage": null,
                     "id": 938778973,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-02T07:55:31Z",
+                    "open_issues": 0,
                     "owner": "EnderMandS",
                     "repo": "EAGS-SLAM",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2518,12 +3600,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ICRA'26 Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM",
+                    "homepage": null,
                     "id": 1180892317,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-13T08:52:06Z",
+                    "open_issues": 0,
                     "owner": "UMN-ZhaoLab",
                     "repo": "Pocket-SLAM",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2534,12 +3621,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of TGS-SLAM (RA-L 2026), a semantic RGB-D SLAM system with 3D Gaussians and TriDS. Achieves 97.02% mIoU on Replica with ~100x fewer semantic parameters.",
+                    "homepage": null,
                     "id": 1221454153,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-13T03:57:13Z",
+                    "open_issues": 0,
                     "owner": "shand001",
                     "repo": "TGS-SLAM",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "3d-gaussian-splatting",
+                      "3dgs-slam",
+                      "gaussian-splatting",
+                      "nerf-slam",
+                      "rgb-d-slam",
+                      "scene-understanding",
+                      "semantic-slam",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2550,12 +3651,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1301334088,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-12T10:39:50Z",
+                    "open_issues": 0,
                     "owner": "pmermigkas",
                     "repo": "GLAM-SLAM",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -2573,12 +3679,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA 2025 & IJRR 2026] Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM (in Real Time)",
+                    "homepage": null,
                     "id": 861110937,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-08-08T08:39:35Z",
+                    "open_issues": 38,
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 618
+                    "stars": 618,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2589,12 +3700,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 916656051,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-04-27T08:28:28Z",
+                    "open_issues": 7,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "GS-LIVO",
-                    "stars": 477
+                    "stars": 478,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2605,12 +3721,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV'25] GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting",
+                    "homepage": null,
                     "id": 860282302,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-06T15:20:31Z",
+                    "open_issues": 32,
                     "owner": "xieyuser",
                     "repo": "GS-LIVM",
-                    "stars": 349
+                    "stars": 350,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2621,12 +3742,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📌 PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map [RSS 25]",
+                    "homepage": null,
                     "id": 928776186,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-17T22:01:51Z",
+                    "open_issues": 6,
                     "owner": "PRBonn",
                     "repo": "PINGS",
-                    "stars": 240
+                    "stars": 240,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2637,12 +3763,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IROS 2024] MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements",
+                    "homepage": "https://vita-group.github.io/MM3DGS-SLAM/",
                     "id": 778384538,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-16T00:57:46Z",
+                    "open_issues": 7,
                     "owner": "VITA-Group",
                     "repo": "MM3DGS-SLAM",
-                    "stars": 216
+                    "stars": 216,
+                    "topics": [
+                      "gaussian-splatting",
+                      "robotics",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2653,12 +3788,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "2DGS-SLAM: Globally Consistent RGB-D SLAM with 2D Gaussian Splatting (TRO 2026)",
+                    "homepage": null,
                     "id": 993105835,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-12T22:16:16Z",
+                    "open_issues": 1,
                     "owner": "PRBonn",
                     "repo": "2DGS-SLAM",
-                    "stars": 164
+                    "stars": 164,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2669,12 +3809,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 731038693,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-09-17T15:26:44Z",
+                    "open_issues": 13,
                     "owner": "sheng00125",
                     "repo": "LIV-GaussMap",
-                    "stars": 157
+                    "stars": 157,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2685,12 +3830,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 989679514,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-06-20T07:11:46Z",
+                    "open_issues": 7,
                     "owner": "dtc111111",
                     "repo": "vpgs-slam",
-                    "stars": 114
+                    "stars": 114,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2701,12 +3851,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "M³: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM",
+                    "homepage": null,
                     "id": 1179685341,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-03-18T11:45:41Z",
+                    "open_issues": 1,
                     "owner": "InternRobotics",
                     "repo": "M3",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2717,12 +3872,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ICRA 2026",
+                    "homepage": null,
                     "id": 941252306,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-31T16:20:53Z",
+                    "open_issues": 1,
                     "owner": "yzli1998",
                     "repo": "MipSLAM",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2733,12 +3893,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2026] GaME: Gaussian Mapping for Evolving Scenes",
+                    "homepage": "https://vladimiryugay.github.io/game",
                     "id": 997534404,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-01T12:40:35Z",
+                    "open_issues": 0,
                     "owner": "VladimirYugay",
                     "repo": "GaME",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": [
+                      "3d-reconstruction",
+                      "computer-vision",
+                      "cvpr2026",
+                      "gaussian-splatting"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2749,12 +3919,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "realeased code",
+                    "homepage": null,
                     "id": 1158248950,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-22T15:32:56Z",
+                    "open_issues": 0,
                     "owner": "THU-VCLab",
                     "repo": "WaterSplat-SLAM",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2765,12 +3940,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026] VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM",
+                    "homepage": "https://anhthuan.me/varsplat/",
                     "id": 1164073684,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-14T17:16:34Z",
+                    "open_issues": 0,
                     "owner": "anhthuan1999",
                     "repo": "varsplat",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "3dgs",
+                      "3dgs-slam",
+                      "gaussian-splatting",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2781,12 +3966,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'26 ] Unblur-SLAM: Dense Neural SLAM for Blurry Inputs",
+                    "homepage": null,
                     "id": 1166544228,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T02:15:13Z",
+                    "open_issues": 0,
                     "owner": "SlamMate",
                     "repo": "Unblur-SLAM",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2797,12 +3987,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'26] SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM",
+                    "homepage": "https://machineperceptionlab.github.io/SGAD-SLAM-Project/",
                     "id": 1163746316,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-24T03:07:50Z",
+                    "open_issues": 0,
                     "owner": "MachinePerceptionLab",
                     "repo": "SGAD-SLAM",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "3d-reconstruction",
+                      "3dgaussiansplatting",
+                      "3dgs-slam",
+                      "computer",
+                      "robotics",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2813,12 +4015,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RAL 2026] GSO-SLAM",
+                    "homepage": null,
                     "id": 1154996719,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-06-20T11:11:16Z",
+                    "open_issues": 2,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "GSO-SLAM",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2829,12 +4036,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TRGS-SLAM: IMU-Aided Gaussian Splatting SLAM for Blurry, Rolling Shutter, and Noisy Thermal Images",
+                    "homepage": "https://umautobots.github.io/trgs_slam",
                     "id": 1187505098,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-24T01:53:06Z",
+                    "open_issues": 0,
                     "owner": "umautobots",
                     "repo": "trgs_slam",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2845,12 +4057,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1195545684,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-10T20:37:21Z",
+                    "open_issues": 0,
                     "owner": "lemonci",
                     "repo": "coko-slam",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2861,12 +4078,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1028204875,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-09T01:56:27Z",
+                    "open_issues": 0,
                     "owner": "npu-chenlin",
                     "repo": "CoMA-SLAM",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2877,14 +4099,40 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LVGS-SLAM",
+                    "homepage": null,
                     "id": 1131015690,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-17T05:54:08Z",
+                    "open_issues": 0,
                     "owner": "qlsinori",
                     "repo": "LVGS-SLAM",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TCGSplat: Temporal Confidence Guided 3D Gaussian Splatting for RGB-D SLAM, arXiv, 2026. [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1321774119,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-03T12:46:49Z",
+                    "open_issues": 0,
+                    "owner": "gxcguxen",
+                    "repo": "TCGSplat",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T04:12:13.379Z"
                 }
               ],
               "description": null,
@@ -2900,12 +4148,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 25] 2D Gaussian Splatting based LiDAR Odometry And Mapping",
+                    "homepage": null,
                     "id": 952467143,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-11-29T11:33:35Z",
+                    "open_issues": 3,
                     "owner": "rvp-group",
                     "repo": "Splat-LOAM",
-                    "stars": 205
+                    "stars": 205,
+                    "topics": [
+                      "gaussian-splatting",
+                      "lidar",
+                      "mesh",
+                      "odometry"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2916,12 +4174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2026] Real-Time LiDAR Gaussian Splatting SLAM via Geometry-Aware Covariance Coupling",
+                    "homepage": null,
                     "id": 1274395005,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-24T09:51:48Z",
+                    "open_issues": 0,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "LiDAR-GS-SLAM",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -2946,12 +4209,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2025] MAC-Ego3D: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction",
+                    "homepage": "https://arxiv.org/abs/2412.09723",
                     "id": 902570739,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-04-10T03:57:07Z",
+                    "open_issues": 0,
                     "owner": "Xiaohao-Xu",
                     "repo": "MAC-Ego3D",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": [
+                      "3d",
+                      "3d-reconstruction",
+                      "collaborative-slam",
+                      "cvpr",
+                      "cvpr2025",
+                      "gaussian-splatting",
+                      "multi-agent-systems",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2962,12 +4239,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1002280341,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-08-05T05:16:50Z",
+                    "open_issues": 2,
                     "owner": "dtc111111",
                     "repo": "mcnslam",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2978,12 +4260,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 873451004,
                     "language": "SCSS",
+                    "license": "MIT",
                     "last_commit": "2025-08-21T12:33:25Z",
+                    "open_issues": 2,
                     "owner": "ins-dataset",
                     "repo": "ins",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -2994,12 +4281,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1182395560,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-05-16T03:31:37Z",
+                    "open_issues": 0,
                     "owner": "dtc111111",
                     "repo": "MSN-SLAM",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -3017,12 +4309,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of the method proposed in the paper \"Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation\"",
+                    "homepage": null,
                     "id": 436796747,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-09T00:32:56Z",
+                    "open_issues": 4,
                     "owner": "anthonysimeonov",
                     "repo": "ndf_robot",
-                    "stars": 241
+                    "stars": 241,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3033,12 +4330,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 465088142,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-06-23T13:38:08Z",
+                    "open_issues": 7,
                     "owner": "yenchenlin",
                     "repo": "nerf-supervision-public",
-                    "stars": 207
+                    "stars": 207,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3049,12 +4351,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ObjectFolder Dataset",
+                    "homepage": null,
                     "id": 402936113,
                     "language": "Python",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2022-08-31T16:26:19Z",
+                    "open_issues": 4,
                     "owner": "rhgao",
                     "repo": "ObjectFolder",
-                    "stars": 173
+                    "stars": 173,
+                    "topics": [
+                      "audio",
+                      "dataset",
+                      "implicit-representations",
+                      "multisensory",
+                      "touch",
+                      "vision"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3065,12 +4379,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ObjectFolder Dataset",
+                    "homepage": null,
                     "id": 402936113,
                     "language": "Python",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2022-08-31T16:26:19Z",
+                    "open_issues": 4,
                     "owner": "rhgao",
                     "repo": "ObjectFolder",
-                    "stars": 173
+                    "stars": 173,
+                    "topics": [
+                      "audio",
+                      "dataset",
+                      "implicit-representations",
+                      "multisensory",
+                      "touch",
+                      "vision"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3081,12 +4407,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations",
+                    "homepage": null,
                     "id": 354440018,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-09-06T18:51:40Z",
+                    "open_issues": 4,
                     "owner": "UT-Austin-RPL",
                     "repo": "GIGA",
-                    "stars": 160
+                    "stars": 160,
+                    "topics": [
+                      "3d-reconstruction",
+                      "affordance",
+                      "grasping",
+                      "robot-learning",
+                      "robot-manipulation",
+                      "robotics"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3097,12 +4435,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 280181111,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-12-08T14:37:03Z",
+                    "open_issues": 6,
                     "owner": "korrawe",
                     "repo": "grasping_field",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3113,12 +4456,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Ditto: Building Digital Twins of Articulated Objects from Interaction",
+                    "homepage": null,
                     "id": 433218739,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-12-20T16:33:59Z",
+                    "open_issues": 4,
                     "owner": "UT-Austin-RPL",
                     "repo": "Ditto",
-                    "stars": 128
+                    "stars": 128,
+                    "topics": [
+                      "3d-reconstruction",
+                      "computer-vision",
+                      "deep-learning",
+                      "digital-twin",
+                      "robotics"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3129,12 +4483,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 855154284,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-11-23T23:13:00Z",
+                    "open_issues": 1,
                     "owner": "jeongyun0609",
                     "repo": "TranSplat",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3145,12 +4504,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2023] Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning",
+                    "homepage": null,
                     "id": 504012274,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-12-05T15:37:17Z",
+                    "open_issues": 0,
                     "owner": "tomato1mule",
                     "repo": "edf",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3161,12 +4525,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 567537086,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-11-18T02:11:25Z",
+                    "open_issues": 0,
                     "owner": "anthonysimeonov",
                     "repo": "relational_ndf",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3177,12 +4546,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 592576413,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2023-02-08T03:37:54Z",
+                    "open_issues": 1,
                     "owner": "elchun",
                     "repo": "lndf_robot",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -3200,12 +4574,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch implementation of paper: GaussNav: Gaussian Splatting for Visual Navigation",
+                    "homepage": "https://xiaohanlei.github.io/projects/GaussNav/",
                     "id": 776307274,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-11T06:56:51Z",
+                    "open_issues": 15,
                     "owner": "XiaohanLei",
                     "repo": "GaussNav",
-                    "stars": 219
+                    "stars": 219,
+                    "topics": [
+                      "3dgs",
+                      "gaussiansplatting",
+                      "navigation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3216,12 +4599,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV'24] FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information",
+                    "homepage": "https://jiangwenpl.github.io/FisherRF/",
                     "id": 724695779,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-05-23T19:44:27Z",
+                    "open_issues": 10,
                     "owner": "JiangWenPL",
                     "repo": "FisherRF",
-                    "stars": 217
+                    "stars": 217,
+                    "topics": [
+                      "3dgs",
+                      "eccv2024"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3232,12 +4623,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the Nerf Navigation Paper. Implements a trajectory optimiser and state estimator which use NeRFs as an environment representation",
+                    "homepage": "https://mikh3x4.github.io/nerf-navigation/",
                     "id": 395749554,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T12:58:31Z",
+                    "open_issues": 7,
                     "owner": "mikh3x4",
                     "repo": "nerf-navigation",
-                    "stars": 212
+                    "stars": 212,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3248,12 +4644,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Teaching robots to respond to open-vocab queries with CLIP and NeRF-like neural fields",
+                    "homepage": "https://mahis.life/clip-fields",
                     "id": 537105513,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-02T23:09:22Z",
+                    "open_issues": 1,
                     "owner": "notmahi",
                     "repo": "clip-fields",
-                    "stars": 190
+                    "stars": 190,
+                    "topics": [
+                      "clip",
+                      "neural-fields",
+                      "semantic-fields",
+                      "semantic-navigation",
+                      "sentence-bert"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3264,12 +4671,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RA-L 2025] ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting",
+                    "homepage": "https://li-yuetao.github.io/ActiveSplat/",
                     "id": 938523449,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-24T06:06:02Z",
+                    "open_issues": 4,
                     "owner": "Li-Yuetao",
                     "repo": "ActiveSplat",
-                    "stars": 172
+                    "stars": 172,
+                    "topics": [
+                      "3d-reconstruction",
+                      "robotics"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3280,12 +4695,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RA-L2025] ActiveGS: Active Scene Reconstruction Using Gaussian Splatting",
+                    "homepage": null,
                     "id": 906960704,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-25T10:59:30Z",
+                    "open_issues": 0,
                     "owner": "dmar-bonn",
                     "repo": "active-gs",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3296,12 +4716,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 869211874,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-04-23T23:36:04Z",
+                    "open_issues": 2,
                     "owner": "chengine",
                     "repo": "splatnav",
-                    "stars": 136
+                    "stars": 136,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3312,12 +4737,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IROS2025] & [RA-L2025] Official Code for GRaD-Nav series ",
+                    "homepage": "https://qianzhong-chen.github.io/gradnav.github.io/",
                     "id": 1000598107,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-07T05:28:01Z",
+                    "open_issues": 0,
                     "owner": "Qianzhong-Chen",
                     "repo": "grad_nav",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3328,12 +4758,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024] NARUTO: Neural Active Reconstruction",
+                    "homepage": "https://oppo-us-research.github.io/NARUTO-website/",
                     "id": 779824220,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-07T07:56:18Z",
+                    "open_issues": 4,
                     "owner": "oppo-us-research",
                     "repo": "NARUTO",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": [
+                      "3d-reconstruction",
+                      "active-reconstruction",
+                      "cvpr2024",
+                      "nerf",
+                      "neural-slam",
+                      "next-best-view",
+                      "surface-reconstruction"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3344,12 +4787,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RSS 2025] GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction",
+                    "homepage": null,
                     "id": 972476610,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-07T17:21:27Z",
+                    "open_issues": 3,
                     "owner": "JohannaXie",
                     "repo": "GauSS-MI",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": [
+                      "active-reconstruction",
+                      "computer-vision",
+                      "gaussian-splatting",
+                      "robotics",
+                      "rss2025"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3360,12 +4814,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation",
+                    "homepage": "https://gwxuan.github.io/IGL-Nav/",
                     "id": 1031324022,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-08-04T05:54:12Z",
+                    "open_issues": 3,
                     "owner": "GWxuan",
                     "repo": "IGL-Nav",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3376,12 +4835,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV'21] Neural Radiance Flow for 4D View Synthesis and Video Processing",
+                    "homepage": null,
                     "id": 416169238,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-05-01T15:26:51Z",
+                    "open_issues": 6,
                     "owner": "yilundu",
                     "repo": "nerflow",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3392,12 +4856,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 426748673,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-11-12T01:40:23Z",
+                    "open_issues": 2,
                     "owner": "BoyuanChen",
                     "repo": "visual-selfmodeling",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3408,12 +4877,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 809989083,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-05-09T22:14:00Z",
+                    "open_issues": 5,
                     "owner": "chengine",
                     "repo": "safer-splat",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3424,12 +4898,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 855596300,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-11-29T06:37:59Z",
+                    "open_issues": 0,
                     "owner": "guaMass",
                     "repo": "BEINGS",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3440,12 +4919,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cooking Drone Visuomotor Policies in a Gaussian Splat Vacuum",
+                    "homepage": null,
                     "id": 898643400,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-11-18T01:12:15Z",
+                    "open_issues": 1,
                     "owner": "StanfordMSL",
                     "repo": "SousVide",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3456,28 +4940,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CVPR24: Neural Visibility Field for Uncertainty-Driven Active Mapping",
+                    "homepage": "https://sites.google.com/view/nvf-cvpr24/",
                     "id": 817965843,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-25T01:25:59Z",
+                    "open_issues": 0,
                     "owner": "GaTech-RL2",
                     "repo": "nvf_cvpr24",
-                    "stars": 23
-                  },
-                  "first_seen": "2026-08-28T06:57:01.585Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Active Implicit Object Reconstruction using Uncertainty-guided Next-Best-View Optimization, RAL, 2023. [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 613267739,
-                    "language": "Python",
-                    "last_commit": "2023-08-28T04:11:05Z",
-                    "owner": "HITSZ-NRSL",
-                    "repo": "ActiveImplicitRecon",
-                    "stars": 14
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3488,12 +4961,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official repo of AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance",
+                    "homepage": null,
                     "id": 1105183251,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T15:23:56Z",
+                    "open_issues": 1,
                     "owner": "TianlingXu",
                     "repo": "AREA3D",
-                    "stars": 14
+                    "stars": 15,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Active Implicit Object Reconstruction using Uncertainty-guided Next-Best-View Optimization, RAL, 2023. [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[RA-L 2023] Active Implicit Object Reconstruction using Uncertainty-guided Next-Best-View Optimization",
+                    "homepage": null,
+                    "id": 613267739,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2023-08-28T04:11:05Z",
+                    "open_issues": 0,
+                    "owner": "HITSZ-NRSL",
+                    "repo": "ActiveImplicitRecon",
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -3511,12 +5010,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Monte Carlo Localization using Neural Radiance Fields",
+                    "homepage": null,
                     "id": 537154221,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-28T17:04:10Z",
+                    "open_issues": 2,
                     "owner": "MIT-SPARK",
                     "repo": "Loc-NeRF",
-                    "stars": 280
+                    "stars": 280,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3527,12 +5031,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LocNDF: Neural Distance Field Mapping for Robot Localization",
+                    "homepage": null,
                     "id": 659623008,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-04T05:38:10Z",
+                    "open_issues": 2,
                     "owner": "PRBonn",
                     "repo": "LocNDF",
-                    "stars": 153
+                    "stars": 153,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3543,12 +5052,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IROS 2025] GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization",
+                    "homepage": null,
                     "id": 862607646,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-27T19:56:02Z",
+                    "open_issues": 7,
                     "owner": "be2rlab",
                     "repo": "gsplatloc",
-                    "stars": 148
+                    "stars": 148,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3559,12 +5073,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[TVCG 2025] SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality",
+                    "homepage": "https://zju3dv.github.io/splatloc/",
                     "id": 860265033,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-21T17:46:40Z",
+                    "open_issues": 0,
                     "owner": "zhaihongjia",
                     "repo": "SplatLoc",
-                    "stars": 146
+                    "stars": 146,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3575,12 +5094,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for ICRA2023 paper \"NeRF-Loc: Visual Localization with Conditional Neural Radiance Field\"",
+                    "homepage": null,
                     "id": 628801576,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-07-04T08:08:20Z",
+                    "open_issues": 9,
                     "owner": "TencentYoutuResearch",
                     "repo": "NeRF-Loc",
-                    "stars": 116
+                    "stars": 116,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3591,12 +5115,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "😎 GsplatLoc 🎯: Ultra-Precise Pose Optimization via 3D Gaussian Reprojection 🌟",
+                    "homepage": "https://arxiv.org/abs/2412.20056",
                     "id": 805158293,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T17:13:16Z",
+                    "open_issues": 5,
                     "owner": "AtticusZeller",
                     "repo": "GsplatLoc",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": [
+                      "3d-reconstruction",
+                      "6dof",
+                      "camerapose-estimate",
+                      "computer-vision",
+                      "deeplearning",
+                      "gaussian-splatting",
+                      "gsplat",
+                      "localization",
+                      "python",
+                      "pytorch",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3607,12 +5148,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2025] From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting",
+                    "homepage": null,
                     "id": 947709588,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-14T13:19:08Z",
+                    "open_issues": 0,
                     "owner": "zju3dv",
                     "repo": "STDLoc",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3623,12 +5169,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV24] The NeRFect Match: Exploring NeRF Features for Visual Localization",
+                    "homepage": "https://nerfmatch.github.io/",
                     "id": 862598316,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-14T09:38:55Z",
+                    "open_issues": 2,
                     "owner": "nv-dvl",
                     "repo": "nerfmatch",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3639,12 +5190,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV workshop 2024] Visual localization with NeRFs",
+                    "homepage": "https://feixue94.github.io/",
                     "id": 696803338,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-09-08T13:00:29Z",
+                    "open_issues": 0,
                     "owner": "feixue94",
                     "repo": "vrs-nerf",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "7scenes",
+                      "cambridgelandmarks",
+                      "local-feature",
+                      "matching",
+                      "nerfs",
+                      "visual-localization"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3655,12 +5218,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA 2025] Fast Global Localization on Neural Radiance Field",
+                    "homepage": null,
                     "id": 815100498,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-30T02:45:15Z",
+                    "open_issues": 0,
                     "owner": "kmk97",
                     "repo": "Fast-Loc-NeRF",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3671,12 +5239,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA25] GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting",
+                    "homepage": null,
                     "id": 491034557,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-30T12:35:33Z",
+                    "open_issues": 2,
                     "owner": "ChillTerry",
                     "repo": "GS-EVT",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3687,12 +5260,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Localization result for “sunken area”. It serves as part of Yuzhou Cheng's master thesis: \"LoGS: Visual Localization for Mobile Robots with Gaussian Splatting\"",
+                    "homepage": null,
                     "id": 853866729,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-03-02T21:51:56Z",
+                    "open_issues": 0,
                     "owner": "YuzhouCheng66",
                     "repo": "LoGS-experiment",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -3710,12 +5288,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GauLoc: 3D Gaussian Splatting-based Camera Relocalization",
+                    "homepage": null,
                     "id": 838934677,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-06T16:31:49Z",
+                    "open_issues": 0,
                     "owner": "xinzhe11",
                     "repo": "GauLoc",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -3733,12 +5316,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IROS 2025] LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction",
+                    "homepage": "https://jianhengliu.github.io/Projects/GS-SDF/",
                     "id": 941361830,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-07-16T07:36:12Z",
+                    "open_issues": 19,
                     "owner": "hku-mars",
                     "repo": "GS-SDF",
-                    "stars": 529
+                    "stars": 529,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 }
@@ -3757,17 +5345,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:01.585Z",
+    "last_updated": "2026-08-29T04:12:13.379Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
+      "homepage": null,
       "id": 575786486,
       "language": null,
-      "last_commit": "2026-08-27T07:56:40Z",
+      "license": null,
+      "last_commit": "2026-08-28T18:53:02Z",
+      "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2111
+      "stars": 2112,
+      "topics": [
+        "3dgs",
+        "awesome",
+        "gaussiansplatting",
+        "lidar-slam",
+        "nerf",
+        "robotics",
+        "slam",
+        "vslam"
+      ]
     },
-    "original_repository_sha": "77b5b2f4e2cfb3f59fecfc7aa09edcd86aff495f",
+    "original_repository_sha": "59c5bac556de398167682f9012c307a1bab9fe22",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
