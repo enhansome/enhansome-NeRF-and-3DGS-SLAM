@@ -2752,7 +2752,7 @@
                     "open_issues": 0,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "LEGO-SLAM",
-                    "stars": 83,
+                    "stars": 85,
                     "topics": [
                       "3d-reconstruction",
                       "3dgs",
@@ -2890,7 +2890,7 @@
                     "open_issues": 1,
                     "owner": "rpng",
                     "repo": "online_lang_splatting",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": [
                       "3d-mapping",
                       "dense-realtime-clip",
@@ -3492,7 +3492,7 @@
                     "id": 1163912962,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-06-01T15:44:12Z",
+                    "last_commit": "2026-08-29T12:50:57Z",
                     "open_issues": 0,
                     "owner": "CNU-Bot-Group",
                     "repo": "ru4dslam",
@@ -3688,7 +3688,7 @@
                     "open_issues": 38,
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 618,
+                    "stars": 621,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4680,7 +4680,7 @@
                     "open_issues": 4,
                     "owner": "Li-Yuetao",
                     "repo": "ActiveSplat",
-                    "stars": 172,
+                    "stars": 173,
                     "topics": [
                       "3d-reconstruction",
                       "robotics"
@@ -5157,7 +5157,7 @@
                     "open_issues": 0,
                     "owner": "zju3dv",
                     "repo": "STDLoc",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5345,7 +5345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:09.046Z",
+    "last_updated": "2026-08-30T01:17:20.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
