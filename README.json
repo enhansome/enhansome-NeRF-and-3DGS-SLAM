@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "3D-Vision-World",
             "repo": "awesome-NeRF-and-3DGS-SLAM",
-            "stars": 2112,
+            "stars": 2114,
             "topics": [
               "3dgs",
               "awesome",
@@ -99,7 +99,7 @@
                 "open_issues": 127,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3282,
+                "stars": 3281,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -124,7 +124,7 @@
                 "open_issues": 32,
                 "owner": "autonomousvision",
                 "repo": "mip-splatting",
-                "stars": 1467,
+                "stars": 1466,
                 "topics": [
                   "3d-reconstruction",
                   "anti-aliasing",
@@ -585,7 +585,7 @@
                 "open_issues": 0,
                 "owner": "Archerkattri",
                 "repo": "splatreg",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "3dgs",
                   "gaussian-splatting",
@@ -1830,7 +1830,7 @@
                     "open_issues": 0,
                     "owner": "PRBonn",
                     "repo": "SHINE_mapping",
-                    "stars": 491,
+                    "stars": 492,
                     "topics": [
                       "3d-mapping",
                       "implicit-neural-representation",
@@ -2215,7 +2215,7 @@
                     "open_issues": 38,
                     "owner": "HuajianUP",
                     "repo": "Photo-SLAM",
-                    "stars": 761,
+                    "stars": 762,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2834,27 +2834,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment, ICRA, 2025. [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment",
-                    "homepage": null,
-                    "id": 888266098,
-                    "language": null,
-                    "license": "MIT",
-                    "last_commit": "2025-09-08T13:54:13Z",
-                    "open_issues": 1,
-                    "owner": "kmk97",
-                    "repo": "DGS-SLAM",
-                    "stars": 68,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:57:01.585Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes, WACV, 2026. [Paper",
                   "description": "] [Website] [Code]",
                   "children": [],
@@ -2869,6 +2848,27 @@
                     "open_issues": 3,
                     "owner": "BlarkLee",
                     "repo": "DynaGSLAM_official",
+                    "stars": 69,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment, ICRA, 2025. [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment",
+                    "homepage": null,
+                    "id": 888266098,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2025-09-08T13:54:13Z",
+                    "open_issues": 1,
+                    "owner": "kmk97",
+                    "repo": "DGS-SLAM",
                     "stars": 68,
                     "topics": []
                   },
@@ -3072,7 +3072,7 @@
                     "open_issues": 0,
                     "owner": "AIRLab-POLIMI",
                     "repo": "agri-gs-slam",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": [
                       "3d-reconstruction",
                       "agriculture",
@@ -3433,7 +3433,7 @@
                     "open_issues": 0,
                     "owner": "wangys16",
                     "repo": "Flow4DGS-SLAM",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3688,7 +3688,7 @@
                     "open_issues": 38,
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 621,
+                    "stars": 622,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3709,7 +3709,7 @@
                     "open_issues": 7,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "GS-LIVO",
-                    "stars": 478,
+                    "stars": 479,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3949,7 +3949,7 @@
                     "open_issues": 0,
                     "owner": "anhthuan1999",
                     "repo": "varsplat",
-                    "stars": 31,
+                    "stars": 32,
                     "topics": [
                       "3dgs",
                       "3dgs-slam",
@@ -5345,7 +5345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:17:20.407Z",
+    "last_updated": "2026-08-31T01:23:36.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5357,7 +5357,7 @@
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2112,
+      "stars": 2114,
       "topics": [
         "3dgs",
         "awesome",
