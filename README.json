@@ -14,7 +14,7 @@
             "id": 575786486,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-01T15:09:35Z",
+            "last_commit": "2026-09-02T04:37:52Z",
             "open_issues": 0,
             "owner": "3D-Vision-World",
             "repo": "awesome-NeRF-and-3DGS-SLAM",
@@ -51,7 +51,7 @@
                 "open_issues": 121,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10926,
+                "stars": 10928,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields"
@@ -96,10 +96,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-25T18:36:57Z",
-                "open_issues": 127,
+                "open_issues": 126,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3282,
+                "stars": 3283,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -124,7 +124,7 @@
                 "open_issues": 32,
                 "owner": "autonomousvision",
                 "repo": "mip-splatting",
-                "stars": 1466,
+                "stars": 1467,
                 "topics": [
                   "3d-reconstruction",
                   "anti-aliasing",
@@ -852,7 +852,7 @@
                     "open_issues": 10,
                     "owner": "zju3dv",
                     "repo": "Vox-Fusion",
-                    "stars": 280,
+                    "stars": 281,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -1741,7 +1741,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "PMET-SLAM: Neural Implicit RGB-D SLAM With Photorealistic Mapping and Efficient Tracking, arXiv, 2026. [Paper",
+                  "title": "PMET-SLAM: Neural Implicit RGB-D SLAM With Photorealistic Mapping and Efficient Tracking, TITS, 2026. [Paper",
                   "description": "] [Code]",
                   "children": [],
                   "repo_info": {
@@ -1809,7 +1809,7 @@
                     "open_issues": 6,
                     "owner": "JunyuanDeng",
                     "repo": "NeRF-LOAM",
-                    "stars": 557,
+                    "stars": 558,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2057,7 +2057,7 @@
                     "open_issues": 7,
                     "owner": "hku-mars",
                     "repo": "M2Mapping",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2134,7 +2134,7 @@
                     "open_issues": 53,
                     "owner": "spla-tam",
                     "repo": "SplaTAM",
-                    "stars": 2187,
+                    "stars": 2189,
                     "topics": [
                       "computer-vision",
                       "cvpr2024",
@@ -2161,7 +2161,7 @@
                     "open_issues": 101,
                     "owner": "muskie82",
                     "repo": "MonoGS",
-                    "stars": 2152,
+                    "stars": 2153,
                     "topics": [
                       "computer-vision",
                       "cvpr2024",
@@ -2257,7 +2257,7 @@
                     "open_issues": 36,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "GS_ICP_SLAM",
-                    "stars": 535,
+                    "stars": 536,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2508,7 +2508,7 @@
                     "open_issues": 4,
                     "owner": "yanyan-li",
                     "repo": "4DGS-SLAM",
-                    "stars": 195,
+                    "stars": 196,
                     "topics": [
                       "dynamic-slam",
                       "gaussian-splatting-slam"
@@ -3124,7 +3124,7 @@
                     "open_issues": 0,
                     "owner": "mit-lean",
                     "repo": "gevo",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3268,7 +3268,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2025-08-06T09:45:48Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "Chensiyu00",
                     "repo": "EGS-SLAM",
                     "stars": 12,
@@ -3433,7 +3433,7 @@
                     "open_issues": 0,
                     "owner": "wangys16",
                     "repo": "Flow4DGS-SLAM",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3656,7 +3656,7 @@
                     "id": 1301334088,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-08-12T10:39:50Z",
+                    "last_commit": "2026-09-02T05:06:54Z",
                     "open_issues": 0,
                     "owner": "pmermigkas",
                     "repo": "GLAM-SLAM",
@@ -3688,7 +3688,7 @@
                     "open_issues": 38,
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 625,
+                    "stars": 629,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3902,7 +3902,7 @@
                     "open_issues": 0,
                     "owner": "VladimirYugay",
                     "repo": "GaME",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": [
                       "3d-reconstruction",
                       "computer-vision",
@@ -3928,7 +3928,7 @@
                     "open_issues": 0,
                     "owner": "THU-VCLab",
                     "repo": "WaterSplat-SLAM",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4087,7 +4087,7 @@
                     "open_issues": 0,
                     "owner": "npu-chenlin",
                     "repo": "CoMA-SLAM",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4183,7 +4183,7 @@
                     "open_issues": 0,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "LiDAR-GS-SLAM",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4680,7 +4680,7 @@
                     "open_issues": 4,
                     "owner": "Li-Yuetao",
                     "repo": "ActiveSplat",
-                    "stars": 173,
+                    "stars": 174,
                     "topics": [
                       "3d-reconstruction",
                       "robotics"
@@ -5121,7 +5121,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-03T17:13:16Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "AtticusZeller",
                     "repo": "GsplatLoc",
                     "stars": 94,
@@ -5345,7 +5345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:03:18.666Z",
+    "last_updated": "2026-09-03T01:08:33.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5353,7 +5353,7 @@
       "id": 575786486,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-01T15:09:35Z",
+      "last_commit": "2026-09-02T04:37:52Z",
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
@@ -5369,7 +5369,7 @@
         "vslam"
       ]
     },
-    "original_repository_sha": "8f767839f7f2d6681cc456a3789f7d7303084cc8",
+    "original_repository_sha": "2f60baa0655adae28976aabfeef8b8bc1902a2b3",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
