@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "3D-Vision-World",
             "repo": "awesome-NeRF-and-3DGS-SLAM",
-            "stars": 2119,
+            "stars": 2120,
             "topics": [
               "3dgs",
               "awesome",
@@ -99,7 +99,7 @@
                 "open_issues": 126,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3284,
+                "stars": 3285,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -124,7 +124,7 @@
                 "open_issues": 32,
                 "owner": "autonomousvision",
                 "repo": "mip-splatting",
-                "stars": 1468,
+                "stars": 1470,
                 "topics": [
                   "3d-reconstruction",
                   "anti-aliasing",
@@ -1783,7 +1783,7 @@
                     "open_issues": 3,
                     "owner": "PRBonn",
                     "repo": "PIN_SLAM",
-                    "stars": 622,
+                    "stars": 623,
                     "topics": [
                       "3d-mapping",
                       "implicit-neural-representation",
@@ -2134,7 +2134,7 @@
                     "open_issues": 53,
                     "owner": "spla-tam",
                     "repo": "SplaTAM",
-                    "stars": 2189,
+                    "stars": 2190,
                     "topics": [
                       "computer-vision",
                       "cvpr2024",
@@ -2236,7 +2236,7 @@
                     "open_issues": 9,
                     "owner": "GradientSpaces",
                     "repo": "WildGS-SLAM",
-                    "stars": 649,
+                    "stars": 650,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2278,7 +2278,7 @@
                     "open_issues": 11,
                     "owner": "ShuhongLL",
                     "repo": "SGS-SLAM",
-                    "stars": 528,
+                    "stars": 529,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2445,7 +2445,7 @@
                     "open_issues": 3,
                     "owner": "yanchi-3dv",
                     "repo": "diff-gaussian-rasterization-for-gsslam",
-                    "stars": 261,
+                    "stars": 262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2685,7 +2685,7 @@
                     "open_issues": 0,
                     "owner": "lif314",
                     "repo": "GS3LAM",
-                    "stars": 98,
+                    "stars": 99,
                     "topics": [
                       "gaussian-splatting",
                       "gaussian-splatting-slam",
@@ -3630,7 +3630,7 @@
                     "open_issues": 0,
                     "owner": "shand001",
                     "repo": "TGS-SLAM",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": [
                       "3d-gaussian-splatting",
                       "3dgs-slam",
@@ -3688,7 +3688,7 @@
                     "open_issues": 38,
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 632,
+                    "stars": 633,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3818,7 +3818,7 @@
                     "open_issues": 13,
                     "owner": "sheng00125",
                     "repo": "LIV-GaussMap",
-                    "stars": 157,
+                    "stars": 158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4108,7 +4108,7 @@
                     "open_issues": 0,
                     "owner": "qlsinori",
                     "repo": "LVGS-SLAM",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4914,6 +4914,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Neural Visibility Field for Uncertainty-Driven Active Mapping, CVPR, 2024. [Paper",
+                  "description": "] [Website] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CVPR24: Neural Visibility Field for Uncertainty-Driven Active Mapping",
+                    "homepage": "https://sites.google.com/view/nvf-cvpr24/",
+                    "id": 817965843,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-12-25T01:25:59Z",
+                    "open_issues": 0,
+                    "owner": "GaTech-RL2",
+                    "repo": "nvf_cvpr24",
+                    "stars": 25,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum, IROS, 2025. [Paper",
                   "description": "] [Website] [Code]",
                   "children": [],
@@ -4929,27 +4950,6 @@
                     "owner": "StanfordMSL",
                     "repo": "SousVide",
                     "stars": 25,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:57:01.585Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Neural Visibility Field for Uncertainty-Driven Active Mapping, CVPR, 2024. [Paper",
-                  "description": "] [Website] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "CVPR24: Neural Visibility Field for Uncertainty-Driven Active Mapping",
-                    "homepage": "https://sites.google.com/view/nvf-cvpr24/",
-                    "id": 817965843,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-12-25T01:25:59Z",
-                    "open_issues": 0,
-                    "owner": "GaTech-RL2",
-                    "repo": "nvf_cvpr24",
-                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5345,7 +5345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:01:15.126Z",
+    "last_updated": "2026-09-05T01:00:45.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5357,7 +5357,7 @@
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2119,
+      "stars": 2120,
       "topics": [
         "3dgs",
         "awesome",
