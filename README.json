@@ -99,7 +99,7 @@
                 "open_issues": 126,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3285,
+                "stars": 3286,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -623,7 +623,7 @@
                     "open_issues": 65,
                     "owner": "zju3dv",
                     "repo": "NeuralRecon",
-                    "stars": 2276,
+                    "stars": 2278,
                     "topics": [
                       "3d-reconstruction",
                       "3d-vision"
@@ -748,7 +748,7 @@
                     "open_issues": 6,
                     "owner": "facebookresearch",
                     "repo": "iSDF",
-                    "stars": 450,
+                    "stars": 449,
                     "topics": [
                       "implicit-neural-representation",
                       "mapping",
@@ -2424,7 +2424,7 @@
                     "open_issues": 18,
                     "owner": "Willyzw",
                     "repo": "HI-SLAM2",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3688,7 +3688,7 @@
                     "open_issues": 38,
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 633,
+                    "stars": 634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3706,10 +3706,10 @@
                     "language": "C++",
                     "license": null,
                     "last_commit": "2026-04-27T08:28:28Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "GS-LIVO",
-                    "stars": 479,
+                    "stars": 480,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4183,7 +4183,7 @@
                     "open_issues": 0,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "LiDAR-GS-SLAM",
-                    "stars": 36,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5345,7 +5345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:00:45.546Z",
+    "last_updated": "2026-09-06T01:01:57.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
