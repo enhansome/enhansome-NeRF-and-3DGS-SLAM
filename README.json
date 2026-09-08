@@ -99,7 +99,7 @@
                 "open_issues": 126,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3286,
+                "stars": 3288,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -423,7 +423,7 @@
                 "open_issues": 1,
                 "owner": "dtc111111",
                 "repo": "awesome-representation-for-robotics",
-                "stars": 465,
+                "stars": 466,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -1987,7 +1987,7 @@
                     "open_issues": 0,
                     "owner": "SenseRoboticsLab",
                     "repo": "CURL-SLAM",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2057,7 +2057,7 @@
                     "open_issues": 7,
                     "owner": "hku-mars",
                     "repo": "M2Mapping",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2134,7 +2134,7 @@
                     "open_issues": 53,
                     "owner": "spla-tam",
                     "repo": "SplaTAM",
-                    "stars": 2191,
+                    "stars": 2192,
                     "topics": [
                       "computer-vision",
                       "cvpr2024",
@@ -2215,7 +2215,7 @@
                     "open_issues": 38,
                     "owner": "HuajianUP",
                     "repo": "Photo-SLAM",
-                    "stars": 763,
+                    "stars": 764,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2257,7 +2257,7 @@
                     "open_issues": 36,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "GS_ICP_SLAM",
-                    "stars": 536,
+                    "stars": 537,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2445,7 +2445,7 @@
                     "open_issues": 3,
                     "owner": "yanchi-3dv",
                     "repo": "diff-gaussian-rasterization-for-gsslam",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3433,7 +3433,7 @@
                     "open_issues": 0,
                     "owner": "wangys16",
                     "repo": "Flow4DGS-SLAM",
-                    "stars": 66,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3454,7 +3454,7 @@
                     "open_issues": 0,
                     "owner": "NKU-MobFly-Robotics",
                     "repo": "DOGL-SLAM",
-                    "stars": 22,
+                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3688,7 +3688,7 @@
                     "open_issues": 38,
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 634,
+                    "stars": 635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3709,7 +3709,7 @@
                     "open_issues": 8,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "GS-LIVO",
-                    "stars": 481,
+                    "stars": 482,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3975,7 +3975,28 @@
                     "open_issues": 0,
                     "owner": "SlamMate",
                     "repo": "Unblur-SLAM",
-                    "stars": 29,
+                    "stars": 30,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry, RAL, 2026. [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[RAL 2026] GSO-SLAM",
+                    "homepage": null,
+                    "id": 1154996719,
+                    "language": "C++",
+                    "license": null,
+                    "last_commit": "2026-06-20T11:11:16Z",
+                    "open_issues": 2,
+                    "owner": "Lab-of-AI-and-Robotics",
+                    "repo": "GSO-SLAM",
+                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4005,27 +4026,6 @@
                       "robotics",
                       "slam"
                     ]
-                  },
-                  "first_seen": "2026-08-28T06:57:01.585Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry, RAL, 2026. [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[RAL 2026] GSO-SLAM",
-                    "homepage": null,
-                    "id": 1154996719,
-                    "language": "C++",
-                    "license": null,
-                    "last_commit": "2026-06-20T11:11:16Z",
-                    "open_issues": 2,
-                    "owner": "Lab-of-AI-and-Robotics",
-                    "repo": "GSO-SLAM",
-                    "stars": 22,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -4183,7 +4183,7 @@
                     "open_issues": 0,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "LiDAR-GS-SLAM",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4704,7 +4704,7 @@
                     "open_issues": 0,
                     "owner": "dmar-bonn",
                     "repo": "active-gs",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4746,7 +4746,7 @@
                     "open_issues": 0,
                     "owner": "Qianzhong-Chen",
                     "repo": "grad_nav",
-                    "stars": 111,
+                    "stars": 112,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5120,7 +5120,7 @@
                     "id": 805158293,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-03T17:13:16Z",
+                    "last_commit": "2026-09-07T17:17:59Z",
                     "open_issues": 5,
                     "owner": "AtticusZeller",
                     "repo": "GsplatLoc",
@@ -5345,7 +5345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:03:41.566Z",
+    "last_updated": "2026-09-08T01:14:14.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
