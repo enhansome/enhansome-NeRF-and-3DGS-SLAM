@@ -51,7 +51,7 @@
                 "open_issues": 122,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10933,
+                "stars": 10934,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields"
@@ -99,7 +99,7 @@
                 "open_issues": 127,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3293,
+                "stars": 3294,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -581,7 +581,7 @@
                 "id": 1260804203,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-16T03:34:40Z",
+                "last_commit": "2026-09-18T01:16:13Z",
                 "open_issues": 0,
                 "owner": "Archerkattri",
                 "repo": "splatreg",
@@ -1650,7 +1650,7 @@
                     "open_issues": 0,
                     "owner": "SCH1001",
                     "repo": "SLNR",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2057,7 +2057,7 @@
                     "open_issues": 7,
                     "owner": "hku-mars",
                     "repo": "M2Mapping",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2134,7 +2134,7 @@
                     "open_issues": 53,
                     "owner": "spla-tam",
                     "repo": "SplaTAM",
-                    "stars": 2194,
+                    "stars": 2195,
                     "topics": [
                       "computer-vision",
                       "cvpr2024",
@@ -2215,7 +2215,7 @@
                     "open_issues": 38,
                     "owner": "HuajianUP",
                     "repo": "Photo-SLAM",
-                    "stars": 766,
+                    "stars": 767,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2320,7 +2320,7 @@
                     "open_issues": 3,
                     "owner": "ChenHoy",
                     "repo": "DROID-Splat",
-                    "stars": 417,
+                    "stars": 416,
                     "topics": [
                       "3d-reconstruction",
                       "computer-vision",
@@ -2445,7 +2445,7 @@
                     "open_issues": 3,
                     "owner": "yanchi-3dv",
                     "repo": "diff-gaussian-rasterization-for-gsslam",
-                    "stars": 263,
+                    "stars": 264,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2685,7 +2685,7 @@
                     "open_issues": 0,
                     "owner": "lif314",
                     "repo": "GS3LAM",
-                    "stars": 101,
+                    "stars": 102,
                     "topics": [
                       "gaussian-splatting",
                       "gaussian-splatting-slam",
@@ -2782,7 +2782,7 @@
                     "open_issues": 4,
                     "owner": "IRMVLab",
                     "repo": "SemGauss-SLAM",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3461,6 +3461,35 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction, CVPR 2026 Findings Track, 2026. [Paper",
+                  "description": "] [Website] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR Findings 2026] RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction",
+                    "homepage": "https://ru4d-slam.github.io",
+                    "id": 1163912962,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-08-29T12:50:57Z",
+                    "open_issues": 0,
+                    "owner": "CNU-Bot-Group",
+                    "repo": "ru4dslam",
+                    "stars": 19,
+                    "topics": [
+                      "4d-gaussian-splatting",
+                      "4d-reconstruction",
+                      "computer-vision",
+                      "cvpr2026",
+                      "gaussian-splatting",
+                      "robotics",
+                      "slam"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "DQO-MAP: Real-Time Object-Level SLAM with Dual Quadrics and Gaussians, RAL, 2025. [Paper",
                   "description": "] [Code]",
                   "children": [],
@@ -3477,35 +3506,6 @@
                     "repo": "DQO-MAP",
                     "stars": 18,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:57:01.585Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction, CVPR 2026 Findings Track, 2026. [Paper",
-                  "description": "] [Website] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR Findings 2026] RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction",
-                    "homepage": "https://ru4d-slam.github.io",
-                    "id": 1163912962,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-08-29T12:50:57Z",
-                    "open_issues": 0,
-                    "owner": "CNU-Bot-Group",
-                    "repo": "ru4dslam",
-                    "stars": 18,
-                    "topics": [
-                      "4d-gaussian-splatting",
-                      "4d-reconstruction",
-                      "computer-vision",
-                      "cvpr2026",
-                      "gaussian-splatting",
-                      "robotics",
-                      "slam"
-                    ]
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
                 },
@@ -3688,7 +3688,7 @@
                     "open_issues": 38,
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 639,
+                    "stars": 640,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3709,7 +3709,7 @@
                     "open_issues": 8,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "GS-LIVO",
-                    "stars": 488,
+                    "stars": 489,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4183,7 +4183,7 @@
                     "open_issues": 0,
                     "owner": "Lab-of-AI-and-Robotics",
                     "repo": "LiDAR-GS-SLAM",
-                    "stars": 43,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4583,7 +4583,7 @@
                     "open_issues": 15,
                     "owner": "XiaohanLei",
                     "repo": "GaussNav",
-                    "stars": 219,
+                    "stars": 220,
                     "topics": [
                       "3dgs",
                       "gaussiansplatting",
@@ -4746,7 +4746,7 @@
                     "open_issues": 0,
                     "owner": "Qianzhong-Chen",
                     "repo": "grad_nav",
-                    "stars": 111,
+                    "stars": 112,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4796,7 +4796,7 @@
                     "open_issues": 3,
                     "owner": "JohannaXie",
                     "repo": "GauSS-MI",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": [
                       "active-reconstruction",
                       "computer-vision",
@@ -4961,7 +4961,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "The official repo of AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance",
+                    "description": "[CVPR 2026] AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance",
                     "homepage": null,
                     "id": 1105183251,
                     "language": "Python",
@@ -4991,7 +4991,7 @@
                     "open_issues": 0,
                     "owner": "HITSZ-NRSL",
                     "repo": "ActiveImplicitRecon",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5345,7 +5345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:28:26.154Z",
+    "last_updated": "2026-09-18T01:18:18.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
