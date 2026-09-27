@@ -14,7 +14,7 @@
             "id": 575786486,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-23T15:52:29Z",
+            "last_commit": "2026-09-26T12:59:32Z",
             "open_issues": 1,
             "owner": "3D-Vision-World",
             "repo": "awesome-NeRF-and-3DGS-SLAM",
@@ -99,7 +99,7 @@
                 "open_issues": 127,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3296,
+                "stars": 3297,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -585,7 +585,7 @@
                 "open_issues": 0,
                 "owner": "Archerkattri",
                 "repo": "splatreg",
-                "stars": 17,
+                "stars": 19,
                 "topics": [
                   "3dgs",
                   "gaussian-splatting",
@@ -2215,7 +2215,7 @@
                     "open_issues": 38,
                     "owner": "HuajianUP",
                     "repo": "Photo-SLAM",
-                    "stars": 773,
+                    "stars": 774,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2374,7 +2374,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2025-12-07T10:13:44Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "VladimirYugay",
                     "repo": "MAGiC-SLAM",
                     "stars": 339,
@@ -2559,7 +2559,7 @@
                     "open_issues": 4,
                     "owner": "LeeBY68",
                     "repo": "Hier-SLAM",
-                    "stars": 170,
+                    "stars": 171,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2601,7 +2601,7 @@
                     "open_issues": 6,
                     "owner": "DengKaiCQ",
                     "repo": "GigaSLAM",
-                    "stars": 147,
+                    "stars": 148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3173,6 +3173,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Compact 3D Gaussian Splatting For Dense Visual SLAM, arXiv, 2024. [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "IJCV 2026  Compact GS-SLAM",
+                    "homepage": null,
+                    "id": 809377442,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2025-09-27T08:11:19Z",
+                    "open_issues": 0,
+                    "owner": "dtc111111",
+                    "repo": "VCGS-SLAM",
+                    "stars": 25,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management, RAL, 2026. [Paper",
                   "description": "] [Website] [Code]",
                   "children": [],
@@ -3188,27 +3209,6 @@
                     "owner": "leggedrobotics",
                     "repo": "DiskChunGS",
                     "stars": 25,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:57:01.585Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Compact 3D Gaussian Splatting For Dense Visual SLAM, arXiv, 2024. [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "IJCV 2026  Compact GS-SLAM",
-                    "homepage": null,
-                    "id": 809377442,
-                    "language": "C++",
-                    "license": "MIT",
-                    "last_commit": "2025-09-27T08:11:19Z",
-                    "open_issues": 0,
-                    "owner": "dtc111111",
-                    "repo": "VCGS-SLAM",
-                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3664,6 +3664,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Geo2DGS‐SLAM: Geometry‐Driven SLAM With 2D Gaussian Splatting, CAAI Transactions on Intelligence Technology, 2026. [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1005924881,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-09-12T11:59:06Z",
+                    "open_issues": 0,
+                    "owner": "Able1231",
+                    "repo": "Geo2DGS-SLAM",
+                    "stars": 9,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-27T01:31:07.547Z"
                 },
                 {
                   "node_type": "item",
@@ -4239,7 +4260,7 @@
                     "open_issues": 0,
                     "owner": "Xiaohao-Xu",
                     "repo": "MAC-Ego3D",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": [
                       "3d",
                       "3d-reconstruction",
@@ -4767,7 +4788,7 @@
                     "open_issues": 0,
                     "owner": "Qianzhong-Chen",
                     "repo": "grad_nav",
-                    "stars": 112,
+                    "stars": 113,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5366,7 +5387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T01:37:06.344Z",
+    "last_updated": "2026-09-27T01:31:07.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5374,7 +5395,7 @@
       "id": 575786486,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-23T15:52:29Z",
+      "last_commit": "2026-09-26T12:59:32Z",
       "open_issues": 1,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
@@ -5390,7 +5411,7 @@
         "vslam"
       ]
     },
-    "original_repository_sha": "adab21cab57e2014c41266ae51b64f5ae70021b1",
+    "original_repository_sha": "e9c5208edaec0c1318fc705b032e71af40fb64a5",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
