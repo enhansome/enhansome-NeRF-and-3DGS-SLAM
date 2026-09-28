@@ -2,11 +2,11 @@
 
 This repo contains a curative list of **NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain**, inspired by [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) ⭐ 1,568 | 🐛 2 | 📅 2025-07-12 <br>
 
-#### Please feel free to send me [pull requests](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM/pulls) ⭐ 2,134 | 🐛 1 | 📅 2026-09-26 or [email](mailto:lidong8421bcd@gmail.com) to add papers! <br>
+#### Please feel free to send me [pull requests](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM/pulls) ⭐ 2,136 | 🐛 1 | 📅 2026-09-27 or [email](mailto:lidong8421bcd@gmail.com) to add papers! <br>
 
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
 
-For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204) and [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/pdf/2210.00379.pdf)), Blog post ([NeRF Explosion 2020](https://dellaert.github.io/NeRF/)) and Collection ([awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) ⭐ 6,774 | 🐛 1 | 🌐 TeX | 📅 2025-01-06).
+For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204) and [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/pdf/2210.00379.pdf)), Blog post ([NeRF Explosion 2020](https://dellaert.github.io/NeRF/)) and Collection ([awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) ⭐ 6,775 | 🐛 1 | 🌐 TeX | 📅 2025-01-06).
 
 For an overview of 3D Gaussian Splatting papers, checkout the Repository ([awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) ⭐ 8,908 | 🐛 6 | 🌐 Python | 📅 2026-09-24).
 
@@ -84,7 +84,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 
 ## Tools
 
-* splatreg: splat-to-splat SE(3)/Sim(3) registration + multi-splat pose-graph bundle adjustment (loop-consistent submap alignment for 3DGS SLAM). `pip install splatreg`. \[[Code](https://github.com/Archerkattri/splatreg) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-09-18] \[[Docs](https://archerkattri.github.io/splatreg/)]
+* splatreg: splat-to-splat SE(3)/Sim(3) registration + multi-splat pose-graph bundle adjustment (loop-consistent submap alignment for 3DGS SLAM). `pip install splatreg`. \[[Code](https://github.com/Archerkattri/splatreg) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-09-18] \[[Docs](https://archerkattri.github.io/splatreg/)]
 
 ## Tutorials and Workshops
 
@@ -98,7 +98,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 
 ### Visual-SLAM
 
-* **NeuralRecon**: Real-Time Coherent 3D Reconstruction from Monocular Video, *CVPR, 2021*.\[[Paper](https://arxiv.org/pdf/2104.00681.pdf)] \[[Pytorch Code](https://github.com/zju3dv/NeuralRecon/) ⭐ 2,282 | 🐛 65 | 🌐 Python | 📅 2023-10-04] \[[Website](https://zju3dv.github.io/neuralrecon/)]
+* **NeuralRecon**: Real-Time Coherent 3D Reconstruction from Monocular Video, *CVPR, 2021*.\[[Paper](https://arxiv.org/pdf/2104.00681.pdf)] \[[Pytorch Code](https://github.com/zju3dv/NeuralRecon/) ⭐ 2,284 | 🐛 65 | 🌐 Python | 📅 2023-10-04] \[[Website](https://zju3dv.github.io/neuralrecon/)]
 * **Di-fusion**: Online implicit 3d reconstruction with deep priors, *CVPR, 2021*.\[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_DI-Fusion_Online_Implicit_3D_Reconstruction_With_Deep_Priors_CVPR_2021_paper.pdf)] \[[Pytorch Code](https://github.com/huangjh-pub/di-fusion) ⭐ 124 | 🐛 4 | 🌐 Cuda | 📅 2022-07-12]
 
 - **NICE-SLAM**: Neural Implicit Scalable Encoding for SLAM, *CVPR, 2021*. \[[Paper](https://arxiv.org/abs/2112.12130)] \[[Pytorch Code](https://github.com/cvg/nice-slam) ⭐ 1,599 | 🐛 9 | 🌐 Python | 📅 2023-03-10] \[[Website](https://pengsongyou.github.io/nice-slam?utm_source=catalyzex.com)]
@@ -234,6 +234,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **HL-SLAM**: Hybrid optimization and loop scene correction for NeRF-SLAM, *Computer Vision and Image Understanding, 2026*. \[[Paper](https://www.sciencedirect.com/science/article/pii/S107731422600175X)]
 * **HNI-SLAM**: Neural implicit SLAM for high quality reconstruction, *Computers & Graphics, 2026*. \[[Paper](https://www.sciencedirect.com/science/article/pii/S0097849326001068)]
 * Dynamic-Aware Neural Implicit SLAM for Robust Pose Estimation and Mapping in Challenging Environments, *TIM, 2026*. \[[Paper](https://ieeexplore.ieee.org/abstract/document/11683795?casa_token=yYASx7HLyIwAAAAA:ZJvnSxPzMpKA6C-53MSf1Zj0ZXgYJWcx0YWvi4c_kXNcQKVIoCzgovjY9d_Vi44hiniB8S-Tz1M)]
+* **CV-SLAM**: coupling vision-enhancement for NeRF-based RGB-D SLAM, *Multimedia Systems, 2026*. \[[Paper](https://link.springer.com/article/10.1007/s00530-026-02658-3)]
 
 ***
 
@@ -323,8 +324,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GEVO**: Memory-Efficient Monocular Visual Odometry Using Gaussians, *RAL, 2025*. \[[Paper](https://arxiv.org/pdf/2409.09295)] \[[Code](https://github.com/mit-lean/gevo) ⭐ 28 | 🐛 0 | 📅 2024-11-27]
 * **MGS-SLAM**: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization, *RAL, 2024*. \[[Paper](https://arxiv.org/pdf/2405.06241)] \[[Code](https://github.com/Z-Pengcheng/MGS-SLAM) ⭐ 27 | 🐛 2 | 📅 2024-05-13]
 * **MemGS**: Memory-Efficient Gaussian Splatting for Real-Time SLAM, *IROS, 2025*. \[[Paper](https://arxiv.org/pdf/2509.13536)] \[[Code](https://github.com/NAIL-HNU/MemGS_SLAM) ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2025-12-16]
+* **DiskChunGS**: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management, *RAL, 2026*. \[[Paper](https://arxiv.org/pdf/2511.23030)] \[[Website](https://rffr.leggedrobotics.com/works/diskchungs/)] \[[Code](https://github.com/leggedrobotics/DiskChunGS) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2026-04-16]
 * Compact 3D Gaussian Splatting For Dense Visual SLAM, *arXiv, 2024*. \[[Paper](https://arxiv.org/pdf/2403.11247.pdf)] \[[Code](https://github.com/dtc111111/Compact_GSSLAM) ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2025-09-27]
-* **DiskChunGS**: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management, *RAL, 2026*. \[[Paper](https://arxiv.org/pdf/2511.23030)] \[[Website](https://rffr.leggedrobotics.com/works/diskchungs/)] \[[Code](https://github.com/leggedrobotics/DiskChunGS) ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2026-04-16]
 * **PanoSLAM**: Panoptic 3D Scene Reconstruction via Gaussian SLAM, *arXiv, 2025*. \[[Paper](https://arxiv.org/pdf/2501.00352)] \[[Code](https://github.com/runnanchen/PanoSLAM) ⭐ 17 | 🐛 1 | 📅 2024-12-31]
 * **LEG-SLAM**: Language-Enhanced Gaussian Splatting for Real-Time SLAM, *arXiv, 2025*. \[[Paper](https://arxiv.org/pdf/2506.03073)] \[[Code](https://github.com/Titrom025/LEG-SLAM/) ⭐ 14 | 🐛 2 | 📅 2025-06-02] \[[Website](https://titrom025.github.io/LEG-SLAM/)]
 * **EGS-SLAM**: RGB-D Gaussian Splatting SLAM with Events, *RAL, 2025*. \[[Paper](https://arxiv.org/pdf/2508.07003)] \[[Code](https://github.com/Chensiyu00/EGS-SLAM) ⭐ 12 | 🐛 3 | 📅 2025-08-06]
@@ -453,7 +454,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **EAGS-SLAM**: Edge-Assisted Gaussian Splatting SLAM, *IEEE Sensors Journal, 2026*. \[[Paper](https://ieeexplore.ieee.org/abstract/document/11397266)] \[[Website](https://endermands.github.io/EAGSSLAM/)] \[[Code](https://github.com/EnderMandS/EAGS-SLAM) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-04-02]
 - **GLAM-SLAM**: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition, *IROS, 2026*. \[[Paper](https://arxiv.org/pdf/2607.21416)] \[[Website](https://glamslam.github.io/)] \[[Code](https://github.com/pmermigkas/GLAM-SLAM) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-09-02]
 - **Geo2DGS‐SLAM**: Geometry‐Driven SLAM With 2D Gaussian Splatting, *CAAI Transactions on Intelligence Technology, 2026*. \[[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cit2.70183)] \[[Code](https://github.com/Able1231/Geo2DGS-SLAM) ⭐ 9 | 🐛 0 | 📅 2026-09-12]
-- **Cube-Splat**: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization, *ECCV, 2026*. \[[Paper](https://arxiv.org/pdf/2609.21347)] \[[Code](https://github.com/guoxf304/CubeSplat) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-05-07]
+- **Cube-Splat**: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization, *ECCV, 2026*. \[[Paper](https://arxiv.org/pdf/2609.21347)] \[[Code](https://github.com/guoxf304/CubeSplat) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2026-05-07]
 - Exploiting Structure-Semantic Consistency for  Photorealistic SLAM with 3D Gaussian Splatting, *Neurocomputing, 2025*. \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225024816)]
 - **OpenMonoGS-SLAM**: Monocular Gaussian Splatting SLAM with Open-set Semantics, *arXiv, 2025*. \[[Paper](https://arxiv.org/pdf/2512.08625)]
 - **D2GSLAM**: 4D Dynamic Gaussian Splatting SLAM, *arXiv, 2025*. \[[Paper](https://arxiv.org/pdf/2512.09411)]
@@ -541,7 +542,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 
 ### Multimodal Gaussian Splatting SLAM
 
-* **Gaussian-LIC**: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting, *ICRA, 2025*. \[[Paper](https://arxiv.org/pdf/2404.06926.pdf)] \[[Code](https://github.com/APRIL-ZJU/Gaussian-LIC) ⭐ 645 | 🐛 38 | 🌐 C++ | 📅 2026-08-08]
+* **Gaussian-LIC**: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting, *ICRA, 2025*. \[[Paper](https://arxiv.org/pdf/2404.06926.pdf)] \[[Code](https://github.com/APRIL-ZJU/Gaussian-LIC) ⭐ 646 | 🐛 38 | 🌐 C++ | 📅 2026-08-08]
 * **GS-LIVO**: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping, *TRO, 2025*. \[[Paper](https://arxiv.org/pdf/2501.08672)] \[[Code](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) ⭐ 494 | 🐛 8 | 🌐 C++ | 📅 2026-04-27]
 * **GS-LIVM**: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting, *arXiv, 2024*. \[[Paper](https://arxiv.org/pdf/2410.17084)] \[[Code](https://github.com/xieyuser/GS-LIVM) ⭐ 353 | 🐛 32 | 🌐 C++ | 📅 2025-12-06]
 * **PINGS**: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map, *arXiv, 2025*. \[[Paper](https://arxiv.org/pdf/2502.05752)] \[[Code](https://github.com/PRBonn/PINGS) ⭐ 242 | 🐛 6 | 🌐 Python | 📅 2026-07-17]
@@ -645,7 +646,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **NeRF-Navigation**: Vision-Only Robot Navigation in a Neural Radiance World, *ICRA, 2022*. \[[Paper](https://mikh3x4.github.io/nerf-navigation/assets/NeRF_Navigation.pdf)] \[[Code](https://github.com/mikh3x4/nerf-navigation) ⭐ 214 | 🐛 7 | 🌐 HTML | 📅 2022-12-08] \[[Website](https://mikh3x4.github.io/nerf-navigation/)]
 * **CLIP-Fields**: Weakly Supervised Semantic Fields for Robotic Memory, *RSS, 2023*. \[[Paper](https://arxiv.org/abs/2210.05663)] \[[Code and Tutorials](https://github.com/notmahi/clip-fields) ⭐ 191 | 🐛 1 | 🌐 Python | 📅 2024-03-02] \[[Website](https://mahis.life/clip-fields/)]
 * **ActiveSplat**: High-Fidelity Scene Reconstruction through Active Gaussian Splatting, *RAL, 2025*. \[[Paper](https://arxiv.org/pdf/2410.21955)] \[[Website](https://li-yuetao.github.io/ActiveSplat/)] \[[Code](https://github.com/Li-Yuetao/ActiveSplat) ⭐ 177 | 🐛 4 | 🌐 Python | 📅 2026-07-24]
-* **ActiveGS**: Active Scene Reconstruction using Gaussian Splatting, *RAL, 2025*. \[[Paper](https://arxiv.org/pdf/2412.17769)] \[[Code](https://github.com/dmar-bonn/active-gs) ⭐ 158 | 🐛 0 | 🌐 Python | 📅 2025-06-25]
+* **ActiveGS**: Active Scene Reconstruction using Gaussian Splatting, *RAL, 2025*. \[[Paper](https://arxiv.org/pdf/2412.17769)] \[[Code](https://github.com/dmar-bonn/active-gs) ⭐ 159 | 🐛 0 | 🌐 Python | 📅 2025-06-25]
 * **Splat-Nav**: Safe Real-Time Robot Navigation in Gaussian Splatting Maps, *TRO, 2025*. \[[Paper](https://arxiv.org/pdf/2403.02751.pdf)] \[[Code](https://github.com/chengine/splatnav) ⭐ 141 | 🐛 2 | 🌐 Python | 📅 2025-04-23]
 * **GRAD-NAV++**: Vision-Language Model Enabled Visual Drone Navigation With Gaussian Radiance Fields and Differentiable Dynamics, *RAL, 2025*. \[[Paper](https://ieeexplore.ieee.org/document/11297793)] \[[Website](https://qianzhong-chen.github.io/gradnavpp.github.io/)] \[[Code](https://github.com/Qianzhong-Chen/grad_nav) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2026-07-07]
 * **NARUTO**: Neural Active Reconstruction from Uncertain Target Observations, *CVPR, 2024*. \[[Paper](https://arxiv.org/pdf/2402.18771)] \[[Code](https://github.com/oppo-us-research/NARUTO) ⭐ 100 | 🐛 4 | 🌐 Python | 📅 2025-03-07] \[[Website](https://oppo-us-research.github.io/NARUTO-website/)]
@@ -701,6 +702,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **DynActiveGS**: Active Gaussian Splatting for Dynamic Scene Reconstruction, *arXiv, 2026*. \[[Paper](https://arxiv.org/pdf/2608.01178)]
 - **OccamView**: Object-Conditioned View Selection for Frame-Budgeted Active 3D Gaussian Reconstruction, *arXiv, 2026*. \[[Paper](https://arxiv.org/pdf/2608.16499)]
 - **Splat-CBF**: Safe Next-Best-View Control in 3D Gaussian-Splat Maps, *arXiv, 2026*. \[[Paper](https://arxiv.org/pdf/2609.23100)]
+- Uncertainty-Guided Active Gaussian Reconstruction with Explicit-Implicit Fusion, *arXiv, 2026*. \[[Paper](https://openreview.net/pdf?id=HlnpgwoXH3)]
 
 ### Localization
 
@@ -766,4 +768,4 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
