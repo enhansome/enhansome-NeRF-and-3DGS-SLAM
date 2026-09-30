@@ -14,7 +14,7 @@
             "id": 575786486,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-27T10:49:18Z",
+            "last_commit": "2026-09-29T07:02:39Z",
             "open_issues": 1,
             "owner": "3D-Vision-World",
             "repo": "awesome-NeRF-and-3DGS-SLAM",
@@ -51,7 +51,7 @@
                 "open_issues": 122,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10940,
+                "stars": 10943,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields"
@@ -99,7 +99,7 @@
                 "open_issues": 127,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3297,
+                "stars": 3299,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -124,7 +124,7 @@
                 "open_issues": 33,
                 "owner": "autonomousvision",
                 "repo": "mip-splatting",
-                "stars": 1473,
+                "stars": 1474,
                 "topics": [
                   "3d-reconstruction",
                   "anti-aliasing",
@@ -386,7 +386,7 @@
                 "open_issues": 2,
                 "owner": "zubair-irshad",
                 "repo": "Awesome-Implicit-NeRF-Robotics",
-                "stars": 1568,
+                "stars": 1569,
                 "topics": [
                   "3d-computer-vision",
                   "6d-pose-estimation",
@@ -585,7 +585,7 @@
                 "open_issues": 0,
                 "owner": "Archerkattri",
                 "repo": "splatreg",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "3dgs",
                   "gaussian-splatting",
@@ -2134,7 +2134,7 @@
                     "open_issues": 53,
                     "owner": "spla-tam",
                     "repo": "SplaTAM",
-                    "stars": 2200,
+                    "stars": 2202,
                     "topics": [
                       "computer-vision",
                       "cvpr2024",
@@ -2161,7 +2161,7 @@
                     "open_issues": 101,
                     "owner": "muskie82",
                     "repo": "MonoGS",
-                    "stars": 2168,
+                    "stars": 2171,
                     "topics": [
                       "computer-vision",
                       "cvpr2024",
@@ -2374,7 +2374,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2025-12-07T10:13:44Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "VladimirYugay",
                     "repo": "MAGiC-SLAM",
                     "stars": 339,
@@ -2445,7 +2445,7 @@
                     "open_issues": 3,
                     "owner": "yanchi-3dv",
                     "repo": "diff-gaussian-rasterization-for-gsslam",
-                    "stars": 264,
+                    "stars": 265,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3475,7 +3475,7 @@
                     "open_issues": 0,
                     "owner": "CNU-Bot-Group",
                     "repo": "ru4dslam",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": [
                       "4d-gaussian-splatting",
                       "4d-reconstruction",
@@ -3543,7 +3543,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-28T05:55:49Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "url-kaist",
                     "repo": "gaussianflow-slam",
                     "stars": 15,
@@ -3618,7 +3618,7 @@
                     "open_issues": 0,
                     "owner": "UMN-ZhaoLab",
                     "repo": "Pocket-SLAM",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3730,7 +3730,7 @@
                     "open_issues": 38,
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 649,
+                    "stars": 650,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4059,7 +4059,7 @@
                     "open_issues": 0,
                     "owner": "MachinePerceptionLab",
                     "repo": "SGAD-SLAM",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": [
                       "3d-reconstruction",
                       "3dgaussiansplatting",
@@ -4788,7 +4788,7 @@
                     "open_issues": 0,
                     "owner": "Qianzhong-Chen",
                     "repo": "grad_nav",
-                    "stars": 113,
+                    "stars": 112,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4956,27 +4956,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum, IROS, 2025. [Paper",
-                  "description": "] [Website] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Cooking Drone Visuomotor Policies in a Gaussian Splat Vacuum",
-                    "homepage": null,
-                    "id": 898643400,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2025-11-18T01:12:15Z",
-                    "open_issues": 1,
-                    "owner": "StanfordMSL",
-                    "repo": "SousVide",
-                    "stars": 26,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:57:01.585Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Neural Visibility Field for Uncertainty-Driven Active Mapping, CVPR, 2024. [Paper",
                   "description": "] [Website] [Code]",
                   "children": [],
@@ -4991,6 +4970,27 @@
                     "open_issues": 0,
                     "owner": "GaTech-RL2",
                     "repo": "nvf_cvpr24",
+                    "stars": 25,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum, IROS, 2025. [Paper",
+                  "description": "] [Website] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Cooking Drone Visuomotor Policies in a Gaussian Splat Vacuum",
+                    "homepage": null,
+                    "id": 898643400,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2025-11-18T01:12:15Z",
+                    "open_issues": 1,
+                    "owner": "StanfordMSL",
+                    "repo": "SousVide",
                     "stars": 25,
                     "topics": []
                   },
@@ -5387,7 +5387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:35:43.266Z",
+    "last_updated": "2026-09-30T02:09:30.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5395,7 +5395,7 @@
       "id": 575786486,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-27T10:49:18Z",
+      "last_commit": "2026-09-29T07:02:39Z",
       "open_issues": 1,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
@@ -5411,7 +5411,7 @@
         "vslam"
       ]
     },
-    "original_repository_sha": "672bb07b41d02f47122a31150b4244a6ad377593",
+    "original_repository_sha": "0f3c56c7e3e5c1c9107fdb64a2a6792e23d11c0a",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
