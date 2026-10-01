@@ -99,7 +99,7 @@
                 "open_issues": 127,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3299,
+                "stars": 3301,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -124,7 +124,7 @@
                 "open_issues": 33,
                 "owner": "autonomousvision",
                 "repo": "mip-splatting",
-                "stars": 1474,
+                "stars": 1475,
                 "topics": [
                   "3d-reconstruction",
                   "anti-aliasing",
@@ -3511,27 +3511,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "RGD-SLAM: Robust Gaussian Splatting SLAM for Dynamic Environments, Pattern Recognition, 2026. [Paper",
-                  "description": "] [Code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1102325245,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-05-22T09:13:11Z",
-                    "open_issues": 0,
-                    "owner": "00Haocheng",
-                    "repo": "RGD-SLAM",
-                    "stars": 15,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:57:01.585Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow, RAL, 2026. [Paper",
                   "description": "] [Code]",
                   "children": [],
@@ -3546,6 +3525,27 @@
                     "open_issues": 1,
                     "owner": "url-kaist",
                     "repo": "gaussianflow-slam",
+                    "stars": 16,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T06:57:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "RGD-SLAM: Robust Gaussian Splatting SLAM for Dynamic Environments, Pattern Recognition, 2026. [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1102325245,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-05-22T09:13:11Z",
+                    "open_issues": 0,
+                    "owner": "00Haocheng",
+                    "repo": "RGD-SLAM",
                     "stars": 15,
                     "topics": []
                   },
@@ -3702,7 +3702,7 @@
                     "open_issues": 1,
                     "owner": "guoxf304",
                     "repo": "CubeSplat",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-09-22T01:37:35.832Z"
@@ -3839,7 +3839,7 @@
                     "open_issues": 1,
                     "owner": "PRBonn",
                     "repo": "2DGS-SLAM",
-                    "stars": 169,
+                    "stars": 170,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5367,7 +5367,7 @@
                     "open_issues": 19,
                     "owner": "hku-mars",
                     "repo": "GS-SDF",
-                    "stars": 534,
+                    "stars": 535,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5387,7 +5387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:09:30.842Z",
+    "last_updated": "2026-10-01T02:11:33.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
