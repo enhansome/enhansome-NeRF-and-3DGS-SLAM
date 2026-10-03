@@ -14,11 +14,11 @@
             "id": 575786486,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-29T07:02:39Z",
+            "last_commit": "2026-10-02T03:46:34Z",
             "open_issues": 1,
             "owner": "3D-Vision-World",
             "repo": "awesome-NeRF-and-3DGS-SLAM",
-            "stars": 2139,
+            "stars": 2142,
             "topics": [
               "3dgs",
               "awesome",
@@ -99,7 +99,7 @@
                 "open_issues": 127,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3302,
+                "stars": 3304,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -673,7 +673,7 @@
                     "open_issues": 9,
                     "owner": "cvg",
                     "repo": "nice-slam",
-                    "stars": 1599,
+                    "stars": 1600,
                     "topics": [
                       "3d-reconstruction",
                       "deep-learning",
@@ -936,7 +936,7 @@
                     "open_issues": 2,
                     "owner": "eriksandstroem",
                     "repo": "Loopy-SLAM",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -1855,7 +1855,7 @@
                     "open_issues": 1,
                     "owner": "umautobots",
                     "repo": "LONER",
-                    "stars": 275,
+                    "stars": 276,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3525,7 +3525,7 @@
                     "open_issues": 1,
                     "owner": "url-kaist",
                     "repo": "gaussianflow-slam",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3730,7 +3730,7 @@
                     "open_issues": 38,
                     "owner": "APRIL-ZJU",
                     "repo": "Gaussian-LIC",
-                    "stars": 652,
+                    "stars": 655,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3772,7 +3772,7 @@
                     "open_issues": 32,
                     "owner": "xieyuser",
                     "repo": "GS-LIVM",
-                    "stars": 353,
+                    "stars": 354,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3793,7 +3793,7 @@
                     "open_issues": 6,
                     "owner": "PRBonn",
                     "repo": "PINGS",
-                    "stars": 243,
+                    "stars": 245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3970,7 +3970,7 @@
                     "open_issues": 0,
                     "owner": "THU-VCLab",
                     "repo": "WaterSplat-SLAM",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4695,7 +4695,7 @@
                     "open_issues": 1,
                     "owner": "notmahi",
                     "repo": "clip-fields",
-                    "stars": 191,
+                    "stars": 192,
                     "topics": [
                       "clip",
                       "neural-fields",
@@ -5367,7 +5367,7 @@
                     "open_issues": 19,
                     "owner": "hku-mars",
                     "repo": "GS-SDF",
-                    "stars": 535,
+                    "stars": 534,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5387,7 +5387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:18:17.049Z",
+    "last_updated": "2026-10-03T02:02:08.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5395,11 +5395,11 @@
       "id": 575786486,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-29T07:02:39Z",
+      "last_commit": "2026-10-02T03:46:34Z",
       "open_issues": 1,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2139,
+      "stars": 2142,
       "topics": [
         "3dgs",
         "awesome",
@@ -5411,7 +5411,7 @@
         "vslam"
       ]
     },
-    "original_repository_sha": "0f3c56c7e3e5c1c9107fdb64a2a6792e23d11c0a",
+    "original_repository_sha": "6e387c4a026838ac44ce8552e25cc426a02156e4",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
