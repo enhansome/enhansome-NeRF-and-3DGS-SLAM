@@ -1738,7 +1738,7 @@
                 "open_issues": 6,
                 "owner": "JunyuanDeng",
                 "repo": "NeRF-LOAM",
-                "stars": 559,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2436,7 +2436,7 @@
                 "open_issues": 4,
                 "owner": "yanyan-li",
                 "repo": "4DGS-SLAM",
-                "stars": 199,
+                "stars": 200,
                 "topics": [
                   "dynamic-slam",
                   "gaussian-splatting-slam"
@@ -3658,7 +3658,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 656,
+                "stars": 657,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3987,7 +3987,7 @@
                 "open_issues": 0,
                 "owner": "MachinePerceptionLab",
                 "repo": "SGAD-SLAM",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "3d-reconstruction",
                   "3dgaussiansplatting",
@@ -4715,7 +4715,7 @@
                 "open_issues": 0,
                 "owner": "Qianzhong-Chen",
                 "repo": "grad_nav",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5309,7 +5309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:31:34.887Z",
+    "last_updated": "2026-10-04T02:43:11.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
