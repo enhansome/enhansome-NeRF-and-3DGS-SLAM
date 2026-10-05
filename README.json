@@ -67,7 +67,7 @@
             "open_issues": 127,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3304,
+            "stars": 3302,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -2116,7 +2116,7 @@
                 "open_issues": 0,
                 "owner": "VladimirYugay",
                 "repo": "Gaussian-SLAM",
-                "stars": 1184,
+                "stars": 1185,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -2143,7 +2143,7 @@
                 "open_issues": 38,
                 "owner": "HuajianUP",
                 "repo": "Photo-SLAM",
-                "stars": 774,
+                "stars": 775,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2206,7 +2206,7 @@
                 "open_issues": 11,
                 "owner": "ShuhongLL",
                 "repo": "SGS-SLAM",
-                "stars": 530,
+                "stars": 535,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2436,7 +2436,7 @@
                 "open_issues": 4,
                 "owner": "yanyan-li",
                 "repo": "4DGS-SLAM",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "dynamic-slam",
                   "gaussian-splatting-slam"
@@ -3000,7 +3000,7 @@
                 "open_issues": 0,
                 "owner": "AIRLab-POLIMI",
                 "repo": "agri-gs-slam",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "3d-reconstruction",
                   "agriculture",
@@ -3361,7 +3361,7 @@
                 "open_issues": 0,
                 "owner": "wangys16",
                 "repo": "Flow4DGS-SLAM",
-                "stars": 73,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3658,7 +3658,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 657,
+                "stars": 658,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3767,7 +3767,7 @@
                 "open_issues": 1,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4447,6 +4447,27 @@
             },
             {
               "node_type": "item",
+              "title": "Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning, ICLR, 2023. [Paper",
+              "description": "tomato1mule/edf",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2023] Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning",
+                "homepage": null,
+                "id": 504012274,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-12-05T15:37:17Z",
+                "open_issues": 0,
+                "owner": "tomato1mule",
+                "repo": "edf",
+                "stars": 42,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
               "title": "TranSplat: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation, arXiv, 2025. [Paper",
               "description": "jeongyun0609/TranSplat",
               "children": [],
@@ -4462,27 +4483,6 @@
                 "owner": "jeongyun0609",
                 "repo": "TranSplat",
                 "stars": 42,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning, ICLR, 2023. [Paper",
-              "description": "tomato1mule/edf",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR 2023] Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning",
-                "homepage": null,
-                "id": 504012274,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-12-05T15:37:17Z",
-                "open_issues": 0,
-                "owner": "tomato1mule",
-                "repo": "edf",
-                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4694,7 +4694,7 @@
                 "open_issues": 2,
                 "owner": "chengine",
                 "repo": "splatnav",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5294,7 +5294,7 @@
                 "open_issues": 19,
                 "owner": "hku-mars",
                 "repo": "GS-SDF",
-                "stars": 534,
+                "stars": 535,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5309,7 +5309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:43:11.340Z",
+    "last_updated": "2026-10-05T02:02:43.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
