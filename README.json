@@ -2089,7 +2089,7 @@
                 "open_issues": 101,
                 "owner": "muskie82",
                 "repo": "MonoGS",
-                "stars": 2172,
+                "stars": 2173,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2185,7 +2185,7 @@
                 "open_issues": 11,
                 "owner": "ShuhongLL",
                 "repo": "SGS-SLAM",
-                "stars": 554,
+                "stars": 556,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2352,7 +2352,7 @@
                 "open_issues": 18,
                 "owner": "Willyzw",
                 "repo": "HI-SLAM2",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2460,7 +2460,7 @@
                 "open_issues": 5,
                 "owner": "muskie82",
                 "repo": "4dtam",
-                "stars": 182,
+                "stars": 181,
                 "topics": [
                   "computer-vision",
                   "dynamic-scenes",
@@ -3418,27 +3418,6 @@
             },
             {
               "node_type": "item",
-              "title": "DQO-MAP: Real-Time Object-Level SLAM with Dual Quadrics and Gaussians, RAL, 2025. [Paper",
-              "description": "LiHaoy-ux/DQO-MAP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "DQO-MAP: Real-Time Object-Level SLAM via Dual Quadrics and Gaussians",
-                "homepage": null,
-                "id": 941117544,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2025-09-17T13:01:30Z",
-                "open_issues": 1,
-                "owner": "LiHaoy-ux",
-                "repo": "DQO-MAP",
-                "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
               "title": "GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow, RAL, 2026. [Paper",
               "description": "url-kaist/gaussianflow-slam",
               "children": [],
@@ -3453,6 +3432,27 @@
                 "open_issues": 1,
                 "owner": "url-kaist",
                 "repo": "gaussianflow-slam",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DQO-MAP: Real-Time Object-Level SLAM with Dual Quadrics and Gaussians, RAL, 2025. [Paper",
+              "description": "LiHaoy-ux/DQO-MAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DQO-MAP: Real-Time Object-Level SLAM via Dual Quadrics and Gaussians",
+                "homepage": null,
+                "id": 941117544,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2025-09-17T13:01:30Z",
+                "open_issues": 1,
+                "owner": "LiHaoy-ux",
+                "repo": "DQO-MAP",
                 "stars": 18,
                 "topics": []
               },
@@ -3658,7 +3658,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 660,
+                "stars": 662,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3700,7 +3700,7 @@
                 "open_issues": 32,
                 "owner": "xieyuser",
                 "repo": "GS-LIVM",
-                "stars": 354,
+                "stars": 355,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5309,7 +5309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:02:31.943Z",
+    "last_updated": "2026-10-06T11:07:03.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
