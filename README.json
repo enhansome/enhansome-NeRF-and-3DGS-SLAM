@@ -19,7 +19,7 @@
             "open_issues": 122,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10943,
+            "stars": 10944,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -67,7 +67,7 @@
             "open_issues": 127,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3302,
+            "stars": 3304,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -92,7 +92,7 @@
             "open_issues": 33,
             "owner": "autonomousvision",
             "repo": "mip-splatting",
-            "stars": 1478,
+            "stars": 1480,
             "topics": [
               "3d-reconstruction",
               "anti-aliasing",
@@ -1712,7 +1712,7 @@
                 "open_issues": 3,
                 "owner": "PRBonn",
                 "repo": "PIN_SLAM",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "3d-mapping",
                   "implicit-neural-representation",
@@ -2164,7 +2164,7 @@
                 "open_issues": 9,
                 "owner": "GradientSpaces",
                 "repo": "WildGS-SLAM",
-                "stars": 656,
+                "stars": 657,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2185,7 +2185,7 @@
                 "open_issues": 11,
                 "owner": "ShuhongLL",
                 "repo": "SGS-SLAM",
-                "stars": 560,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2227,7 +2227,7 @@
                 "open_issues": 13,
                 "owner": "MisEty",
                 "repo": "RTG-SLAM",
-                "stars": 506,
+                "stars": 509,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2248,7 +2248,7 @@
                 "open_issues": 3,
                 "owner": "ChenHoy",
                 "repo": "DROID-Splat",
-                "stars": 418,
+                "stars": 419,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -3429,7 +3429,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-28T05:55:49Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "url-kaist",
                 "repo": "gaussianflow-slam",
                 "stars": 19,
@@ -3679,7 +3679,7 @@
                 "open_issues": 8,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "GS-LIVO",
-                "stars": 496,
+                "stars": 497,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3700,7 +3700,7 @@
                 "open_issues": 32,
                 "owner": "xieyuser",
                 "repo": "GS-LIVM",
-                "stars": 355,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3767,7 +3767,7 @@
                 "open_issues": 1,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3851,7 +3851,7 @@
                 "open_issues": 1,
                 "owner": "yzli1998",
                 "repo": "MipSLAM",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3987,7 +3987,7 @@
                 "open_issues": 0,
                 "owner": "MachinePerceptionLab",
                 "repo": "SGAD-SLAM",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "3d-reconstruction",
                   "3dgaussiansplatting",
@@ -4694,7 +4694,7 @@
                 "open_issues": 2,
                 "owner": "chengine",
                 "repo": "splatnav",
-                "stars": 142,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5309,7 +5309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:26:20.205Z",
+    "last_updated": "2026-10-08T02:42:59.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
