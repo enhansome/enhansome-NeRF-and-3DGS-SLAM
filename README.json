@@ -43,7 +43,7 @@
             "open_issues": 105,
             "owner": "google-research",
             "repo": "multinerf",
-            "stars": 3806,
+            "stars": 3805,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -67,7 +67,7 @@
             "open_issues": 127,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3304,
+            "stars": 3305,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -353,7 +353,7 @@
             "open_issues": 2,
             "owner": "zubair-irshad",
             "repo": "Awesome-Implicit-NeRF-Robotics",
-            "stars": 1569,
+            "stars": 1570,
             "topics": [
               "3d-computer-vision",
               "6d-pose-estimation",
@@ -552,7 +552,7 @@
                 "open_issues": 65,
                 "owner": "zju3dv",
                 "repo": "NeuralRecon",
-                "stars": 2284,
+                "stars": 2285,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision"
@@ -1688,6 +1688,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
+              "title": "KN-LIO: Kinematics and Neural Field Coupled LiDAR-Inertial Odometry, TIP, 2026. [Paper",
+              "description": "peterWon/KN-LIO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Codes of our paper \"KN-LIO: Kinematics and Neural Field Coupled LiDAR-Inertial Odometry\" (IEEE TIP 2026)",
+                "homepage": null,
+                "id": 1378060791,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-09T01:20:36Z",
+                "open_issues": 0,
+                "owner": "peterWon",
+                "repo": "KN-LIO",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-09T02:57:23.057Z"
             }
           ],
           "description": null,
@@ -2062,7 +2083,7 @@
                 "open_issues": 53,
                 "owner": "spla-tam",
                 "repo": "SplaTAM",
-                "stars": 2203,
+                "stars": 2204,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2089,7 +2110,7 @@
                 "open_issues": 101,
                 "owner": "muskie82",
                 "repo": "MonoGS",
-                "stars": 2173,
+                "stars": 2176,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2143,7 +2164,7 @@
                 "open_issues": 38,
                 "owner": "HuajianUP",
                 "repo": "Photo-SLAM",
-                "stars": 775,
+                "stars": 776,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2185,7 +2206,7 @@
                 "open_issues": 11,
                 "owner": "ShuhongLL",
                 "repo": "SGS-SLAM",
-                "stars": 567,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2206,7 +2227,7 @@
                 "open_issues": 36,
                 "owner": "Lab-of-AI-and-Robotics",
                 "repo": "GS_ICP_SLAM",
-                "stars": 539,
+                "stars": 540,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2248,7 +2269,7 @@
                 "open_issues": 3,
                 "owner": "ChenHoy",
                 "repo": "DROID-Splat",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -2276,7 +2297,7 @@
                 "open_issues": 0,
                 "owner": "GradientSpaces",
                 "repo": "LoopSplat",
-                "stars": 397,
+                "stars": 398,
                 "topics": [
                   "3dgs",
                   "3dgs-slam",
@@ -2415,7 +2436,7 @@
                 "open_issues": 11,
                 "owner": "leaner-forever",
                 "repo": "SEGS-SLAM",
-                "stars": 212,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2529,7 +2550,7 @@
                 "open_issues": 6,
                 "owner": "DengKaiCQ",
                 "repo": "GigaSLAM",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3361,7 +3382,7 @@
                 "open_issues": 0,
                 "owner": "wangys16",
                 "repo": "Flow4DGS-SLAM",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3432,7 +3453,7 @@
                 "open_issues": 0,
                 "owner": "url-kaist",
                 "repo": "gaussianflow-slam",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3478,6 +3499,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes, ECCV, 2026. [Paper",
+              "description": "] [Website] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes (ECCV 2026)",
+                "homepage": null,
+                "id": 1282882523,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-06-28T09:56:39Z",
+                "open_issues": 2,
+                "owner": "3DAgentWorld",
+                "repo": "KiloGS-SLAM",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-10-09T02:57:23.057Z"
             },
             {
               "node_type": "item",
@@ -3603,9 +3645,9 @@
                 "description": null,
                 "homepage": null,
                 "id": 1005924881,
-                "language": null,
+                "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-12T11:59:06Z",
+                "last_commit": "2026-10-08T14:14:16Z",
                 "open_issues": 0,
                 "owner": "Able1231",
                 "repo": "Geo2DGS-SLAM",
@@ -3634,6 +3676,27 @@
                 "topics": []
               },
               "first_seen": "2026-09-22T01:37:35.832Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Structure Gaussian Splatting SLAM, ECCV, 2026. [Paper",
+              "description": "yanyan-li/StructureGS-SLAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1285084714,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-06-30T17:49:09Z",
+                "open_issues": 0,
+                "owner": "yanyan-li",
+                "repo": "StructureGS-SLAM",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-10-09T02:57:23.057Z"
             }
           ],
           "description": null,
@@ -3658,7 +3721,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 663,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4649,7 +4712,7 @@
                 "open_issues": 4,
                 "owner": "Li-Yuetao",
                 "repo": "ActiveSplat",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "3d-reconstruction",
                   "robotics"
@@ -4883,27 +4946,6 @@
             },
             {
               "node_type": "item",
-              "title": "Neural Visibility Field for Uncertainty-Driven Active Mapping, CVPR, 2024. [Paper",
-              "description": "] [Website] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CVPR24: Neural Visibility Field for Uncertainty-Driven Active Mapping",
-                "homepage": "https://sites.google.com/view/nvf-cvpr24/",
-                "id": 817965843,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-12-25T01:25:59Z",
-                "open_issues": 0,
-                "owner": "GaTech-RL2",
-                "repo": "nvf_cvpr24",
-                "stars": 25,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
               "title": "SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum, IROS, 2025. [Paper",
               "description": "] [Website] [Code]",
               "children": [],
@@ -4918,6 +4960,27 @@
                 "open_issues": 1,
                 "owner": "StanfordMSL",
                 "repo": "SousVide",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Neural Visibility Field for Uncertainty-Driven Active Mapping, CVPR, 2024. [Paper",
+              "description": "] [Website] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CVPR24: Neural Visibility Field for Uncertainty-Driven Active Mapping",
+                "homepage": "https://sites.google.com/view/nvf-cvpr24/",
+                "id": 817965843,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-12-25T01:25:59Z",
+                "open_issues": 0,
+                "owner": "GaTech-RL2",
+                "repo": "nvf_cvpr24",
                 "stars": 25,
                 "topics": []
               },
@@ -5309,7 +5372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:42:59.372Z",
+    "last_updated": "2026-10-09T02:57:23.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5317,11 +5380,11 @@
       "id": 575786486,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-02T03:46:34Z",
+      "last_commit": "2026-10-08T08:27:24Z",
       "open_issues": 1,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2143,
+      "stars": 2146,
       "topics": [
         "3dgs",
         "awesome",
@@ -5333,7 +5396,7 @@
         "vslam"
       ]
     },
-    "original_repository_sha": "6e387c4a026838ac44ce8552e25cc426a02156e4",
+    "original_repository_sha": "34afcceabe6560d95e6338f2c724a5739eb1d894",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
