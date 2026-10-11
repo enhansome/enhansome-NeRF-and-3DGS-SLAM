@@ -67,7 +67,7 @@
             "open_issues": 125,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3307,
+            "stars": 3308,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -353,7 +353,7 @@
             "open_issues": 2,
             "owner": "zubair-irshad",
             "repo": "Awesome-Implicit-NeRF-Robotics",
-            "stars": 1570,
+            "stars": 1571,
             "topics": [
               "3d-computer-vision",
               "6d-pose-estimation",
@@ -552,7 +552,7 @@
                 "open_issues": 65,
                 "owner": "zju3dv",
                 "repo": "NeuralRecon",
-                "stars": 2285,
+                "stars": 2286,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision"
@@ -1096,7 +1096,7 @@
                 "open_issues": 3,
                 "owner": "hjr37",
                 "repo": "CP-SLAM",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2083,7 +2083,7 @@
                 "open_issues": 53,
                 "owner": "spla-tam",
                 "repo": "SplaTAM",
-                "stars": 2204,
+                "stars": 2205,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2206,7 +2206,7 @@
                 "open_issues": 11,
                 "owner": "ShuhongLL",
                 "repo": "SGS-SLAM",
-                "stars": 589,
+                "stars": 602,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2248,7 +2248,7 @@
                 "open_issues": 13,
                 "owner": "MisEty",
                 "repo": "RTG-SLAM",
-                "stars": 509,
+                "stars": 510,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2415,7 +2415,7 @@
                 "open_issues": 7,
                 "owner": "ethz-mrl",
                 "repo": "GSFusion",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2568,7 +2568,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-14T08:58:02Z",
-                "open_issues": 5,
+                "open_issues": 3,
                 "owner": "3DAgentWorld",
                 "repo": "S3PO-GS",
                 "stars": 135,
@@ -3021,7 +3021,7 @@
                 "open_issues": 0,
                 "owner": "AIRLab-POLIMI",
                 "repo": "agri-gs-slam",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "3d-reconstruction",
                   "agriculture",
@@ -3382,7 +3382,7 @@
                 "open_issues": 0,
                 "owner": "wangys16",
                 "repo": "Flow4DGS-SLAM",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3510,13 +3510,13 @@
                 "description": "Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes (ECCV 2026)",
                 "homepage": null,
                 "id": 1282882523,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-06-28T09:56:39Z",
-                "open_issues": 2,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-10T14:08:52Z",
+                "open_issues": 0,
                 "owner": "3DAgentWorld",
                 "repo": "KiloGS-SLAM",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-09T02:57:23.057Z"
@@ -3669,7 +3669,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-05-07T12:45:57Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "guoxf304",
                 "repo": "CubeSplat",
                 "stars": 7,
@@ -3721,7 +3721,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 667,
+                "stars": 668,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 8,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "GS-LIVO",
-                "stars": 498,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3830,7 +3830,7 @@
                 "open_issues": 1,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3851,7 +3851,7 @@
                 "open_issues": 13,
                 "owner": "sheng00125",
                 "repo": "LIV-GaussMap",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4015,6 +4015,34 @@
             },
             {
               "node_type": "item",
+              "title": "SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM, CVPR, 2026. [Paper",
+              "description": "] [Code] [Website]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR'26] SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM",
+                "homepage": "https://machineperceptionlab.github.io/SGAD-SLAM-Project/",
+                "id": 1163746316,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-03-24T03:07:50Z",
+                "open_issues": 0,
+                "owner": "MachinePerceptionLab",
+                "repo": "SGAD-SLAM",
+                "stars": 27,
+                "topics": [
+                  "3d-reconstruction",
+                  "3dgaussiansplatting",
+                  "3dgs-slam",
+                  "computer",
+                  "robotics",
+                  "slam"
+                ]
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
               "title": "GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry, RAL, 2026. [Paper",
               "description": "Lab-of-AI-and-Robotics/GSO-SLAM",
               "children": [],
@@ -4031,34 +4059,6 @@
                 "repo": "GSO-SLAM",
                 "stars": 27,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM, CVPR, 2026. [Paper",
-              "description": "] [Code] [Website]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR'26] SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM",
-                "homepage": "https://machineperceptionlab.github.io/SGAD-SLAM-Project/",
-                "id": 1163746316,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-03-24T03:07:50Z",
-                "open_issues": 0,
-                "owner": "MachinePerceptionLab",
-                "repo": "SGAD-SLAM",
-                "stars": 26,
-                "topics": [
-                  "3d-reconstruction",
-                  "3dgaussiansplatting",
-                  "3dgs-slam",
-                  "computer",
-                  "robotics",
-                  "slam"
-                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -4085,6 +4085,27 @@
             },
             {
               "node_type": "item",
+              "title": "CoMA-SLAM: Collaborative Multi-Agent Gaussian SLAM with Geometric Consistency, AAAI, 2026. [Paper",
+              "description": "npu-chenlin/CoMA-SLAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1028204875,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-09T01:56:27Z",
+                "open_issues": 2,
+                "owner": "npu-chenlin",
+                "repo": "CoMA-SLAM",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
               "title": "Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM, arXiv, 2026. [Paper",
               "description": "lemonci/coko-slam",
               "children": [],
@@ -4100,27 +4121,6 @@
                 "owner": "lemonci",
                 "repo": "coko-slam",
                 "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CoMA-SLAM: Collaborative Multi-Agent Gaussian SLAM with Geometric Consistency, AAAI, 2026. [Paper",
-              "description": "npu-chenlin/CoMA-SLAM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1028204875,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-09T01:56:27Z",
-                "open_issues": 2,
-                "owner": "npu-chenlin",
-                "repo": "CoMA-SLAM",
-                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5372,7 +5372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:23:16.333Z",
+    "last_updated": "2026-10-11T01:57:24.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5384,7 +5384,7 @@
       "open_issues": 1,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2146,
+      "stars": 2147,
       "topics": [
         "3dgs",
         "awesome",
