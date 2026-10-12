@@ -67,7 +67,7 @@
             "open_issues": 125,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3308,
+            "stars": 3309,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -844,7 +844,7 @@
                 "open_issues": 10,
                 "owner": "IRMVLab",
                 "repo": "SNI-SLAM",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2206,7 +2206,7 @@
                 "open_issues": 11,
                 "owner": "ShuhongLL",
                 "repo": "SGS-SLAM",
-                "stars": 602,
+                "stars": 620,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2248,7 +2248,7 @@
                 "open_issues": 13,
                 "owner": "MisEty",
                 "repo": "RTG-SLAM",
-                "stars": 510,
+                "stars": 512,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2326,7 +2326,7 @@
                 "open_issues": 1,
                 "owner": "VladimirYugay",
                 "repo": "MAGiC-SLAM",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "computer-vision",
                   "cvpr2025",
@@ -2352,7 +2352,7 @@
                 "open_issues": 5,
                 "owner": "Fudan-MAGIC-Lab",
                 "repo": "VINGS-Mono",
-                "stars": 306,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2571,7 +2571,7 @@
                 "open_issues": 3,
                 "owner": "3DAgentWorld",
                 "repo": "S3PO-GS",
-                "stars": 135,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2839,7 +2839,7 @@
                 "open_issues": 1,
                 "owner": "rpng",
                 "repo": "online_lang_splatting",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "3d-mapping",
                   "dense-realtime-clip",
@@ -3021,7 +3021,7 @@
                 "open_issues": 0,
                 "owner": "AIRLab-POLIMI",
                 "repo": "agri-gs-slam",
-                "stars": 38,
+                "stars": 39,
                 "topics": [
                   "3d-reconstruction",
                   "agriculture",
@@ -3080,6 +3080,27 @@
             },
             {
               "node_type": "item",
+              "title": "DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management, RAL, 2026. [Paper",
+              "description": "] [Website] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[RA-L 2026] DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management",
+                "homepage": null,
+                "id": 1118962353,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-04-16T17:30:36Z",
+                "open_issues": 0,
+                "owner": "leggedrobotics",
+                "repo": "DiskChunGS",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
               "title": "MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization, RAL, 2024. [Paper",
               "description": "Z-Pengcheng/MGS-SLAM",
               "children": [],
@@ -3116,27 +3137,6 @@
                 "owner": "NAIL-HNU",
                 "repo": "MemGS_SLAM",
                 "stars": 27,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management, RAL, 2026. [Paper",
-              "description": "] [Website] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[RA-L 2026] DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management",
-                "homepage": null,
-                "id": 1118962353,
-                "language": "C++",
-                "license": "NOASSERTION",
-                "last_commit": "2026-04-16T17:30:36Z",
-                "open_issues": 0,
-                "owner": "leggedrobotics",
-                "repo": "DiskChunGS",
-                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3481,6 +3481,27 @@
             },
             {
               "node_type": "item",
+              "title": "Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes, ECCV, 2026. [Paper",
+              "description": "] [Website] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes (ECCV 2026)",
+                "homepage": null,
+                "id": 1282882523,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-10T14:08:52Z",
+                "open_issues": 0,
+                "owner": "3DAgentWorld",
+                "repo": "KiloGS-SLAM",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-10-09T02:57:23.057Z"
+            },
+            {
+              "node_type": "item",
               "title": "RGD-SLAM: Robust Gaussian Splatting SLAM for Dynamic Environments, Pattern Recognition, 2026. [Paper",
               "description": "00Haocheng/RGD-SLAM",
               "children": [],
@@ -3499,27 +3520,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes, ECCV, 2026. [Paper",
-              "description": "] [Website] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes (ECCV 2026)",
-                "homepage": null,
-                "id": 1282882523,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-10T14:08:52Z",
-                "open_issues": 0,
-                "owner": "3DAgentWorld",
-                "repo": "KiloGS-SLAM",
-                "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-10-09T02:57:23.057Z"
             },
             {
               "node_type": "item",
@@ -3658,6 +3658,27 @@
             },
             {
               "node_type": "item",
+              "title": "Structure Gaussian Splatting SLAM, ECCV, 2026. [Paper",
+              "description": "yanyan-li/StructureGS-SLAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1285084714,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-06-30T17:49:09Z",
+                "open_issues": 0,
+                "owner": "yanyan-li",
+                "repo": "StructureGS-SLAM",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-10-09T02:57:23.057Z"
+            },
+            {
+              "node_type": "item",
               "title": "Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization, ECCV, 2026. [Paper",
               "description": "guoxf304/CubeSplat",
               "children": [],
@@ -3676,27 +3697,6 @@
                 "topics": []
               },
               "first_seen": "2026-09-22T01:37:35.832Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Structure Gaussian Splatting SLAM, ECCV, 2026. [Paper",
-              "description": "yanyan-li/StructureGS-SLAM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1285084714,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-06-30T17:49:09Z",
-                "open_issues": 0,
-                "owner": "yanyan-li",
-                "repo": "StructureGS-SLAM",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-10-09T02:57:23.057Z"
             }
           ],
           "description": null,
@@ -3721,7 +3721,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 668,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4029,7 +4029,7 @@
                 "open_issues": 0,
                 "owner": "MachinePerceptionLab",
                 "repo": "SGAD-SLAM",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "3d-reconstruction",
                   "3dgaussiansplatting",
@@ -5372,7 +5372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:57:24.556Z",
+    "last_updated": "2026-10-12T02:27:08.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
