@@ -19,7 +19,7 @@
             "open_issues": 122,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10951,
+            "stars": 10950,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -43,7 +43,7 @@
             "open_issues": 105,
             "owner": "google-research",
             "repo": "multinerf",
-            "stars": 3805,
+            "stars": 3806,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -67,7 +67,7 @@
             "open_issues": 125,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3311,
+            "stars": 3312,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -802,7 +802,7 @@
                 "open_issues": 4,
                 "owner": "DrLi-Ming",
                 "repo": "DDN-SLAM",
-                "stars": 204,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -1733,7 +1733,7 @@
                 "open_issues": 3,
                 "owner": "PRBonn",
                 "repo": "PIN_SLAM",
-                "stars": 629,
+                "stars": 630,
                 "topics": [
                   "3d-mapping",
                   "implicit-neural-representation",
@@ -1780,7 +1780,7 @@
                 "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "SHINE_mapping",
-                "stars": 492,
+                "stars": 494,
                 "topics": [
                   "3d-mapping",
                   "implicit-neural-representation",
@@ -2171,6 +2171,27 @@
             },
             {
               "node_type": "item",
+              "title": "SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM, ECCV, 2024. [Paper",
+              "description": "ShuhongLL/SGS-SLAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2024] SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM",
+                "homepage": null,
+                "id": 732253303,
+                "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
+                "last_commit": "2025-11-20T08:23:53Z",
+                "open_issues": 11,
+                "owner": "ShuhongLL",
+                "repo": "SGS-SLAM",
+                "stars": 666,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
               "title": "WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments, CVPR, 2025. [Paper",
               "description": "] [Code] [Website]",
               "children": [],
@@ -2186,27 +2207,6 @@
                 "owner": "GradientSpaces",
                 "repo": "WildGS-SLAM",
                 "stars": 658,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM, ECCV, 2024. [Paper",
-              "description": "ShuhongLL/SGS-SLAM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2024] SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM",
-                "homepage": null,
-                "id": 732253303,
-                "language": "Jupyter Notebook",
-                "license": "BSD-3-Clause",
-                "last_commit": "2025-11-20T08:23:53Z",
-                "open_issues": 11,
-                "owner": "ShuhongLL",
-                "repo": "SGS-SLAM",
-                "stars": 648,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2369,7 +2369,7 @@
                 "id": 898177091,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2025-05-12T12:50:24Z",
+                "last_commit": "2026-10-15T01:38:28Z",
                 "open_issues": 18,
                 "owner": "Willyzw",
                 "repo": "HI-SLAM2",
@@ -2797,7 +2797,7 @@
                 "open_issues": 4,
                 "owner": "BlarkLee",
                 "repo": "DynaGSLAM_official",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2818,7 +2818,7 @@
                 "open_issues": 1,
                 "owner": "kmk97",
                 "repo": "DGS-SLAM",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3109,9 +3109,9 @@
                 "description": null,
                 "homepage": null,
                 "id": 798176049,
-                "language": null,
+                "language": "Python",
                 "license": "MIT",
-                "last_commit": "2024-05-13T03:15:43Z",
+                "last_commit": "2026-10-15T15:55:25Z",
                 "open_issues": 2,
                 "owner": "Z-Pengcheng",
                 "repo": "MGS-SLAM",
@@ -3382,7 +3382,7 @@
                 "open_issues": 0,
                 "owner": "wangys16",
                 "repo": "Flow4DGS-SLAM",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3424,7 +3424,7 @@
                 "open_issues": 0,
                 "owner": "url-kaist",
                 "repo": "gaussianflow-slam",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 8,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "GS-LIVO",
-                "stars": 500,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 6,
                 "owner": "PRBonn",
                 "repo": "PINGS",
-                "stars": 245,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3830,7 +3830,7 @@
                 "open_issues": 1,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3935,7 +3935,7 @@
                 "open_issues": 0,
                 "owner": "VladimirYugay",
                 "repo": "GaME",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -4247,7 +4247,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2025-04-10T03:57:07Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "Xiaohao-Xu",
                 "repo": "MAC-Ego3D",
                 "stars": 79,
@@ -5357,7 +5357,7 @@
                 "open_issues": 19,
                 "owner": "hku-mars",
                 "repo": "GS-SDF",
-                "stars": 536,
+                "stars": 538,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5372,7 +5372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:30:58.473Z",
+    "last_updated": "2026-10-16T01:24:55.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
