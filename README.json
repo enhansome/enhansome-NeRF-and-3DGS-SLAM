@@ -67,7 +67,7 @@
             "open_issues": 125,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3312,
+            "stars": 3313,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -387,7 +387,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-01-26T05:17:19Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "dtc111111",
             "repo": "awesome-representation-for-robotics",
             "stars": 468,
@@ -2185,7 +2185,7 @@
                 "open_issues": 11,
                 "owner": "ShuhongLL",
                 "repo": "SGS-SLAM",
-                "stars": 706,
+                "stars": 716,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3052,7 +3052,7 @@
                 "open_issues": 3,
                 "owner": "UMN-ZhaoLab",
                 "repo": "RTGS",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4237,7 +4237,7 @@
                 "open_issues": 0,
                 "owner": "Lab-of-AI-and-Robotics",
                 "repo": "LiDAR-GS-SLAM",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5393,7 +5393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:07:19.777Z",
+    "last_updated": "2026-10-19T01:19:43.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5401,7 +5401,7 @@
       "id": 575786486,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-17T07:02:45Z",
+      "last_commit": "2026-10-18T13:16:03Z",
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
@@ -5417,7 +5417,7 @@
         "vslam"
       ]
     },
-    "original_repository_sha": "2b905c1c747705e161b6f5450324f20e276dda85",
+    "original_repository_sha": "c804ac3db1d1705bbcc5afd72b243e8555ceb4f3",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
