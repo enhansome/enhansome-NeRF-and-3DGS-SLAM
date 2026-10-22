@@ -19,7 +19,7 @@
             "open_issues": 123,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10951,
+            "stars": 10952,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -43,7 +43,7 @@
             "open_issues": 105,
             "owner": "google-research",
             "repo": "multinerf",
-            "stars": 3806,
+            "stars": 3805,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -67,7 +67,7 @@
             "open_issues": 125,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3314,
+            "stars": 3315,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -2083,7 +2083,7 @@
                 "open_issues": 53,
                 "owner": "spla-tam",
                 "repo": "SplaTAM",
-                "stars": 2213,
+                "stars": 2214,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2137,7 +2137,7 @@
                 "open_issues": 0,
                 "owner": "VladimirYugay",
                 "repo": "Gaussian-SLAM",
-                "stars": 1185,
+                "stars": 1186,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -2164,7 +2164,7 @@
                 "open_issues": 38,
                 "owner": "HuajianUP",
                 "repo": "Photo-SLAM",
-                "stars": 779,
+                "stars": 780,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2185,7 +2185,7 @@
                 "open_issues": 11,
                 "owner": "ShuhongLL",
                 "repo": "SGS-SLAM",
-                "stars": 736,
+                "stars": 750,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2248,7 +2248,7 @@
                 "open_issues": 13,
                 "owner": "MisEty",
                 "repo": "RTG-SLAM",
-                "stars": 513,
+                "stars": 514,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2269,7 +2269,7 @@
                 "open_issues": 3,
                 "owner": "ChenHoy",
                 "repo": "DROID-Splat",
-                "stars": 420,
+                "stars": 421,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -2352,7 +2352,7 @@
                 "open_issues": 5,
                 "owner": "Fudan-MAGIC-Lab",
                 "repo": "VINGS-Mono",
-                "stars": 306,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3721,7 +3721,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 670,
+                "stars": 671,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 32,
                 "owner": "xieyuser",
                 "repo": "GS-LIVM",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 6,
                 "owner": "PRBonn",
                 "repo": "PINGS",
-                "stars": 248,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3872,7 +3872,7 @@
                 "open_issues": 7,
                 "owner": "dtc111111",
                 "repo": "vpgs-slam",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4008,7 +4008,7 @@
                 "open_issues": 0,
                 "owner": "SlamMate",
                 "repo": "Unblur-SLAM",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4712,7 +4712,7 @@
                 "open_issues": 4,
                 "owner": "Li-Yuetao",
                 "repo": "ActiveSplat",
-                "stars": 178,
+                "stars": 179,
                 "topics": [
                   "3d-reconstruction",
                   "robotics"
@@ -4757,7 +4757,7 @@
                 "open_issues": 2,
                 "owner": "chengine",
                 "repo": "splatnav",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5357,7 +5357,7 @@
                 "open_issues": 19,
                 "owner": "hku-mars",
                 "repo": "GS-SDF",
-                "stars": 539,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5372,7 +5372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T01:38:11.445Z",
+    "last_updated": "2026-10-22T01:33:15.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5380,7 +5380,7 @@
       "id": 575786486,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-19T09:16:48Z",
+      "last_commit": "2026-10-21T11:44:22Z",
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
@@ -5396,7 +5396,7 @@
         "vslam"
       ]
     },
-    "original_repository_sha": "aba62ab902b44d12d109c91fe320e3fbf336c0b3",
+    "original_repository_sha": "5f064357a4a8ccc74ad4a2b06707c5251f3035fb",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
