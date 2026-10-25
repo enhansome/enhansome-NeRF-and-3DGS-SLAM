@@ -19,7 +19,7 @@
             "open_issues": 123,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10953,
+            "stars": 10952,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -1146,7 +1146,7 @@
             {
               "node_type": "item",
               "title": "RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields, RAL, 2024. [Paper",
-              "description": "fudan-zvg/Rodyn-SLAM",
+              "description": "LogosIntelligenceLab/Rodyn-SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1155,9 +1155,9 @@
                 "id": 822572938,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-03-18T11:16:13Z",
+                "last_commit": "2026-10-24T13:55:20Z",
                 "open_issues": 7,
-                "owner": "fudan-zvg",
+                "owner": "LogosIntelligenceLab",
                 "repo": "Rodyn-SLAM",
                 "stars": 43,
                 "topics": []
@@ -2110,7 +2110,7 @@
                 "open_issues": 101,
                 "owner": "muskie82",
                 "repo": "MonoGS",
-                "stars": 2185,
+                "stars": 2186,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2667,7 +2667,7 @@
             {
               "node_type": "item",
               "title": "DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization, NeurIPS, 2024. [Paper",
-              "description": "fudan-zvg/DG-SLAM",
+              "description": "LogosIntelligenceLab/DG-SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2676,9 +2676,9 @@
                 "id": 880908152,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-08-02T02:38:05Z",
+                "last_commit": "2026-10-24T14:10:23Z",
                 "open_issues": 8,
-                "owner": "fudan-zvg",
+                "owner": "LogosIntelligenceLab",
                 "repo": "DG-SLAM",
                 "stars": 88,
                 "topics": []
@@ -3830,7 +3830,7 @@
                 "open_issues": 1,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 179,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4712,7 +4712,7 @@
                 "open_issues": 4,
                 "owner": "Li-Yuetao",
                 "repo": "ActiveSplat",
-                "stars": 180,
+                "stars": 181,
                 "topics": [
                   "3d-reconstruction",
                   "robotics"
@@ -5372,7 +5372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:38:33.734Z",
+    "last_updated": "2026-10-25T01:14:18.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5384,7 +5384,7 @@
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2152,
+      "stars": 2151,
       "topics": [
         "3dgs",
         "awesome",
