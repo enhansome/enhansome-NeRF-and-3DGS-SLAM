@@ -19,7 +19,7 @@
             "open_issues": 123,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10952,
+            "stars": 10953,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -67,7 +67,7 @@
             "open_issues": 125,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3317,
+            "stars": 3318,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -2297,7 +2297,7 @@
                 "open_issues": 0,
                 "owner": "GradientSpaces",
                 "repo": "LoopSplat",
-                "stars": 401,
+                "stars": 402,
                 "topics": [
                   "3dgs",
                   "3dgs-slam",
@@ -3537,7 +3537,7 @@
                 "open_issues": 0,
                 "owner": "UMN-ZhaoLab",
                 "repo": "Pocket-SLAM",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3697,6 +3697,27 @@
                 "topics": []
               },
               "first_seen": "2026-09-22T01:37:35.832Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild, arXiv, 2026. [Paper",
+              "description": "kumaran-3527/SCOUT-SLAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SCOUT-SLAM:  Structurally Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild",
+                "homepage": null,
+                "id": 1189411291,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-23T00:33:53Z",
+                "open_issues": 0,
+                "owner": "kumaran-3527",
+                "repo": "SCOUT-SLAM",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T01:14:50.952Z"
             }
           ],
           "description": null,
@@ -3780,7 +3801,7 @@
                 "id": 928776186,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-17T22:01:51Z",
+                "last_commit": "2026-10-25T13:23:37Z",
                 "open_issues": 6,
                 "owner": "PRBonn",
                 "repo": "PINGS",
@@ -4494,10 +4515,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-12-20T16:33:59Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "UT-Austin-RPL",
                 "repo": "Ditto",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -5372,7 +5393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:14:18.038Z",
+    "last_updated": "2026-10-26T01:14:50.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
