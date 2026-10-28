@@ -19,7 +19,7 @@
             "open_issues": 123,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10955,
+            "stars": 10953,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -390,7 +390,7 @@
             "open_issues": 1,
             "owner": "dtc111111",
             "repo": "awesome-representation-for-robotics",
-            "stars": 468,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.585Z"
@@ -1733,7 +1733,7 @@
                 "open_issues": 3,
                 "owner": "PRBonn",
                 "repo": "PIN_SLAM",
-                "stars": 630,
+                "stars": 631,
                 "topics": [
                   "3d-mapping",
                   "implicit-neural-representation",
@@ -2185,7 +2185,7 @@
                 "open_issues": 11,
                 "owner": "ShuhongLL",
                 "repo": "SGS-SLAM",
-                "stars": 759,
+                "stars": 758,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2206,7 +2206,7 @@
                 "open_issues": 9,
                 "owner": "GradientSpaces",
                 "repo": "WildGS-SLAM",
-                "stars": 660,
+                "stars": 661,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2508,7 +2508,7 @@
                 "open_issues": 4,
                 "owner": "LeeBY68",
                 "repo": "Hier-SLAM",
-                "stars": 173,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2571,7 +2571,7 @@
                 "open_issues": 3,
                 "owner": "3DAgentWorld",
                 "repo": "S3PO-GS",
-                "stars": 138,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3689,7 +3689,7 @@
                 "id": 1050227425,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-12T11:33:33Z",
+                "last_commit": "2026-10-27T03:10:11Z",
                 "open_issues": 2,
                 "owner": "guoxf304",
                 "repo": "CubeSplat",
@@ -3935,7 +3935,7 @@
                 "open_issues": 1,
                 "owner": "yzli1998",
                 "repo": "MipSLAM",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4413,7 +4413,7 @@
                 "open_issues": 4,
                 "owner": "rhgao",
                 "repo": "ObjectFolder",
-                "stars": 171,
+                "stars": 172,
                 "topics": [
                   "audio",
                   "dataset",
@@ -4441,7 +4441,7 @@
                 "open_issues": 4,
                 "owner": "rhgao",
                 "repo": "ObjectFolder",
-                "stars": 171,
+                "stars": 172,
                 "topics": [
                   "audio",
                   "dataset",
@@ -4778,7 +4778,7 @@
                 "open_issues": 2,
                 "owner": "chengine",
                 "repo": "splatnav",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5079,6 +5079,27 @@
             },
             {
               "node_type": "item",
+              "title": "GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization, arXiv, 2024. [Paper",
+              "description": "] [Website] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[IROS 2025] GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization",
+                "homepage": null,
+                "id": 862607646,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-01-27T19:56:02Z",
+                "open_issues": 7,
+                "owner": "be2rlab",
+                "repo": "gsplatloc",
+                "stars": 154,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
               "title": "LocNDF: Neural Distance Field Mapping for Robot Localization, RAL, 2023. [Paper",
               "description": "PRBonn/LocNDF",
               "children": [],
@@ -5100,27 +5121,6 @@
             },
             {
               "node_type": "item",
-              "title": "GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization, arXiv, 2024. [Paper",
-              "description": "] [Website] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[IROS 2025] GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization",
-                "homepage": null,
-                "id": 862607646,
-                "language": "Jupyter Notebook",
-                "license": "Apache-2.0",
-                "last_commit": "2026-01-27T19:56:02Z",
-                "open_issues": 7,
-                "owner": "be2rlab",
-                "repo": "gsplatloc",
-                "stars": 153,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
               "title": "SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality, arXiv, 2024. [Paper",
               "description": "] [Website] [Code]",
               "children": [],
@@ -5135,7 +5135,7 @@
                 "open_issues": 0,
                 "owner": "zhaihongjia",
                 "repo": "SplatLoc",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5378,7 +5378,7 @@
                 "open_issues": 19,
                 "owner": "hku-mars",
                 "repo": "GS-SDF",
-                "stars": 542,
+                "stars": 544,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5393,7 +5393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:07:19.432Z",
+    "last_updated": "2026-10-28T02:19:53.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5405,7 +5405,7 @@
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2154,
+      "stars": 2156,
       "topics": [
         "3dgs",
         "awesome",
