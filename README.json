@@ -19,7 +19,7 @@
             "open_issues": 123,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10954,
+            "stars": 10953,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -67,7 +67,7 @@
             "open_issues": 125,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3324,
+            "stars": 3325,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -92,7 +92,7 @@
             "open_issues": 33,
             "owner": "autonomousvision",
             "repo": "mip-splatting",
-            "stars": 1483,
+            "stars": 1484,
             "topics": [
               "3d-reconstruction",
               "anti-aliasing",
@@ -390,7 +390,7 @@
             "open_issues": 1,
             "owner": "dtc111111",
             "repo": "awesome-representation-for-robotics",
-            "stars": 469,
+            "stars": 468,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.585Z"
@@ -552,7 +552,7 @@
                 "open_issues": 65,
                 "owner": "zju3dv",
                 "repo": "NeuralRecon",
-                "stars": 2289,
+                "stars": 2288,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision"
@@ -602,7 +602,7 @@
                 "open_issues": 9,
                 "owner": "cvg",
                 "repo": "nice-slam",
-                "stars": 1600,
+                "stars": 1601,
                 "topics": [
                   "3d-reconstruction",
                   "deep-learning",
@@ -2110,7 +2110,7 @@
                 "open_issues": 101,
                 "owner": "muskie82",
                 "repo": "MonoGS",
-                "stars": 2188,
+                "stars": 2189,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2373,7 +2373,7 @@
                 "open_issues": 18,
                 "owner": "Willyzw",
                 "repo": "HI-SLAM2",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2415,7 +2415,7 @@
                 "open_issues": 7,
                 "owner": "ethz-mrl",
                 "repo": "GSFusion",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2457,7 +2457,7 @@
                 "open_issues": 4,
                 "owner": "yanyan-li",
                 "repo": "4DGS-SLAM",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "dynamic-slam",
                   "gaussian-splatting-slam"
@@ -3382,7 +3382,7 @@
                 "open_issues": 1,
                 "owner": "wangys16",
                 "repo": "Flow4DGS-SLAM",
-                "stars": 78,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3847,7 +3847,7 @@
                 "id": 993105835,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T01:58:07Z",
+                "last_commit": "2026-10-30T23:24:47Z",
                 "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
@@ -3956,7 +3956,7 @@
                 "open_issues": 0,
                 "owner": "VladimirYugay",
                 "repo": "GaME",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -4237,7 +4237,7 @@
                 "open_issues": 0,
                 "owner": "Lab-of-AI-and-Robotics",
                 "repo": "LiDAR-GS-SLAM",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4518,7 +4518,7 @@
                 "open_issues": 5,
                 "owner": "UT-Austin-RPL",
                 "repo": "Ditto",
-                "stars": 130,
+                "stars": 129,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -5135,7 +5135,7 @@
                 "open_issues": 0,
                 "owner": "zhaihongjia",
                 "repo": "SplatLoc",
-                "stars": 151,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5393,7 +5393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:38:56.377Z",
+    "last_updated": "2026-10-31T02:26:49.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
