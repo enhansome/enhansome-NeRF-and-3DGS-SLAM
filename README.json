@@ -67,7 +67,7 @@
             "open_issues": 125,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3325,
+            "stars": 3327,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -1733,7 +1733,7 @@
                 "open_issues": 3,
                 "owner": "PRBonn",
                 "repo": "PIN_SLAM",
-                "stars": 631,
+                "stars": 632,
                 "topics": [
                   "3d-mapping",
                   "implicit-neural-representation",
@@ -3052,7 +3052,7 @@
                 "open_issues": 3,
                 "owner": "UMN-ZhaoLab",
                 "repo": "RTGS",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3424,7 +3424,7 @@
                 "open_issues": 0,
                 "owner": "url-kaist",
                 "repo": "gaussianflow-slam",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3742,7 +3742,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 674,
+                "stars": 675,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3914,7 +3914,7 @@
                 "open_issues": 1,
                 "owner": "InternRobotics",
                 "repo": "M3",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5010,7 +5010,7 @@
             {
               "node_type": "item",
               "title": "AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance, arXiv, 2025. [Paper",
-              "description": "TianlingXu/AREA3D",
+              "description": "tianlingemily/AREA3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5021,7 +5021,7 @@
                 "license": "MIT",
                 "last_commit": "2026-08-26T15:23:56Z",
                 "open_issues": 1,
-                "owner": "TianlingXu",
+                "owner": "tianlingemily",
                 "repo": "AREA3D",
                 "stars": 16,
                 "topics": []
@@ -5393,7 +5393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:26:49.805Z",
+    "last_updated": "2026-11-01T02:16:12.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5401,7 +5401,7 @@
       "id": 575786486,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-28T03:15:29Z",
+      "last_commit": "2026-10-31T07:46:10Z",
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
@@ -5417,7 +5417,7 @@
         "vslam"
       ]
     },
-    "original_repository_sha": "2a5561c0a3ce47318e7996137249f9ce074c1ba6",
+    "original_repository_sha": "18e66fa8e651761c117887f3140bf48006152247",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
