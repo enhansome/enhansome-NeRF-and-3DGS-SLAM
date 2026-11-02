@@ -43,7 +43,7 @@
             "open_issues": 105,
             "owner": "google-research",
             "repo": "multinerf",
-            "stars": 3806,
+            "stars": 3805,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -2110,7 +2110,7 @@
                 "open_issues": 101,
                 "owner": "muskie82",
                 "repo": "MonoGS",
-                "stars": 2189,
+                "stars": 2188,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -3382,7 +3382,7 @@
                 "open_issues": 1,
                 "owner": "wangys16",
                 "repo": "Flow4DGS-SLAM",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5393,7 +5393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:16:12.905Z",
+    "last_updated": "2026-11-02T02:33:29.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5405,7 +5405,7 @@
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2158,
+      "stars": 2157,
       "topics": [
         "3dgs",
         "awesome",
