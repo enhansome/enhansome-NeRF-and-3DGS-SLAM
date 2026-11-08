@@ -67,7 +67,7 @@
             "open_issues": 126,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3333,
+            "stars": 3331,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -2164,7 +2164,7 @@
                 "open_issues": 38,
                 "owner": "HuajianUP",
                 "repo": "Photo-SLAM",
-                "stars": 781,
+                "stars": 782,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2248,7 +2248,7 @@
                 "open_issues": 13,
                 "owner": "MisEty",
                 "repo": "RTG-SLAM",
-                "stars": 515,
+                "stars": 514,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2326,7 +2326,7 @@
                 "open_issues": 1,
                 "owner": "VladimirYugay",
                 "repo": "MAGiC-SLAM",
-                "stars": 341,
+                "stars": 342,
                 "topics": [
                   "computer-vision",
                   "cvpr2025",
@@ -2352,7 +2352,7 @@
                 "open_issues": 5,
                 "owner": "Fudan-MAGIC-Lab",
                 "repo": "VINGS-Mono",
-                "stars": 305,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2666,6 +2666,36 @@
             },
             {
               "node_type": "item",
+              "title": "LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM, arXiv, 2025. [Paper",
+              "description": "] [Website] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM",
+                "homepage": "https://lab-of-ai-and-robotics.github.io/LEGO-SLAM/",
+                "id": 1099614586,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-08-04T07:55:04Z",
+                "open_issues": 0,
+                "owner": "Lab-of-AI-and-Robotics",
+                "repo": "LEGO-SLAM",
+                "stars": 89,
+                "topics": [
+                  "3d-reconstruction",
+                  "3dgs",
+                  "computer-vision",
+                  "language-embedding",
+                  "open-vocabulary",
+                  "rgbd-slam",
+                  "robotics",
+                  "slam"
+                ]
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
               "title": "DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization, NeurIPS, 2024. [Paper",
               "description": "LogosIntelligenceLab/DG-SLAM",
               "children": [],
@@ -2682,36 +2712,6 @@
                 "repo": "DG-SLAM",
                 "stars": 88,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM, arXiv, 2025. [Paper",
-              "description": "] [Website] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM",
-                "homepage": "https://lab-of-ai-and-robotics.github.io/LEGO-SLAM/",
-                "id": 1099614586,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-08-04T07:55:04Z",
-                "open_issues": 0,
-                "owner": "Lab-of-AI-and-Robotics",
-                "repo": "LEGO-SLAM",
-                "stars": 87,
-                "topics": [
-                  "3d-reconstruction",
-                  "3dgs",
-                  "computer-vision",
-                  "language-embedding",
-                  "open-vocabulary",
-                  "rgbd-slam",
-                  "robotics",
-                  "slam"
-                ]
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
             },
@@ -2839,7 +2839,7 @@
                 "open_issues": 1,
                 "owner": "rpng",
                 "repo": "online_lang_splatting",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "3d-mapping",
                   "dense-realtime-clip",
@@ -3763,7 +3763,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 679,
+                "stars": 681,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3872,7 +3872,7 @@
                 "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 183,
+                "stars": 184,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4099,7 +4099,7 @@
                 "open_issues": 2,
                 "owner": "Lab-of-AI-and-Robotics",
                 "repo": "GSO-SLAM",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5114,7 +5114,7 @@
                 "open_issues": 7,
                 "owner": "be2rlab",
                 "repo": "gsplatloc",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5414,7 +5414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:51:45.772Z",
+    "last_updated": "2026-11-08T02:31:19.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5426,7 +5426,7 @@
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2159,
+      "stars": 2161,
       "topics": [
         "3dgs",
         "awesome",
