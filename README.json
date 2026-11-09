@@ -19,7 +19,7 @@
             "open_issues": 123,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10954,
+            "stars": 10955,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -43,7 +43,7 @@
             "open_issues": 105,
             "owner": "google-research",
             "repo": "multinerf",
-            "stars": 3805,
+            "stars": 3804,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -92,7 +92,7 @@
             "open_issues": 33,
             "owner": "autonomousvision",
             "repo": "mip-splatting",
-            "stars": 1484,
+            "stars": 1486,
             "topics": [
               "3d-reconstruction",
               "anti-aliasing",
@@ -602,7 +602,7 @@
                 "open_issues": 9,
                 "owner": "cvg",
                 "repo": "nice-slam",
-                "stars": 1602,
+                "stars": 1601,
                 "topics": [
                   "3d-reconstruction",
                   "deep-learning",
@@ -2680,7 +2680,7 @@
                 "open_issues": 0,
                 "owner": "Lab-of-AI-and-Robotics",
                 "repo": "LEGO-SLAM",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "3d-reconstruction",
                   "3dgs",
@@ -3847,7 +3847,7 @@
                 "open_issues": 7,
                 "owner": "VITA-Group",
                 "repo": "MM3DGS-SLAM",
-                "stars": 217,
+                "stars": 218,
                 "topics": [
                   "gaussian-splatting",
                   "robotics",
@@ -5414,7 +5414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:31:19.875Z",
+    "last_updated": "2026-11-09T02:41:55.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
