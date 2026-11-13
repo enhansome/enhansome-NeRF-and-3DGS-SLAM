@@ -67,7 +67,7 @@
             "open_issues": 126,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3332,
+            "stars": 3335,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -1780,7 +1780,7 @@
                 "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "SHINE_mapping",
-                "stars": 494,
+                "stars": 495,
                 "topics": [
                   "3d-mapping",
                   "implicit-neural-representation",
@@ -1937,7 +1937,7 @@
                 "open_issues": 0,
                 "owner": "SenseRoboticsLab",
                 "repo": "CURL-SLAM",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2164,7 +2164,7 @@
                 "open_issues": 38,
                 "owner": "HuajianUP",
                 "repo": "Photo-SLAM",
-                "stars": 782,
+                "stars": 783,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2224,10 +2224,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-06-20T11:10:31Z",
-                "open_issues": 37,
+                "open_issues": 36,
                 "owner": "Lab-of-AI-and-Robotics",
                 "repo": "GS_ICP_SLAM",
-                "stars": 542,
+                "stars": 543,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3382,7 +3382,7 @@
                 "open_issues": 1,
                 "owner": "wangys16",
                 "repo": "Flow4DGS-SLAM",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 684,
+                "stars": 686,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4799,7 +4799,7 @@
                 "open_issues": 2,
                 "owner": "chengine",
                 "repo": "splatnav",
-                "stars": 151,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5231,7 +5231,7 @@
                 "open_issues": 0,
                 "owner": "zju3dv",
                 "repo": "STDLoc",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5252,7 +5252,7 @@
                 "open_issues": 2,
                 "owner": "nv-dvl",
                 "repo": "nerfmatch",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5399,7 +5399,7 @@
                 "open_issues": 19,
                 "owner": "hku-mars",
                 "repo": "GS-SDF",
-                "stars": 547,
+                "stars": 549,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5414,7 +5414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:50:30.622Z",
+    "last_updated": "2026-11-13T03:26:11.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5426,7 +5426,7 @@
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
-      "stars": 2162,
+      "stars": 2164,
       "topics": [
         "3dgs",
         "awesome",
