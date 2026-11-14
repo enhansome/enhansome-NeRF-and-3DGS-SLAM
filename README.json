@@ -67,7 +67,7 @@
             "open_issues": 126,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3335,
+            "stars": 3336,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -92,7 +92,7 @@
             "open_issues": 33,
             "owner": "autonomousvision",
             "repo": "mip-splatting",
-            "stars": 1488,
+            "stars": 1489,
             "topics": [
               "3d-reconstruction",
               "anti-aliasing",
@@ -2137,7 +2137,7 @@
                 "open_issues": 0,
                 "owner": "VladimirYugay",
                 "repo": "Gaussian-SLAM",
-                "stars": 1189,
+                "stars": 1188,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -2185,7 +2185,7 @@
                 "open_issues": 11,
                 "owner": "ShuhongLL",
                 "repo": "SGS-SLAM",
-                "stars": 760,
+                "stars": 761,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 686,
+                "stars": 687,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3805,7 +3805,7 @@
                 "open_issues": 32,
                 "owner": "xieyuser",
                 "repo": "GS-LIVM",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4232,7 +4232,7 @@
                 "open_issues": 3,
                 "owner": "rvp-group",
                 "repo": "Splat-LOAM",
-                "stars": 207,
+                "stars": 208,
                 "topics": [
                   "gaussian-splatting",
                   "lidar",
@@ -4799,7 +4799,7 @@
                 "open_issues": 2,
                 "owner": "chengine",
                 "repo": "splatnav",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5414,7 +5414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:26:11.621Z",
+    "last_updated": "2026-11-14T03:20:52.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
