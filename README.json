@@ -67,7 +67,7 @@
             "open_issues": 126,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3336,
+            "stars": 3337,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -1628,27 +1628,6 @@
             },
             {
               "node_type": "item",
-              "title": "Region sampling NeRF-SLAM based on Kolmogorov-Arnold network, arXiv, 2025. [Paper",
-              "description": "GXXXXT/RSNeRF",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 823999637,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-04-18T04:38:48Z",
-                "open_issues": 0,
-                "owner": "GXXXXT",
-                "repo": "RSNeRF",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
               "title": "CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM, arXiv, 2026. [Paper",
               "description": "jinjidexiaohuoban/CHOW-SLAM",
               "children": [],
@@ -1663,6 +1642,27 @@
                 "open_issues": 0,
                 "owner": "jinjidexiaohuoban",
                 "repo": "CHOW-SLAM",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Region sampling NeRF-SLAM based on Kolmogorov-Arnold network, arXiv, 2025. [Paper",
+              "description": "GXXXXT/RSNeRF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 823999637,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-04-18T04:38:48Z",
+                "open_issues": 0,
+                "owner": "GXXXXT",
+                "repo": "RSNeRF",
                 "stars": 1,
                 "topics": []
               },
@@ -2083,7 +2083,7 @@
                 "open_issues": 53,
                 "owner": "spla-tam",
                 "repo": "SplaTAM",
-                "stars": 2220,
+                "stars": 2221,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2137,7 +2137,7 @@
                 "open_issues": 0,
                 "owner": "VladimirYugay",
                 "repo": "Gaussian-SLAM",
-                "stars": 1188,
+                "stars": 1189,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -2164,7 +2164,7 @@
                 "open_issues": 38,
                 "owner": "HuajianUP",
                 "repo": "Photo-SLAM",
-                "stars": 783,
+                "stars": 785,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3714,7 +3714,7 @@
                 "open_issues": 0,
                 "owner": "Lab-of-AI-and-Robotics",
                 "repo": "BayesianGS-SLAM",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-11-05T03:30:46.114Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 687,
+                "stars": 690,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3805,7 +3805,7 @@
                 "open_issues": 32,
                 "owner": "xieyuser",
                 "repo": "GS-LIVM",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3935,7 +3935,7 @@
                 "open_issues": 0,
                 "owner": "InternRobotics",
                 "repo": "M3",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5414,7 +5414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:20:52.346Z",
+    "last_updated": "2026-11-15T02:43:46.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
