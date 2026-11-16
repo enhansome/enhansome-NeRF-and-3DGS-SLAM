@@ -16,7 +16,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2025-04-12T16:26:12Z",
-            "open_issues": 123,
+            "open_issues": 124,
             "owner": "bmild",
             "repo": "nerf",
             "stars": 10956,
@@ -67,7 +67,7 @@
             "open_issues": 126,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3337,
+            "stars": 3338,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -92,7 +92,7 @@
             "open_issues": 33,
             "owner": "autonomousvision",
             "repo": "mip-splatting",
-            "stars": 1489,
+            "stars": 1490,
             "topics": [
               "3d-reconstruction",
               "anti-aliasing",
@@ -2797,7 +2797,7 @@
                 "open_issues": 4,
                 "owner": "BlarkLee",
                 "repo": "DynaGSLAM_official",
-                "stars": 72,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4820,7 +4820,7 @@
                 "open_issues": 0,
                 "owner": "Qianzhong-Chen",
                 "repo": "grad_nav",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5414,7 +5414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:43:46.239Z",
+    "last_updated": "2026-11-16T02:47:08.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
