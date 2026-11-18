@@ -19,7 +19,7 @@
             "open_issues": 124,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10956,
+            "stars": 10957,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -390,7 +390,7 @@
             "open_issues": 1,
             "owner": "dtc111111",
             "repo": "awesome-representation-for-robotics",
-            "stars": 468,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3424,7 +3424,7 @@
                 "open_issues": 0,
                 "owner": "url-kaist",
                 "repo": "gaussianflow-slam",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 690,
+                "stars": 691,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3805,7 +3805,7 @@
                 "open_issues": 32,
                 "owner": "xieyuser",
                 "repo": "GS-LIVM",
-                "stars": 364,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3872,7 +3872,7 @@
                 "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 188,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4255,7 +4255,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-28T06:20:11Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Lab-of-AI-and-Robotics",
                 "repo": "LiDAR-GS-SLAM",
                 "stars": 54,
@@ -5399,7 +5399,7 @@
                 "open_issues": 19,
                 "owner": "hku-mars",
                 "repo": "GS-SDF",
-                "stars": 549,
+                "stars": 550,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5414,7 +5414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T05:05:52.545Z",
+    "last_updated": "2026-11-18T04:27:13.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
