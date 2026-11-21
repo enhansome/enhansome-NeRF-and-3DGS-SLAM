@@ -19,7 +19,7 @@
             "open_issues": 124,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10955,
+            "stars": 10956,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -67,7 +67,7 @@
             "open_issues": 126,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3342,
+            "stars": 3343,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -390,7 +390,7 @@
             "open_issues": 1,
             "owner": "dtc111111",
             "repo": "awesome-representation-for-robotics",
-            "stars": 470,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.585Z"
@@ -1733,7 +1733,7 @@
                 "open_issues": 3,
                 "owner": "PRBonn",
                 "repo": "PIN_SLAM",
-                "stars": 637,
+                "stars": 638,
                 "topics": [
                   "3d-mapping",
                   "implicit-neural-representation",
@@ -2269,7 +2269,7 @@
                 "open_issues": 3,
                 "owner": "ChenHoy",
                 "repo": "DROID-Splat",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -2634,7 +2634,7 @@
                 "open_issues": 0,
                 "owner": "lif314",
                 "repo": "GS3LAM",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "gaussian-splatting",
                   "gaussian-splatting-slam",
@@ -3784,7 +3784,7 @@
                 "open_issues": 8,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "GS-LIVO",
-                "stars": 514,
+                "stars": 515,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3872,7 +3872,7 @@
                 "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 189,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4106,6 +4106,27 @@
             },
             {
               "node_type": "item",
+              "title": "CoMA-SLAM: Collaborative Multi-Agent Gaussian SLAM with Geometric Consistency, AAAI, 2026. [Paper",
+              "description": "npu-chenlin/CoMA-SLAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1028204875,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-09T01:56:27Z",
+                "open_issues": 2,
+                "owner": "npu-chenlin",
+                "repo": "CoMA-SLAM",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
               "title": "TRGS-SLAM: IMU-Aided Gaussian Splatting SLAM for Blurry, Rolling Shutter, and Noisy Thermal Images, arXiv, 2026. [Paper",
               "description": "] [Code] [Website]",
               "children": [],
@@ -4121,27 +4142,6 @@
                 "owner": "umautobots",
                 "repo": "trgs_slam",
                 "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CoMA-SLAM: Collaborative Multi-Agent Gaussian SLAM with Geometric Consistency, AAAI, 2026. [Paper",
-              "description": "npu-chenlin/CoMA-SLAM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1028204875,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-09T01:56:27Z",
-                "open_issues": 2,
-                "owner": "npu-chenlin",
-                "repo": "CoMA-SLAM",
-                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4183,7 +4183,7 @@
                 "open_issues": 0,
                 "owner": "edward62740",
                 "repo": "Facet-SLAM",
-                "stars": 7,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-11-20T04:00:11.252Z"
@@ -4560,7 +4560,7 @@
                 "open_issues": 5,
                 "owner": "UT-Austin-RPL",
                 "repo": "Ditto",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -4775,7 +4775,7 @@
                 "open_issues": 4,
                 "owner": "Li-Yuetao",
                 "repo": "ActiveSplat",
-                "stars": 184,
+                "stars": 185,
                 "topics": [
                   "3d-reconstruction",
                   "robotics"
@@ -5435,7 +5435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T04:00:11.252Z",
+    "last_updated": "2026-11-21T03:59:54.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
