@@ -19,7 +19,7 @@
             "open_issues": 124,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10956,
+            "stars": 10957,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -1649,6 +1649,27 @@
             },
             {
               "node_type": "item",
+              "title": "KN-LIO: Kinematics and Neural Field Coupled LiDAR-Inertial Odometry, TIP, 2026. [Paper",
+              "description": "peterWon/KN-LIO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Codes of our paper \"KN-LIO: Kinematics and Neural Field Coupled LiDAR-Inertial Odometry\" (IEEE TIP 2026)",
+                "homepage": null,
+                "id": 1378060791,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-09T01:20:36Z",
+                "open_issues": 0,
+                "owner": "peterWon",
+                "repo": "KN-LIO",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-09T02:57:23.057Z"
+            },
+            {
+              "node_type": "item",
               "title": "Region sampling NeRF-SLAM based on Kolmogorov-Arnold network, arXiv, 2025. [Paper",
               "description": "GXXXXT/RSNeRF",
               "children": [],
@@ -1688,27 +1709,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "KN-LIO: Kinematics and Neural Field Coupled LiDAR-Inertial Odometry, TIP, 2026. [Paper",
-              "description": "peterWon/KN-LIO",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Codes of our paper \"KN-LIO: Kinematics and Neural Field Coupled LiDAR-Inertial Odometry\" (IEEE TIP 2026)",
-                "homepage": null,
-                "id": 1378060791,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-09T01:20:36Z",
-                "open_issues": 0,
-                "owner": "peterWon",
-                "repo": "KN-LIO",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-10-09T02:57:23.057Z"
             }
           ],
           "description": null,
@@ -2110,7 +2110,7 @@
                 "open_issues": 101,
                 "owner": "muskie82",
                 "repo": "MonoGS",
-                "stars": 2194,
+                "stars": 2195,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2164,7 +2164,7 @@
                 "open_issues": 38,
                 "owner": "HuajianUP",
                 "repo": "Photo-SLAM",
-                "stars": 783,
+                "stars": 784,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3595,6 +3595,27 @@
             },
             {
               "node_type": "item",
+              "title": "GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition, IROS, 2026. [Paper",
+              "description": "] [Website] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1301334088,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-02T05:06:54Z",
+                "open_issues": 0,
+                "owner": "pmermigkas",
+                "repo": "GLAM-SLAM",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:01.585Z"
+            },
+            {
+              "node_type": "item",
               "title": "EAGS-SLAM: Edge-Assisted Gaussian Splatting SLAM, IEEE Sensors Journal, 2026. [Paper",
               "description": "] [Website] [Code]",
               "children": [],
@@ -3616,24 +3637,24 @@
             },
             {
               "node_type": "item",
-              "title": "GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition, IROS, 2026. [Paper",
-              "description": "] [Website] [Code]",
+              "title": "Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization, ECCV, 2026. [Paper",
+              "description": "guoxf304/CubeSplat",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": null,
                 "homepage": null,
-                "id": 1301334088,
+                "id": 1050227425,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-02T05:06:54Z",
-                "open_issues": 0,
-                "owner": "pmermigkas",
-                "repo": "GLAM-SLAM",
+                "last_commit": "2026-10-27T03:10:11Z",
+                "open_issues": 2,
+                "owner": "guoxf304",
+                "repo": "CubeSplat",
                 "stars": 9,
                 "topics": []
               },
-              "first_seen": "2026-08-28T06:57:01.585Z"
+              "first_seen": "2026-09-22T01:37:35.832Z"
             },
             {
               "node_type": "item",
@@ -3676,27 +3697,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-09T02:57:23.057Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization, ECCV, 2026. [Paper",
-              "description": "guoxf304/CubeSplat",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1050227425,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-27T03:10:11Z",
-                "open_issues": 2,
-                "owner": "guoxf304",
-                "repo": "CubeSplat",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-09-22T01:37:35.832Z"
             },
             {
               "node_type": "item",
@@ -3872,7 +3872,7 @@
                 "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 190,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3935,7 +3935,7 @@
                 "open_issues": 0,
                 "owner": "InternRobotics",
                 "repo": "M3",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4455,7 +4455,7 @@
                 "open_issues": 4,
                 "owner": "rhgao",
                 "repo": "ObjectFolder",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "audio",
                   "dataset",
@@ -4483,7 +4483,7 @@
                 "open_issues": 4,
                 "owner": "rhgao",
                 "repo": "ObjectFolder",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "audio",
                   "dataset",
@@ -5435,7 +5435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:59:54.860Z",
+    "last_updated": "2026-11-22T03:13:49.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
