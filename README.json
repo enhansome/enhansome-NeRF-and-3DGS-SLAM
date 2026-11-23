@@ -802,7 +802,7 @@
                 "open_issues": 4,
                 "owner": "DrLi-Ming",
                 "repo": "DDN-SLAM",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -865,7 +865,7 @@
                 "open_issues": 2,
                 "owner": "eriksandstroem",
                 "repo": "Loopy-SLAM",
-                "stars": 164,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -2083,7 +2083,7 @@
                 "open_issues": 53,
                 "owner": "spla-tam",
                 "repo": "SplaTAM",
-                "stars": 2222,
+                "stars": 2223,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -2326,7 +2326,7 @@
                 "open_issues": 1,
                 "owner": "VladimirYugay",
                 "repo": "MAGiC-SLAM",
-                "stars": 343,
+                "stars": 344,
                 "topics": [
                   "computer-vision",
                   "cvpr2025",
@@ -2481,7 +2481,7 @@
                 "open_issues": 5,
                 "owner": "muskie82",
                 "repo": "4dtam",
-                "stars": 182,
+                "stars": 183,
                 "topics": [
                   "computer-vision",
                   "dynamic-scenes",
@@ -4183,7 +4183,7 @@
                 "open_issues": 0,
                 "owner": "edward62740",
                 "repo": "Facet-SLAM",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-11-20T04:00:11.252Z"
@@ -4511,7 +4511,7 @@
                 "open_issues": 4,
                 "owner": "UT-Austin-RPL",
                 "repo": "GIGA",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "3d-reconstruction",
                   "affordance",
@@ -5435,7 +5435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:13:49.778Z",
+    "last_updated": "2026-11-23T03:44:28.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
