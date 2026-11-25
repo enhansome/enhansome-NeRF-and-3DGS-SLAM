@@ -67,7 +67,7 @@
             "open_issues": 126,
             "owner": "hbb1",
             "repo": "2d-gaussian-splatting",
-            "stars": 3344,
+            "stars": 3345,
             "topics": [
               "gaussian-splatting",
               "novel-view-synthesis",
@@ -2164,7 +2164,7 @@
                 "open_issues": 38,
                 "owner": "HuajianUP",
                 "repo": "Photo-SLAM",
-                "stars": 784,
+                "stars": 785,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3784,7 +3784,7 @@
                 "open_issues": 38,
                 "owner": "APRIL-ZJU",
                 "repo": "Gaussian-LIC",
-                "stars": 694,
+                "stars": 695,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -3893,7 +3893,7 @@
                 "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "2DGS-SLAM",
-                "stars": 191,
+                "stars": 192,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -4127,6 +4127,27 @@
             },
             {
               "node_type": "item",
+              "title": "Facet-SLAM: Real-Time Triangle Splatting SLAM, arXiv, 2026. [Paper",
+              "description": "] [Code] [Website]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Real-Time Triangle Splatting SLAM",
+                "homepage": null,
+                "id": 1462415095,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-19T23:22:05Z",
+                "open_issues": 0,
+                "owner": "edward62740",
+                "repo": "Facet-SLAM",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T04:00:11.252Z"
+            },
+            {
+              "node_type": "item",
               "title": "CoMA-SLAM: Collaborative Multi-Agent Gaussian SLAM with Geometric Consistency, AAAI, 2026. [Paper",
               "description": "npu-chenlin/CoMA-SLAM",
               "children": [],
@@ -4166,27 +4187,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Facet-SLAM: Real-Time Triangle Splatting SLAM, arXiv, 2026. [Paper",
-              "description": "] [Code] [Website]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Real-Time Triangle Splatting SLAM",
-                "homepage": null,
-                "id": 1462415095,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-19T23:22:05Z",
-                "open_issues": 0,
-                "owner": "edward62740",
-                "repo": "Facet-SLAM",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-11-20T04:00:11.252Z"
             },
             {
               "node_type": "item",
@@ -5441,7 +5441,7 @@
                 "open_issues": 19,
                 "owner": "hku-mars",
                 "repo": "GS-SDF",
-                "stars": 550,
+                "stars": 551,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:01.585Z"
@@ -5456,7 +5456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:58:20.127Z",
+    "last_updated": "2026-11-25T05:27:12.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
@@ -5464,7 +5464,7 @@
       "id": 575786486,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-23T14:42:53Z",
+      "last_commit": "2026-11-25T01:50:28Z",
       "open_issues": 0,
       "owner": "3D-Vision-World",
       "repo": "awesome-NeRF-and-3DGS-SLAM",
@@ -5480,7 +5480,7 @@
         "vslam"
       ]
     },
-    "original_repository_sha": "34bee5f34e9b7d457998d1ff81ea13ba7c3ee57e",
+    "original_repository_sha": "8de57546822683349f300b67cde9e0b3facd86d2",
     "enhanced_repository": "enhansome/enhansome-NeRF-and-3DGS-SLAM",
     "enhanced_repository_description": null,
     "title": "awesome-NeRF-and-3DGS-SLAM with stars"
